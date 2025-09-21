@@ -8,5 +8,8 @@
 int main(){
     printf("Hello World!");
 
+    std::cout<< "Kien Phong" << std::endl;
+    std::cout<< "2003" << std::endl;
+
     return 0;
 }

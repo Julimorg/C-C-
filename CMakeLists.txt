@@ -8,3 +8,11 @@ include_directories(Basic)
 add_executable(Cpp_and_C__
         Basic/HelloWorld.cpp
         Basic/HelloWorld.h)
+
+add_executable(Variables
+        Basic/Variables.cpp
+        Basic/Variables.h)
+
+add_executable(Namespace
+        Basic/Namespace.cpp
+        Basic/Namespace.h)

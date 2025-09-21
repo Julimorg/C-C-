@@ -1,3 +1,5 @@
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Cpp_and_C__.dir
+F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Variables.dir
+F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Namespace.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/edit_cache.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
