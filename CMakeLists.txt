@@ -16,3 +16,27 @@ add_executable(Variables
 add_executable(Namespace
         Basic/Namespace.cpp
         Basic/Namespace.h)
+
+
+add_executable(InputOutPut
+        Basic/InputOutPut.cpp
+        Basic/InputOutPut.h)
+
+# HackerRank
+add_executable(BasicDataTypes
+        HackerRank/BasicDataTypes.cpp
+        HackerRank/BasicDataTypes.h)
+
+add_executable(ConditionalStatements
+        HackerRank/ConditionalStatements.cpp
+        HackerRank/ConditionalStatements.h)
+
+add_executable(ForLoop
+        HackerRank/ForLoop.cpp
+        HackerRank/ForLoop.h)
+
+add_executable(Function
+        HackerRank/Function.cpp
+        HackerRank/Function.h)
+
+

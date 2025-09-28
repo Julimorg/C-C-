@@ -142,6 +142,176 @@ build Namespace.exe: CXX_EXECUTABLE_LINKER__Namespace_Debug CMakeFiles/Namespace
   TARGET_IMPLIB = libNamespace.dll.a
   TARGET_PDB = Namespace.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target InputOutPut
+
+
+#############################################
+# Order-only phony target for InputOutPut
+
+build cmake_object_order_depends_target_InputOutPut: phony || CMakeFiles/InputOutPut.dir
+
+build CMakeFiles/InputOutPut.dir/Basic/InputOutPut.cpp.obj: CXX_COMPILER__InputOutPut_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Basic/InputOutPut.cpp || cmake_object_order_depends_target_InputOutPut
+  DEP_FILE = CMakeFiles\InputOutPut.dir\Basic\InputOutPut.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\InputOutPut.dir
+  OBJECT_FILE_DIR = CMakeFiles\InputOutPut.dir\Basic
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target InputOutPut
+
+
+#############################################
+# Link the executable InputOutPut.exe
+
+build InputOutPut.exe: CXX_EXECUTABLE_LINKER__InputOutPut_Debug CMakeFiles/InputOutPut.dir/Basic/InputOutPut.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\InputOutPut.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = InputOutPut.exe
+  TARGET_IMPLIB = libInputOutPut.dll.a
+  TARGET_PDB = InputOutPut.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target BasicDataTypes
+
+
+#############################################
+# Order-only phony target for BasicDataTypes
+
+build cmake_object_order_depends_target_BasicDataTypes: phony || CMakeFiles/BasicDataTypes.dir
+
+build CMakeFiles/BasicDataTypes.dir/HackerRank/BasicDataTypes.cpp.obj: CXX_COMPILER__BasicDataTypes_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/HackerRank/BasicDataTypes.cpp || cmake_object_order_depends_target_BasicDataTypes
+  DEP_FILE = CMakeFiles\BasicDataTypes.dir\HackerRank\BasicDataTypes.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\BasicDataTypes.dir
+  OBJECT_FILE_DIR = CMakeFiles\BasicDataTypes.dir\HackerRank
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BasicDataTypes
+
+
+#############################################
+# Link the executable BasicDataTypes.exe
+
+build BasicDataTypes.exe: CXX_EXECUTABLE_LINKER__BasicDataTypes_Debug CMakeFiles/BasicDataTypes.dir/HackerRank/BasicDataTypes.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\BasicDataTypes.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BasicDataTypes.exe
+  TARGET_IMPLIB = libBasicDataTypes.dll.a
+  TARGET_PDB = BasicDataTypes.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ConditionalStatements
+
+
+#############################################
+# Order-only phony target for ConditionalStatements
+
+build cmake_object_order_depends_target_ConditionalStatements: phony || CMakeFiles/ConditionalStatements.dir
+
+build CMakeFiles/ConditionalStatements.dir/HackerRank/ConditionalStatements.cpp.obj: CXX_COMPILER__ConditionalStatements_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/HackerRank/ConditionalStatements.cpp || cmake_object_order_depends_target_ConditionalStatements
+  DEP_FILE = CMakeFiles\ConditionalStatements.dir\HackerRank\ConditionalStatements.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\ConditionalStatements.dir
+  OBJECT_FILE_DIR = CMakeFiles\ConditionalStatements.dir\HackerRank
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ConditionalStatements
+
+
+#############################################
+# Link the executable ConditionalStatements.exe
+
+build ConditionalStatements.exe: CXX_EXECUTABLE_LINKER__ConditionalStatements_Debug CMakeFiles/ConditionalStatements.dir/HackerRank/ConditionalStatements.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ConditionalStatements.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ConditionalStatements.exe
+  TARGET_IMPLIB = libConditionalStatements.dll.a
+  TARGET_PDB = ConditionalStatements.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ForLoop
+
+
+#############################################
+# Order-only phony target for ForLoop
+
+build cmake_object_order_depends_target_ForLoop: phony || CMakeFiles/ForLoop.dir
+
+build CMakeFiles/ForLoop.dir/HackerRank/ForLoop.cpp.obj: CXX_COMPILER__ForLoop_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/HackerRank/ForLoop.cpp || cmake_object_order_depends_target_ForLoop
+  DEP_FILE = CMakeFiles\ForLoop.dir\HackerRank\ForLoop.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\ForLoop.dir
+  OBJECT_FILE_DIR = CMakeFiles\ForLoop.dir\HackerRank
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ForLoop
+
+
+#############################################
+# Link the executable ForLoop.exe
+
+build ForLoop.exe: CXX_EXECUTABLE_LINKER__ForLoop_Debug CMakeFiles/ForLoop.dir/HackerRank/ForLoop.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ForLoop.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ForLoop.exe
+  TARGET_IMPLIB = libForLoop.dll.a
+  TARGET_PDB = ForLoop.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Function
+
+
+#############################################
+# Order-only phony target for Function
+
+build cmake_object_order_depends_target_Function: phony || CMakeFiles/Function.dir
+
+build CMakeFiles/Function.dir/HackerRank/Function.cpp.obj: CXX_COMPILER__Function_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/HackerRank/Function.cpp || cmake_object_order_depends_target_Function
+  DEP_FILE = CMakeFiles\Function.dir\HackerRank\Function.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\Function.dir
+  OBJECT_FILE_DIR = CMakeFiles\Function.dir\HackerRank
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Function
+
+
+#############################################
+# Link the executable Function.exe
+
+build Function.exe: CXX_EXECUTABLE_LINKER__Function_Debug CMakeFiles/Function.dir/HackerRank/Function.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Function.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Function.exe
+  TARGET_IMPLIB = libFunction.dll.a
+  TARGET_PDB = Function.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -168,7 +338,17 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build BasicDataTypes: phony BasicDataTypes.exe
+
+build ConditionalStatements: phony ConditionalStatements.exe
+
 build Cpp_and_C__: phony Cpp_and_C__.exe
+
+build ForLoop: phony ForLoop.exe
+
+build Function: phony Function.exe
+
+build InputOutPut: phony InputOutPut.exe
 
 build Namespace: phony Namespace.exe
 
@@ -182,7 +362,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe
 
 # =============================================================================
 # Built-in targets
