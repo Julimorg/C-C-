@@ -312,6 +312,176 @@ build Function.exe: CXX_EXECUTABLE_LINKER__Function_Debug CMakeFiles/Function.di
   TARGET_IMPLIB = libFunction.dll.a
   TARGET_PDB = Function.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target BasicArray
+
+
+#############################################
+# Order-only phony target for BasicArray
+
+build cmake_object_order_depends_target_BasicArray: phony || CMakeFiles/BasicArray.dir
+
+build CMakeFiles/BasicArray.dir/DataStructureAndAlgorithm/Array/BasicArray.cpp.obj: CXX_COMPILER__BasicArray_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Array/BasicArray.cpp || cmake_object_order_depends_target_BasicArray
+  DEP_FILE = CMakeFiles\BasicArray.dir\DataStructureAndAlgorithm\Array\BasicArray.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\BasicArray.dir
+  OBJECT_FILE_DIR = CMakeFiles\BasicArray.dir\DataStructureAndAlgorithm\Array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BasicArray
+
+
+#############################################
+# Link the executable BasicArray.exe
+
+build BasicArray.exe: CXX_EXECUTABLE_LINKER__BasicArray_Debug CMakeFiles/BasicArray.dir/DataStructureAndAlgorithm/Array/BasicArray.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\BasicArray.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BasicArray.exe
+  TARGET_IMPLIB = libBasicArray.dll.a
+  TARGET_PDB = BasicArray.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ArrayDefaultInput
+
+
+#############################################
+# Order-only phony target for ArrayDefaultInput
+
+build cmake_object_order_depends_target_ArrayDefaultInput: phony || CMakeFiles/ArrayDefaultInput.dir
+
+build CMakeFiles/ArrayDefaultInput.dir/DataStructureAndAlgorithm/Array/ArrayDefaultInput.cpp.obj: CXX_COMPILER__ArrayDefaultInput_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Array/ArrayDefaultInput.cpp || cmake_object_order_depends_target_ArrayDefaultInput
+  DEP_FILE = CMakeFiles\ArrayDefaultInput.dir\DataStructureAndAlgorithm\Array\ArrayDefaultInput.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\ArrayDefaultInput.dir
+  OBJECT_FILE_DIR = CMakeFiles\ArrayDefaultInput.dir\DataStructureAndAlgorithm\Array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ArrayDefaultInput
+
+
+#############################################
+# Link the executable ArrayDefaultInput.exe
+
+build ArrayDefaultInput.exe: CXX_EXECUTABLE_LINKER__ArrayDefaultInput_Debug CMakeFiles/ArrayDefaultInput.dir/DataStructureAndAlgorithm/Array/ArrayDefaultInput.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ArrayDefaultInput.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ArrayDefaultInput.exe
+  TARGET_IMPLIB = libArrayDefaultInput.dll.a
+  TARGET_PDB = ArrayDefaultInput.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ArrayDynamicInput
+
+
+#############################################
+# Order-only phony target for ArrayDynamicInput
+
+build cmake_object_order_depends_target_ArrayDynamicInput: phony || CMakeFiles/ArrayDynamicInput.dir
+
+build CMakeFiles/ArrayDynamicInput.dir/DataStructureAndAlgorithm/Array/ArrayDynamicInput.cpp.obj: CXX_COMPILER__ArrayDynamicInput_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Array/ArrayDynamicInput.cpp || cmake_object_order_depends_target_ArrayDynamicInput
+  DEP_FILE = CMakeFiles\ArrayDynamicInput.dir\DataStructureAndAlgorithm\Array\ArrayDynamicInput.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\ArrayDynamicInput.dir
+  OBJECT_FILE_DIR = CMakeFiles\ArrayDynamicInput.dir\DataStructureAndAlgorithm\Array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ArrayDynamicInput
+
+
+#############################################
+# Link the executable ArrayDynamicInput.exe
+
+build ArrayDynamicInput.exe: CXX_EXECUTABLE_LINKER__ArrayDynamicInput_Debug CMakeFiles/ArrayDynamicInput.dir/DataStructureAndAlgorithm/Array/ArrayDynamicInput.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ArrayDynamicInput.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ArrayDynamicInput.exe
+  TARGET_IMPLIB = libArrayDynamicInput.dll.a
+  TARGET_PDB = ArrayDynamicInput.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ArrayDynamicWithFunction
+
+
+#############################################
+# Order-only phony target for ArrayDynamicWithFunction
+
+build cmake_object_order_depends_target_ArrayDynamicWithFunction: phony || CMakeFiles/ArrayDynamicWithFunction.dir
+
+build CMakeFiles/ArrayDynamicWithFunction.dir/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp.obj: CXX_COMPILER__ArrayDynamicWithFunction_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp || cmake_object_order_depends_target_ArrayDynamicWithFunction
+  DEP_FILE = CMakeFiles\ArrayDynamicWithFunction.dir\DataStructureAndAlgorithm\Array\ArrayDynamicWithFunction.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\ArrayDynamicWithFunction.dir
+  OBJECT_FILE_DIR = CMakeFiles\ArrayDynamicWithFunction.dir\DataStructureAndAlgorithm\Array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ArrayDynamicWithFunction
+
+
+#############################################
+# Link the executable ArrayDynamicWithFunction.exe
+
+build ArrayDynamicWithFunction.exe: CXX_EXECUTABLE_LINKER__ArrayDynamicWithFunction_Debug CMakeFiles/ArrayDynamicWithFunction.dir/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ArrayDynamicWithFunction.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ArrayDynamicWithFunction.exe
+  TARGET_IMPLIB = libArrayDynamicWithFunction.dll.a
+  TARGET_PDB = ArrayDynamicWithFunction.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Bai1
+
+
+#############################################
+# Order-only phony target for Bai1
+
+build cmake_object_order_depends_target_Bai1: phony || CMakeFiles/Bai1.dir
+
+build CMakeFiles/Bai1.dir/Tech28/Practice/Bai1.cpp.obj: CXX_COMPILER__Bai1_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/Practice/Bai1.cpp || cmake_object_order_depends_target_Bai1
+  DEP_FILE = CMakeFiles\Bai1.dir\Tech28\Practice\Bai1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\Bai1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Bai1.dir\Tech28\Practice
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Bai1
+
+
+#############################################
+# Link the executable Bai1.exe
+
+build Bai1.exe: CXX_EXECUTABLE_LINKER__Bai1_Debug CMakeFiles/Bai1.dir/Tech28/Practice/Bai1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Bai1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Bai1.exe
+  TARGET_IMPLIB = libBai1.dll.a
+  TARGET_PDB = Bai1.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -338,6 +508,16 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build ArrayDefaultInput: phony ArrayDefaultInput.exe
+
+build ArrayDynamicInput: phony ArrayDynamicInput.exe
+
+build ArrayDynamicWithFunction: phony ArrayDynamicWithFunction.exe
+
+build Bai1: phony Bai1.exe
+
+build BasicArray: phony BasicArray.exe
+
 build BasicDataTypes: phony BasicDataTypes.exe
 
 build ConditionalStatements: phony ConditionalStatements.exe
@@ -362,7 +542,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDefaultInput.exe ArrayDynamicInput.exe ArrayDynamicWithFunction.exe Bai1.exe
 
 # =============================================================================
 # Built-in targets

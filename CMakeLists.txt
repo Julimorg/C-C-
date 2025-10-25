@@ -39,4 +39,26 @@ add_executable(Function
         HackerRank/Function.cpp
         HackerRank/Function.h)
 
+#Data Structure and Algorithm
+add_executable(BasicArray
+        DataStructureAndAlgorithm/Array/BasicArray.cpp
+        DataStructureAndAlgorithm/Array/BasicArray.h)
+
+add_executable(ArrayDefaultInput
+        DataStructureAndAlgorithm/Array/ArrayDefaultInput.cpp
+        DataStructureAndAlgorithm/Array/ArrayDefaultInput.h)
+
+add_executable(ArrayDynamicInput
+        DataStructureAndAlgorithm/Array/ArrayDynamicInput.cpp
+        DataStructureAndAlgorithm/Array/ArrayDynamicInput.h)
+
+add_executable(ArrayDynamicWithFunction
+        DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp
+        DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.h)
+
+#28tech
+add_executable(Bai1
+        Tech28/Practice/Bai1.cpp
+        Tech28/Practice/Bai1.h)
+
 

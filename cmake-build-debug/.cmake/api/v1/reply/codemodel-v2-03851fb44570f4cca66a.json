@@ -22,7 +22,12 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
 					]
 				}
 			],
@@ -44,12 +49,52 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ArrayDefaultInput::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArrayDefaultInput-Debug-7e8aa47d6de57f54b4c4.json",
+					"name" : "ArrayDefaultInput",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ArrayDynamicInput::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArrayDynamicInput-Debug-7b3e18629f4feb23e32f.json",
+					"name" : "ArrayDynamicInput",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ArrayDynamicWithFunction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ArrayDynamicWithFunction-Debug-f8f0fd1bea7ee1889d5e.json",
+					"name" : "ArrayDynamicWithFunction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bai1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bai1-Debug-2b24bb2dfad1fca97805.json",
+					"name" : "Bai1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BasicArray::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BasicArray-Debug-fa0cee1d8bd7ed847ccc.json",
+					"name" : "BasicArray",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "BasicDataTypes::@6890427a1f51a3e7e1df",

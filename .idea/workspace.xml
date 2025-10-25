@@ -13,12 +13,17 @@
     <generated>
       <config projectName="Cpp_and_C__" targetName="Variables" />
       <config projectName="Cpp_and_C__" targetName="Function" />
+      <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
+      <config projectName="Cpp_and_C__" targetName="ArrayDefaultInput" />
+      <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
+      <config projectName="Cpp_and_C__" targetName="BasicArray" />
       <config projectName="Cpp_and_C__" targetName="ForLoop" />
       <config projectName="Cpp_and_C__" targetName="InputOutPut" />
       <config projectName="Cpp_and_C__" targetName="BasicDataTypes" />
+      <config projectName="Cpp_and_C__" targetName="ArrayDynamicInput" />
       <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
+      <config projectName="Cpp_and_C__" targetName="Bai1" />
       <config projectName="Cpp_and_C__" targetName="Namespace" />
-      <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -29,11 +34,13 @@
   <component name="ChangeListManager">
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/HelloWorld.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/HelloWorld.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-0df5e9a9c5888f33ec7c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-09-21T07-07-05-0803.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-7f4c20db0e60e94118d2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-09-28T07-01-28-0500.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp_and_C__.dir/Basic/HelloWorld.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Cpp_and_C__.dir/Basic/HelloWorld.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
@@ -66,6 +73,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;CMake Application.Bai1.executor&quot;: &quot;Run&quot;,
     &quot;CMake Application.BasicDataTypes.executor&quot;: &quot;Run&quot;,
     &quot;CMake Application.ConditionalStatements.executor&quot;: &quot;Run&quot;,
     &quot;CMake Application.Cpp_and_C__.executor&quot;: &quot;Run&quot;,
@@ -91,9 +99,39 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="CMake Application.Function">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.ArrayDynamicWithFunction">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
+    </configuration>
+    <configuration name="ArrayDefaultInput" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="ArrayDefaultInput" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="ArrayDefaultInput">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDynamicInput" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="ArrayDynamicInput" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="ArrayDynamicInput">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDynamicWithFunction" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="ArrayDynamicWithFunction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="ArrayDynamicWithFunction">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bai1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Bai1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Bai1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicArray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="BasicArray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="BasicArray">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration name="BasicDataTypes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="BasicDataTypes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="BasicDataTypes">
       <method v="2">
@@ -136,6 +174,12 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Debug.Cpp_and_C__" />
+      <item itemvalue="CMake Application.ArrayDefaultInput" />
+      <item itemvalue="CMake Application.ArrayDynamicInput" />
+      <item itemvalue="CMake Application.ArrayDynamicWithFunction" />
+      <item itemvalue="CMake Application.Bai1" />
+      <item itemvalue="CMake Application.BasicArray" />
       <item itemvalue="CMake Application.BasicDataTypes" />
       <item itemvalue="CMake Application.ConditionalStatements" />
       <item itemvalue="CMake Application.Cpp_and_C__" />
@@ -144,7 +188,6 @@
       <item itemvalue="CMake Application.InputOutPut" />
       <item itemvalue="CMake Application.Namespace" />
       <item itemvalue="CMake Application.Variables" />
-      <item itemvalue="CMake Debug.Cpp_and_C__" />
     </list>
     <recent_temporary>
       <list>
@@ -165,6 +208,10 @@
       <workItem from="1758437314664" duration="2071000" />
       <workItem from="1759035063388" duration="7858000" />
       <workItem from="1759044334550" duration="1607000" />
+      <workItem from="1760854173464" duration="2378000" />
+      <workItem from="1761368319913" duration="3317000" />
+      <workItem from="1761375040450" duration="1947000" />
+      <workItem from="1761403782601" duration="9000" />
     </task>
     <servers />
   </component>

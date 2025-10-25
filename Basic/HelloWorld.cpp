@@ -6,7 +6,7 @@
 #include "iostream"
 
 int main(){
-    printf("Hello World!");
+    std::cout<<"Hello World"<<std::endl;
 
     std::cout<< "Kien Phong" << std::endl;
     std::cout<< "2003" << std::endl;
