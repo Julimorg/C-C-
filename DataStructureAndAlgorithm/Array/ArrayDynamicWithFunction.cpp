@@ -1,30 +1,43 @@
-//
-// Created by acer on 10/25/2025.
-//
+#include <bits/stdc++.h>
 
-#include "ArrayDynamicWithFunction.h"
-#include "iostream"
+
+
+typedef long long ll;
+
+
+
 using namespace std;
 
-void input(int a[], int n){
-    for(int i = 0;  i<=n ; i++){
-        cout << "a[" << i << "] = ";g
-        cin >> a[i];
-    }
-}
 
-int output(int a[], int n) {
-    cout << "Mang vua nhap : ";
-    for(int i = 0; i < n; i++){
-        cout << a[i] << " ";
-    }
-}
 
-int main(){
-    int n, a[n];
-    printf("Nhap n : ");
+int main()
+
+{
+
+    ios_base::sync_with_stdio(false);
+
+    cin.tie(NULL);
+
+    int n;
+
     cin >> n;
-    input(a, n);
-    output(a, n);
+
+    set<int> se;
+
+    for (int i = 0; i < n; i++)
+
+    {
+
+        int x;
+
+        cin >> x;
+
+        se.insert(x);
+
+    }
+
+    cout << se.size();
+
     return 0;
+
 }

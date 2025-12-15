@@ -7,8 +7,6 @@ F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Conditi
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/ForLoop.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Function.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/BasicArray.dir
-F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/ArrayDefaultInput.dir
-F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/ArrayDynamicInput.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/ArrayDynamicWithFunction.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Bai1.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/edit_cache.dir
