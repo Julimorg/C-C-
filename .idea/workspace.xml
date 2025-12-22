@@ -12,16 +12,17 @@
   <component name="CMakeRunConfigurationManager">
     <generated>
       <config projectName="Cpp_and_C__" targetName="Variables" />
-      <config projectName="Cpp_and_C__" targetName="Function" />
-      <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
-      <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
       <config projectName="Cpp_and_C__" targetName="BasicArray" />
+      <config projectName="Cpp_and_C__" targetName="Function" />
       <config projectName="Cpp_and_C__" targetName="ForLoop" />
+      <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
       <config projectName="Cpp_and_C__" targetName="InputOutPut" />
       <config projectName="Cpp_and_C__" targetName="BasicDataTypes" />
       <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
       <config projectName="Cpp_and_C__" targetName="Bai1" />
       <config projectName="Cpp_and_C__" targetName="Namespace" />
+      <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
+      <config projectName="Cpp_and_C__" targetName="BasicVector" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -33,23 +34,10 @@
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/ArrayDefaultInput.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/ArrayDefaultInput.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/ArrayDynamicInput.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/ArrayDynamicInput.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/BasicArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/BasicArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-03851fb44570f4cca66a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-10-25T07-00-10-0809.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ArrayDefaultInput-Debug-7e8aa47d6de57f54b4c4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ArrayDynamicInput-Debug-7b3e18629f4feb23e32f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-ArrayDynamicWithFunction-Debug-f8f0fd1bea7ee1889d5e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai1-Debug-2b24bb2dfad1fca97805.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BasicArray.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BasicArray.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
@@ -84,6 +72,7 @@
     "CMake Application.Bai1.executor": "Run",
     "CMake Application.BasicArray.executor": "Run",
     "CMake Application.BasicDataTypes.executor": "Run",
+    "CMake Application.BasicVector.executor": "Run",
     "CMake Application.ConditionalStatements.executor": "Run",
     "CMake Application.Cpp_and_C__.executor": "Run",
     "CMake Application.ForLoop.executor": "Run",
@@ -113,12 +102,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.BasicArray">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.BasicVector">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -138,6 +122,11 @@
       </method>
     </configuration>
     <configuration name="BasicDataTypes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="BasicDataTypes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="BasicDataTypes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicVector" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="BasicVector" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="BasicVector">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -177,11 +166,17 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.ArrayDynamicWithFunction" />
       <item itemvalue="CMake Application.Bai1" />
       <item itemvalue="CMake Application.BasicArray" />
       <item itemvalue="CMake Application.BasicDataTypes" />
+      <item itemvalue="CMake Application.BasicVector" />
       <item itemvalue="CMake Application.ConditionalStatements" />
       <item itemvalue="CMake Application.Cpp_and_C__" />
       <item itemvalue="CMake Application.ForLoop" />
@@ -215,7 +210,8 @@
       <workItem from="1761375040450" duration="1947000" />
       <workItem from="1761403782601" duration="56000" />
       <workItem from="1764595830774" duration="4066000" />
-      <workItem from="1765808248264" duration="5992000" />
+      <workItem from="1765808248264" duration="6634000" />
+      <workItem from="1766403919855" duration="7890000" />
     </task>
     <servers />
   </component>

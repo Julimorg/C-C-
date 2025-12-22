@@ -120,7 +120,7 @@ int main(){
 
     // ==========================================
     // PHẦN 5: TÌM PHẦN TỬ LỚN NHẤT
-    // ==========================================
+    //    // ==========================================
 
     cout << " Tim Max " << endl;
     int nMax;
@@ -134,7 +134,6 @@ int main(){
         cout << "a [" << i << "] =" ;
         cin >> arrMax[i];
     }
-
 
     cout << " Cach tu suy nghi la so sanh lien ke " << endl;
     int MAX1 = arrMax[0];
@@ -166,11 +165,114 @@ int main(){
             }
     }
 
-    cout << "Output Max voi cach 2: " << MAX2 << " vi tri max: " << vitriMax;
+    cout << "Output Max voi cach 2: " << MAX2 << " vi tri max: " << vitriMax << endl;
 
 
+    // ==========================================
+    // PHẦN 6: TÌM PHẦN TỬ NHỎ NHẤT
+    // ==========================================
+
+    cout << " =========== Tim Min ===========" << endl;
+
+    int nMin;
+    int arrMin[100];
 
 
+    cout << "Input N : " ;
+    cin >> nMin;
+
+    cout << "Nhap Array de tim MIN " << endl;
+    for ( int i = 0 ; i < nMin; i++ ) {
+        cout << "a [" << i << "] =" ;
+        cin >> arrMin[i];
+    }
+
+    int min = arrMin[0];
+    int location = 0;
+    for ( int i = 0 ; i < nMin ; i++) {
+        if ( min > arrMin[i]) {
+            min = arrMin[i];
+            location = i;
+        }
+    }
+    cout << "Min: " << min << endl;
+    cout << "Location:  " << location << endl;
+
+    cout << " =========== Tim Min Max va Index ===========" << endl;
+
+    int nEle;
+    int arrEle[100];
+
+    cout << "Input N : " ;
+    cin >> nEle;
+
+    cout << "Nhap Array de tim MIN va MAX " << endl;
+    for ( int i = 0 ; i < nEle; i++ ) {
+        cout << "a [" << i << "] =" ;
+        cin >> arrEle[i];
+    }
+
+    int minEle = arrEle[0];
+    int locationMin = 0;
+    int maxEle = arrEle[0];
+    int locationMax = 0;
+    for (int i = 0; i < nEle ; i++){
+        if ( arrEle[i] > maxEle){
+            maxEle = arrEle[i];
+            locationMax = i;
+        }
+        if (  minEle > arrEle[i]){
+            minEle = arrEle[i];
+            locationMin = i;
+        }
+    }
+
+    cout << "Max : "  << maxEle << endl;
+    cout << "Location Max : " << locationMax << endl;
+
+    cout << "Min: " << minEle << endl;
+    cout << "Location Min : " << locationMin << endl;
+
+
+    cout << " =========== Tim Min Max 2nd ===========" << endl;
+
+    int nEle2;
+    int arrEle2[100];
+
+    cout << "Input N : " ;
+    cin >> nEle2;
+
+    cout << "Nhap Array de tim 2nd Min va Max " << endl;
+    for ( int i = 0 ; i < nEle2; i++ ) {
+        cout << "a [" << i << "] =" ;
+        cin >> arrEle2[i];
+    }
+
+    int maxElev1 = arrEle2[0];
+    int maxElev2 = arrEle2[0];
+    int minElev1 = arrEle2[0];
+    int minElev2 = arrEle2[0];
+
+    for( int i = 1 ; i < nEle2 ; i++ ){
+        if ( arrEle2[i] > maxElev1) {
+            maxElev2 = maxElev1;
+            maxElev1 = arrEle2[i];
+        }else if ( arrEle2[i] > maxElev2  && arrEle2[i] != maxElev1){
+            maxElev2 = arrEle2[i];
+        }
+
+        if( minElev1 > arrEle2[i]){
+            minElev2 = minElev1;
+            minElev1 = arrEle2[i];
+        }else if (  minElev2 > arrEle2[i] && arrEle2[i] != minElev1 ) {
+            minElev2 = arrEle2[i];
+        }
+    };
+    cout << "Max: " << maxElev1 << endl;
+    cout << "Max2: " << maxElev2 << endl;
+
+    cout << "Min: " << minElev1 << endl;
+    cout << "Min2: " << minElev2 << endl;
 
 
     return 0;

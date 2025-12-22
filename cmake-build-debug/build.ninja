@@ -381,6 +381,40 @@ build ArrayDynamicWithFunction.exe: CXX_EXECUTABLE_LINKER__ArrayDynamicWithFunct
   TARGET_PDB = ArrayDynamicWithFunction.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target BasicVector
+
+
+#############################################
+# Order-only phony target for BasicVector
+
+build cmake_object_order_depends_target_BasicVector: phony || CMakeFiles/BasicVector.dir
+
+build CMakeFiles/BasicVector.dir/DataStructureAndAlgorithm/Vector/BasicVector.cpp.obj: CXX_COMPILER__BasicVector_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Vector/BasicVector.cpp || cmake_object_order_depends_target_BasicVector
+  DEP_FILE = CMakeFiles\BasicVector.dir\DataStructureAndAlgorithm\Vector\BasicVector.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\BasicVector.dir
+  OBJECT_FILE_DIR = CMakeFiles\BasicVector.dir\DataStructureAndAlgorithm\Vector
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BasicVector
+
+
+#############################################
+# Link the executable BasicVector.exe
+
+build BasicVector.exe: CXX_EXECUTABLE_LINKER__BasicVector_Debug CMakeFiles/BasicVector.dir/DataStructureAndAlgorithm/Vector/BasicVector.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\BasicVector.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BasicVector.exe
+  TARGET_IMPLIB = libBasicVector.dll.a
+  TARGET_PDB = BasicVector.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Bai1
 
 
@@ -448,6 +482,8 @@ build BasicArray: phony BasicArray.exe
 
 build BasicDataTypes: phony BasicDataTypes.exe
 
+build BasicVector: phony BasicVector.exe
+
 build ConditionalStatements: phony ConditionalStatements.exe
 
 build Cpp_and_C__: phony Cpp_and_C__.exe
@@ -470,7 +506,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe Bai1.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe Bai1.exe
 
 # =============================================================================
 # Built-in targets

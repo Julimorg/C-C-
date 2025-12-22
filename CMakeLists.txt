@@ -49,6 +49,10 @@ add_executable(ArrayDynamicWithFunction
         DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp
         DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.h)
 
+add_executable(BasicVector
+        DataStructureAndAlgorithm/Vector/BasicVector.cpp
+        DataStructureAndAlgorithm/Vector/BasicVector.h)
+
 #28tech
 add_executable(Bai1
         Tech28/Practice/Bai1.cpp
