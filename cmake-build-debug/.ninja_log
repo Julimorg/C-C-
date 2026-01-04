@@ -1,6 +1,7 @@
 # ninja log v5
 552	815	7801426924184633	Namespace.exe	629830fa824de501
 5	1234	7825575305312678	CMakeFiles/Cpp_and_C__.dir/Basic/HelloWorld.cpp.obj	ff5a2a0efbe844cd
+0	714	7892117102682614	CMakeFiles/PraticeMultiSet.dir/DataStructureAndAlgorithm/Set/PraticeMultiSet.cpp.obj	3878b1c980d19674
 542	900	7807484756652483	Function.exe	b5741a22a2b627fc
 1234	2588	7825575318779393	Cpp_and_C__.exe	a7d6628db9d6b703
 9	552	7801426921646999	CMakeFiles/Namespace.dir/Basic/Namespace.cpp.obj	f74ae5efdbf6250b
@@ -9,6 +10,7 @@
 5	541	7807484753164944	CMakeFiles/Function.dir/HackerRank/Function.cpp.obj	aa048da68d0a0ea7
 4	591	7801410214829136	CMakeFiles/Variables.dir/Basic/Variables.cpp.obj	cbc9f0773395dcf2
 7	958	7807425296169110	CMakeFiles/InputOutPut.dir/Basic/InputOutPut.cpp.obj	4b5fdf7b6c90afc0
+3105	4159	7892117005161003	PracticeSet1.exe	e717dcf067a92c91
 960	1629	7807425302772695	InputOutPut.exe	342ac049d6106497
 7	745	7807434042120220	CMakeFiles/BasicDataTypes.dir/HackerRank/BasicDataTypes.cpp.obj	d739df0457611cf9
 746	1358	7807434048105326	BasicDataTypes.exe	cb0bd49e7f87f66f
@@ -18,14 +20,14 @@
 831	1239	7807459151836099	ForLoop.exe	bc9ac0a3c71e0f85
 5	426	7830767462566264	CMakeFiles/Bai1.dir/Tech28/Practice/Bai1.cpp.obj	4315d50d65beb42c
 427	658	7830767464778959	Bai1.exe	3aad73ef0ea84f55
-17	2335	7881164581444304	build.ninja	cb970a010a2daabd
+17	2335	7892128690460001	build.ninja	cb970a010a2daabd
 3	5114	7863044000850358	CMakeFiles/ArrayDynamicWithFunction.dir/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp.obj	7355256b7bd1a9bb
 612	1040	7881130869940231	BasicArray.exe	1f793ba08a0fb8f8
+3	2590	7881180312701002	CMakeFiles/BasicVector.dir/DataStructureAndAlgorithm/Vector/BasicVector.cpp.obj	c7580f38e0899ec0
 5122	7712	7863044027220580	ArrayDynamicWithFunction.exe	f7b2dd5161ac78a8
 7	610	7881130865755703	CMakeFiles/BasicArray.dir/DataStructureAndAlgorithm/Array/BasicArray.cpp.obj	3549cfe33bc531f2
-1	3359	7881177982523031	CMakeFiles/BasicVector.dir/DataStructureAndAlgorithm/Vector/BasicVector.cpp.obj	c7580f38e0899ec0
-3362	5706	7881178005728250	BasicVector.exe	74468a0ef2839da4
-35	3261	7881179922728691	CMakeFiles/BasicVector.dir/DataStructureAndAlgorithm/Vector/BasicVector.cpp.obj	c7580f38e0899ec0
-3262	3922	7881179929199711	BasicVector.exe	74468a0ef2839da4
-3	2590	7881180312701002	CMakeFiles/BasicVector.dir/DataStructureAndAlgorithm/Vector/BasicVector.cpp.obj	c7580f38e0899ec0
 2591	2988	7881180316550474	BasicVector.exe	74468a0ef2839da4
+23	2622	7881976254259573	CMakeFiles/BasicSet.dir/DataStructureAndAlgorithm/Set/BasicSet.cpp.obj	954d5f486971d8ad
+2623	3139	7881976259402299	BasicSet.exe	c7f6f3ba8caca02
+26	3104	7892116994634497	CMakeFiles/PracticeSet1.dir/DataStructureAndAlgorithm/Set/PracticeSet1.cpp.obj	b3fd6cef54692cb9
+715	1147	7892117107000510	PraticeMultiSet.exe	70b779e05ffda5fc

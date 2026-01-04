@@ -12,17 +12,20 @@
   <component name="CMakeRunConfigurationManager">
     <generated>
       <config projectName="Cpp_and_C__" targetName="Variables" />
-      <config projectName="Cpp_and_C__" targetName="BasicArray" />
       <config projectName="Cpp_and_C__" targetName="Function" />
-      <config projectName="Cpp_and_C__" targetName="ForLoop" />
       <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
+      <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
+      <config projectName="Cpp_and_C__" targetName="BasicVector" />
+      <config projectName="Cpp_and_C__" targetName="BasicArray" />
+      <config projectName="Cpp_and_C__" targetName="PraticeMultiSet" />
+      <config projectName="Cpp_and_C__" targetName="ForLoop" />
       <config projectName="Cpp_and_C__" targetName="InputOutPut" />
       <config projectName="Cpp_and_C__" targetName="BasicDataTypes" />
       <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
       <config projectName="Cpp_and_C__" targetName="Bai1" />
+      <config projectName="Cpp_and_C__" targetName="BasicSet" />
       <config projectName="Cpp_and_C__" targetName="Namespace" />
-      <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
-      <config projectName="Cpp_and_C__" targetName="BasicVector" />
+      <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -34,10 +37,14 @@
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/BasicArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Array/BasicArray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-ed24126152d90f66bb70.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-12-22T14-20-58-0762.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai1-Debug-c9cfa71d546fc42d151a.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BasicArray.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BasicArray.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
@@ -72,6 +79,7 @@
     "CMake Application.Bai1.executor": "Run",
     "CMake Application.BasicArray.executor": "Run",
     "CMake Application.BasicDataTypes.executor": "Run",
+    "CMake Application.BasicSet.executor": "Run",
     "CMake Application.BasicVector.executor": "Run",
     "CMake Application.ConditionalStatements.executor": "Run",
     "CMake Application.Cpp_and_C__.executor": "Run",
@@ -79,6 +87,8 @@
     "CMake Application.Function.executor": "Run",
     "CMake Application.InputOutPut.executor": "Run",
     "CMake Application.Namespace.executor": "Run",
+    "CMake Application.PracticeSet1.executor": "Run",
+    "CMake Application.PraticeMultiSet.executor": "Run",
     "CMake Application.Variables.executor": "Run",
     "CMake Debug.Cpp_and_C__.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -102,7 +112,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.BasicVector">
+  <component name="RunManager" selected="CMake Application.PraticeMultiSet">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -122,6 +132,16 @@
       </method>
     </configuration>
     <configuration name="BasicDataTypes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="BasicDataTypes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="BasicDataTypes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicMap" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="BasicMap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="BasicMap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicSet" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="BasicSet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="BasicSet">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -161,6 +181,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PracticeSet1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="PracticeSet1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="PracticeSet1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraticeMultiSet" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="PraticeMultiSet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="PraticeMultiSet">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Variables" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Variables">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -176,6 +206,8 @@
       <item itemvalue="CMake Application.Bai1" />
       <item itemvalue="CMake Application.BasicArray" />
       <item itemvalue="CMake Application.BasicDataTypes" />
+      <item itemvalue="CMake Application.BasicMap" />
+      <item itemvalue="CMake Application.BasicSet" />
       <item itemvalue="CMake Application.BasicVector" />
       <item itemvalue="CMake Application.ConditionalStatements" />
       <item itemvalue="CMake Application.Cpp_and_C__" />
@@ -183,6 +215,8 @@
       <item itemvalue="CMake Application.Function" />
       <item itemvalue="CMake Application.InputOutPut" />
       <item itemvalue="CMake Application.Namespace" />
+      <item itemvalue="CMake Application.PracticeSet1" />
+      <item itemvalue="CMake Application.PraticeMultiSet" />
       <item itemvalue="CMake Application.Variables" />
       <item itemvalue="CMake Debug.Cpp_and_C__" />
     </list>
@@ -211,7 +245,9 @@
       <workItem from="1761403782601" duration="56000" />
       <workItem from="1764595830774" duration="4066000" />
       <workItem from="1765808248264" duration="6634000" />
-      <workItem from="1766403919855" duration="7890000" />
+      <workItem from="1766403919855" duration="9095000" />
+      <workItem from="1766492465097" duration="2500000" />
+      <workItem from="1767504860233" duration="4565000" />
     </task>
     <servers />
   </component>

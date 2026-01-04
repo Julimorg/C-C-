@@ -415,6 +415,142 @@ build BasicVector.exe: CXX_EXECUTABLE_LINKER__BasicVector_Debug CMakeFiles/Basic
   TARGET_PDB = BasicVector.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target BasicSet
+
+
+#############################################
+# Order-only phony target for BasicSet
+
+build cmake_object_order_depends_target_BasicSet: phony || CMakeFiles/BasicSet.dir
+
+build CMakeFiles/BasicSet.dir/DataStructureAndAlgorithm/Set/BasicSet.cpp.obj: CXX_COMPILER__BasicSet_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Set/BasicSet.cpp || cmake_object_order_depends_target_BasicSet
+  DEP_FILE = CMakeFiles\BasicSet.dir\DataStructureAndAlgorithm\Set\BasicSet.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\BasicSet.dir
+  OBJECT_FILE_DIR = CMakeFiles\BasicSet.dir\DataStructureAndAlgorithm\Set
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BasicSet
+
+
+#############################################
+# Link the executable BasicSet.exe
+
+build BasicSet.exe: CXX_EXECUTABLE_LINKER__BasicSet_Debug CMakeFiles/BasicSet.dir/DataStructureAndAlgorithm/Set/BasicSet.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\BasicSet.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BasicSet.exe
+  TARGET_IMPLIB = libBasicSet.dll.a
+  TARGET_PDB = BasicSet.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target PracticeSet1
+
+
+#############################################
+# Order-only phony target for PracticeSet1
+
+build cmake_object_order_depends_target_PracticeSet1: phony || CMakeFiles/PracticeSet1.dir
+
+build CMakeFiles/PracticeSet1.dir/DataStructureAndAlgorithm/Set/PracticeSet1.cpp.obj: CXX_COMPILER__PracticeSet1_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Set/PracticeSet1.cpp || cmake_object_order_depends_target_PracticeSet1
+  DEP_FILE = CMakeFiles\PracticeSet1.dir\DataStructureAndAlgorithm\Set\PracticeSet1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\PracticeSet1.dir
+  OBJECT_FILE_DIR = CMakeFiles\PracticeSet1.dir\DataStructureAndAlgorithm\Set
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PracticeSet1
+
+
+#############################################
+# Link the executable PracticeSet1.exe
+
+build PracticeSet1.exe: CXX_EXECUTABLE_LINKER__PracticeSet1_Debug CMakeFiles/PracticeSet1.dir/DataStructureAndAlgorithm/Set/PracticeSet1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PracticeSet1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PracticeSet1.exe
+  TARGET_IMPLIB = libPracticeSet1.dll.a
+  TARGET_PDB = PracticeSet1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target PraticeMultiSet
+
+
+#############################################
+# Order-only phony target for PraticeMultiSet
+
+build cmake_object_order_depends_target_PraticeMultiSet: phony || CMakeFiles/PraticeMultiSet.dir
+
+build CMakeFiles/PraticeMultiSet.dir/DataStructureAndAlgorithm/Set/PraticeMultiSet.cpp.obj: CXX_COMPILER__PraticeMultiSet_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Set/PraticeMultiSet.cpp || cmake_object_order_depends_target_PraticeMultiSet
+  DEP_FILE = CMakeFiles\PraticeMultiSet.dir\DataStructureAndAlgorithm\Set\PraticeMultiSet.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\PraticeMultiSet.dir
+  OBJECT_FILE_DIR = CMakeFiles\PraticeMultiSet.dir\DataStructureAndAlgorithm\Set
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PraticeMultiSet
+
+
+#############################################
+# Link the executable PraticeMultiSet.exe
+
+build PraticeMultiSet.exe: CXX_EXECUTABLE_LINKER__PraticeMultiSet_Debug CMakeFiles/PraticeMultiSet.dir/DataStructureAndAlgorithm/Set/PraticeMultiSet.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PraticeMultiSet.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PraticeMultiSet.exe
+  TARGET_IMPLIB = libPraticeMultiSet.dll.a
+  TARGET_PDB = PraticeMultiSet.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target BasicMap
+
+
+#############################################
+# Order-only phony target for BasicMap
+
+build cmake_object_order_depends_target_BasicMap: phony || CMakeFiles/BasicMap.dir
+
+build CMakeFiles/BasicMap.dir/DataStructureAndAlgorithm/Map/BasicMap.cpp.obj: CXX_COMPILER__BasicMap_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Map/BasicMap.cpp || cmake_object_order_depends_target_BasicMap
+  DEP_FILE = CMakeFiles\BasicMap.dir\DataStructureAndAlgorithm\Map\BasicMap.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\BasicMap.dir
+  OBJECT_FILE_DIR = CMakeFiles\BasicMap.dir\DataStructureAndAlgorithm\Map
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target BasicMap
+
+
+#############################################
+# Link the executable BasicMap.exe
+
+build BasicMap.exe: CXX_EXECUTABLE_LINKER__BasicMap_Debug CMakeFiles/BasicMap.dir/DataStructureAndAlgorithm/Map/BasicMap.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\BasicMap.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = BasicMap.exe
+  TARGET_IMPLIB = libBasicMap.dll.a
+  TARGET_PDB = BasicMap.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Bai1
 
 
@@ -482,6 +618,10 @@ build BasicArray: phony BasicArray.exe
 
 build BasicDataTypes: phony BasicDataTypes.exe
 
+build BasicMap: phony BasicMap.exe
+
+build BasicSet: phony BasicSet.exe
+
 build BasicVector: phony BasicVector.exe
 
 build ConditionalStatements: phony ConditionalStatements.exe
@@ -496,6 +636,10 @@ build InputOutPut: phony InputOutPut.exe
 
 build Namespace: phony Namespace.exe
 
+build PracticeSet1: phony PracticeSet1.exe
+
+build PraticeMultiSet: phony PraticeMultiSet.exe
+
 build Variables: phony Variables.exe
 
 # =============================================================================
@@ -506,7 +650,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe Bai1.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Bai1.exe
 
 # =============================================================================
 # Built-in targets

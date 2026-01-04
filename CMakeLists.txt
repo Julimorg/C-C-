@@ -53,6 +53,22 @@ add_executable(BasicVector
         DataStructureAndAlgorithm/Vector/BasicVector.cpp
         DataStructureAndAlgorithm/Vector/BasicVector.h)
 
+add_executable(BasicSet
+        DataStructureAndAlgorithm/Set/BasicSet.cpp
+        DataStructureAndAlgorithm/Set/BasicSet.h)
+
+add_executable(PracticeSet1
+        DataStructureAndAlgorithm/Set/PracticeSet1.cpp
+        DataStructureAndAlgorithm/Set/PracticeSet1.h)
+
+add_executable(PraticeMultiSet
+        DataStructureAndAlgorithm/Set/PraticeMultiSet.cpp
+        DataStructureAndAlgorithm/Set/PraticeMultiSet.h)
+
+
+add_executable(BasicMap
+        DataStructureAndAlgorithm/Map/BasicMap.cpp
+        DataStructureAndAlgorithm/Map/BasicMap.h)
 #28tech
 add_executable(Bai1
         Tech28/Practice/Bai1.cpp
