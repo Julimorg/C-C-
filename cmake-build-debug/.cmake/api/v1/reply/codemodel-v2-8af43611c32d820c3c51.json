@@ -30,7 +30,12 @@
 						12,
 						13,
 						14,
-						15
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
 					]
 				}
 			],
@@ -60,7 +65,12 @@
 						12,
 						13,
 						14,
-						15
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
 					]
 				}
 			],
@@ -169,6 +179,41 @@
 					"id" : "PraticeMultiSet::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-PraticeMultiSet-Debug-64333a5034685f261023.json",
 					"name" : "PraticeMultiSet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SetMapAss1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SetMapAss1-Debug-50695477372496070c54.json",
+					"name" : "SetMapAss1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SetMapAss2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SetMapAss2-Debug-439449cc8d4bf4f2ca83.json",
+					"name" : "SetMapAss2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SetMapAss3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SetMapAss3-Debug-198fa6624b221be3eb1a.json",
+					"name" : "SetMapAss3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SetMapAssBasic01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SetMapAssBasic01-Debug-9cbe3d20919cbcb3efa2.json",
+					"name" : "SetMapAssBasic01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SetMapAssBasic02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SetMapAssBasic02-Debug-a9b99fd10aa10204f696.json",
+					"name" : "SetMapAssBasic02",
 					"projectIndex" : 0
 				},
 				{

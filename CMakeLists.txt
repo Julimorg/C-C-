@@ -74,4 +74,22 @@ add_executable(Bai1
         Tech28/Practice/Bai1.cpp
         Tech28/Practice/Bai1.h)
 
+add_executable(SetMapAss1
+        Tech28/SetMapAssignment/SetMapAss1.cpp
+        Tech28/SetMapAssignment/SetMapAss1.h)
 
+add_executable(SetMapAss2
+        Tech28/SetMapAssignment/SetMapAss2.cpp
+        Tech28/SetMapAssignment/SetMapAss2.h)
+
+add_executable(SetMapAss3
+        Tech28/SetMapAssignment/SetMapAss3.cpp
+        Tech28/SetMapAssignment/SetMapAss3.h)
+
+add_executable(SetMapAssBasic01
+        Tech28/SetMapAssignment/SetMapAssBasic01.cpp
+        Tech28/SetMapAssignment/SetMapAssBasic01.h)
+
+add_executable(SetMapAssBasic02
+        Tech28/SetMapAssignment/SetMapAssBasic02.cpp
+        Tech28/SetMapAssignment/SetMapAssBasic02.h)
