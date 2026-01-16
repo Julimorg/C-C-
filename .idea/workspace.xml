@@ -13,7 +13,10 @@
     <generated>
       <config projectName="Cpp_and_C__" targetName="BasicMap" />
       <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic05" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic04" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic07" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic06" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic01" />
       <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic03" />
@@ -34,6 +37,7 @@
       <config projectName="Cpp_and_C__" targetName="BasicDataTypes" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss2" />
       <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAss5" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss4" />
       <config projectName="Cpp_and_C__" targetName="Namespace" />
       <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
@@ -46,18 +50,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/betterCommentsSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-8af43611c32d820c3c51.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-01-12T15-28-44-0244.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic01-Debug-9cbe3d20919cbcb3efa2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic02-Debug-a9b99fd10aa10204f696.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/SetMapAss4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/SetMapAss4.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
@@ -107,11 +107,15 @@
     "CMake Application.SetMapAss2.executor": "Run",
     "CMake Application.SetMapAss3.executor": "Run",
     "CMake Application.SetMapAss4.executor": "Run",
+    "CMake Application.SetMapAss5.executor": "Run",
     "CMake Application.SetMapAss6.executor": "Run",
     "CMake Application.SetMapAssBasic01.executor": "Run",
     "CMake Application.SetMapAssBasic02.executor": "Run",
     "CMake Application.SetMapAssBasic03.executor": "Run",
     "CMake Application.SetMapAssBasic04.executor": "Run",
+    "CMake Application.SetMapAssBasic05.executor": "Run",
+    "CMake Application.SetMapAssBasic06.executor": "Run",
+    "CMake Application.SetMapAssBasic07.executor": "Run",
     "CMake Application.Variables.executor": "Run",
     "CMake Debug.Cpp_and_C__.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -137,7 +141,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.SetMapAss4">
+  <component name="RunManager" selected="CMake Application.SetMapAssBasic07">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -241,6 +245,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetMapAss5" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="SetMapAss5" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="SetMapAss5">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SetMapAss6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="SetMapAss6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="SetMapAss6">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -271,6 +280,26 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SetMapAssBasic05" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="SetMapAssBasic05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="SetMapAssBasic05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMapAssBasic06" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="SetMapAssBasic06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="SetMapAssBasic06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMapAssBasic07" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="SetMapAssBasic07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="SetMapAssBasic07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetMapAssBasic08" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="SetMapAssBasic08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="SetMapAssBasic08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Variables" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Variables" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Variables">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -296,12 +325,17 @@
       <item itemvalue="CMake Application.SetMapAss2" />
       <item itemvalue="CMake Application.SetMapAss3" />
       <item itemvalue="CMake Application.SetMapAss4" />
+      <item itemvalue="CMake Application.SetMapAss5" />
       <item itemvalue="CMake Application.SetMapAss6" />
       <item itemvalue="CMake Application.SetMapAss8" />
       <item itemvalue="CMake Application.SetMapAssBasic01" />
       <item itemvalue="CMake Application.SetMapAssBasic02" />
       <item itemvalue="CMake Application.SetMapAssBasic03" />
       <item itemvalue="CMake Application.SetMapAssBasic04" />
+      <item itemvalue="CMake Application.SetMapAssBasic05" />
+      <item itemvalue="CMake Application.SetMapAssBasic06" />
+      <item itemvalue="CMake Application.SetMapAssBasic07" />
+      <item itemvalue="CMake Application.SetMapAssBasic08" />
       <item itemvalue="CMake Application.Variables" />
       <item itemvalue="CMake Debug.Cpp_and_C__" />
     </list>
@@ -335,7 +369,7 @@
       <workItem from="1767504860233" duration="5480000" />
       <workItem from="1768224017492" duration="7652000" />
       <workItem from="1768481443754" duration="4330000" />
-      <workItem from="1768546053272" duration="2251000" />
+      <workItem from="1768546053272" duration="8404000" />
     </task>
     <servers />
   </component>

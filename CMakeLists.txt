@@ -90,6 +90,10 @@ add_executable(SetMapAss4
         Tech28/SetMapAssignment/SetMapAss4.cpp
         Tech28/SetMapAssignment/SetMapAss4.h)
 
+add_executable(SetMapAss5
+        Tech28/SetMapAssignment/SetMapAss5.cpp
+        Tech28/SetMapAssignment/SetMapAss5.h)
+
 add_executable(SetMapAss6
         Tech28/SetMapAssignment/SetMapAss6.cpp
         Tech28/SetMapAssignment/SetMapAss6.h)
@@ -113,3 +117,19 @@ add_executable(SetMapAssBasic03
 add_executable(SetMapAssBasic04
         Tech28/SetMapAssignment/SetMapAssBasic04.cpp
         Tech28/SetMapAssignment/SetMapAssBasic04.h)
+
+add_executable(SetMapAssBasic05
+        Tech28/SetMapAssignment/SetMapAssBasic05.cpp
+        Tech28/SetMapAssignment/SetMapAssBasic05.h)
+
+add_executable(SetMapAssBasic06
+        Tech28/SetMapAssignment/SetMapAssBasic06.cpp
+        Tech28/SetMapAssignment/SetMapAssBasic06.h)
+
+add_executable(SetMapAssBasic07
+        Tech28/SetMapAssignment/SetMapAssBasic07.cpp
+        Tech28/SetMapAssignment/SetMapAssBasic07.h)
+
+add_executable(SetMapAssBasic08
+        Tech28/SetMapAssignment/SetMapAssBasic08.cpp
+        Tech28/SetMapAssignment/SetMapAssBasic08.h)

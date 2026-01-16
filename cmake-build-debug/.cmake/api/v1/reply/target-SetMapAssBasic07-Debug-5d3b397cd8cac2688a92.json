@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "SetMapAssBasic03.exe"
+			"path" : "SetMapAssBasic07.exe"
 		},
 		{
-			"path" : "SetMapAssBasic03.pdb"
+			"path" : "SetMapAssBasic07.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -28,7 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 109,
+				"line" : 129,
 				"parent" : 0
 			},
 			{
@@ -70,7 +70,7 @@
 			]
 		}
 	],
-	"id" : "SetMapAssBasic03::@6890427a1f51a3e7e1df",
+	"id" : "SetMapAssBasic07::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -90,8 +90,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "SetMapAssBasic03",
-	"nameOnDisk" : "SetMapAssBasic03.exe",
+	"name" : "SetMapAssBasic07",
+	"nameOnDisk" : "SetMapAssBasic07.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -119,12 +119,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Tech28/SetMapAssignment/SetMapAssBasic03.cpp",
+			"path" : "Tech28/SetMapAssignment/SetMapAssBasic07.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Tech28/SetMapAssignment/SetMapAssBasic03.h",
+			"path" : "Tech28/SetMapAssignment/SetMapAssBasic07.h",
 			"sourceGroupIndex" : 1
 		}
 	],

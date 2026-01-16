@@ -721,6 +721,40 @@ build SetMapAss4.exe: CXX_EXECUTABLE_LINKER__SetMapAss4_Debug CMakeFiles/SetMapA
   TARGET_PDB = SetMapAss4.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target SetMapAss5
+
+
+#############################################
+# Order-only phony target for SetMapAss5
+
+build cmake_object_order_depends_target_SetMapAss5: phony || CMakeFiles/SetMapAss5.dir
+
+build CMakeFiles/SetMapAss5.dir/Tech28/SetMapAssignment/SetMapAss5.cpp.obj: CXX_COMPILER__SetMapAss5_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/SetMapAssignment/SetMapAss5.cpp || cmake_object_order_depends_target_SetMapAss5
+  DEP_FILE = CMakeFiles\SetMapAss5.dir\Tech28\SetMapAssignment\SetMapAss5.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\SetMapAss5.dir
+  OBJECT_FILE_DIR = CMakeFiles\SetMapAss5.dir\Tech28\SetMapAssignment
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SetMapAss5
+
+
+#############################################
+# Link the executable SetMapAss5.exe
+
+build SetMapAss5.exe: CXX_EXECUTABLE_LINKER__SetMapAss5_Debug CMakeFiles/SetMapAss5.dir/Tech28/SetMapAssignment/SetMapAss5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SetMapAss5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SetMapAss5.exe
+  TARGET_IMPLIB = libSetMapAss5.dll.a
+  TARGET_PDB = SetMapAss5.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target SetMapAss6
 
 
@@ -924,6 +958,142 @@ build SetMapAssBasic04.exe: CXX_EXECUTABLE_LINKER__SetMapAssBasic04_Debug CMakeF
   TARGET_IMPLIB = libSetMapAssBasic04.dll.a
   TARGET_PDB = SetMapAssBasic04.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target SetMapAssBasic05
+
+
+#############################################
+# Order-only phony target for SetMapAssBasic05
+
+build cmake_object_order_depends_target_SetMapAssBasic05: phony || CMakeFiles/SetMapAssBasic05.dir
+
+build CMakeFiles/SetMapAssBasic05.dir/Tech28/SetMapAssignment/SetMapAssBasic05.cpp.obj: CXX_COMPILER__SetMapAssBasic05_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/SetMapAssignment/SetMapAssBasic05.cpp || cmake_object_order_depends_target_SetMapAssBasic05
+  DEP_FILE = CMakeFiles\SetMapAssBasic05.dir\Tech28\SetMapAssignment\SetMapAssBasic05.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\SetMapAssBasic05.dir
+  OBJECT_FILE_DIR = CMakeFiles\SetMapAssBasic05.dir\Tech28\SetMapAssignment
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SetMapAssBasic05
+
+
+#############################################
+# Link the executable SetMapAssBasic05.exe
+
+build SetMapAssBasic05.exe: CXX_EXECUTABLE_LINKER__SetMapAssBasic05_Debug CMakeFiles/SetMapAssBasic05.dir/Tech28/SetMapAssignment/SetMapAssBasic05.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SetMapAssBasic05.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SetMapAssBasic05.exe
+  TARGET_IMPLIB = libSetMapAssBasic05.dll.a
+  TARGET_PDB = SetMapAssBasic05.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SetMapAssBasic06
+
+
+#############################################
+# Order-only phony target for SetMapAssBasic06
+
+build cmake_object_order_depends_target_SetMapAssBasic06: phony || CMakeFiles/SetMapAssBasic06.dir
+
+build CMakeFiles/SetMapAssBasic06.dir/Tech28/SetMapAssignment/SetMapAssBasic06.cpp.obj: CXX_COMPILER__SetMapAssBasic06_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/SetMapAssignment/SetMapAssBasic06.cpp || cmake_object_order_depends_target_SetMapAssBasic06
+  DEP_FILE = CMakeFiles\SetMapAssBasic06.dir\Tech28\SetMapAssignment\SetMapAssBasic06.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\SetMapAssBasic06.dir
+  OBJECT_FILE_DIR = CMakeFiles\SetMapAssBasic06.dir\Tech28\SetMapAssignment
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SetMapAssBasic06
+
+
+#############################################
+# Link the executable SetMapAssBasic06.exe
+
+build SetMapAssBasic06.exe: CXX_EXECUTABLE_LINKER__SetMapAssBasic06_Debug CMakeFiles/SetMapAssBasic06.dir/Tech28/SetMapAssignment/SetMapAssBasic06.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SetMapAssBasic06.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SetMapAssBasic06.exe
+  TARGET_IMPLIB = libSetMapAssBasic06.dll.a
+  TARGET_PDB = SetMapAssBasic06.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SetMapAssBasic07
+
+
+#############################################
+# Order-only phony target for SetMapAssBasic07
+
+build cmake_object_order_depends_target_SetMapAssBasic07: phony || CMakeFiles/SetMapAssBasic07.dir
+
+build CMakeFiles/SetMapAssBasic07.dir/Tech28/SetMapAssignment/SetMapAssBasic07.cpp.obj: CXX_COMPILER__SetMapAssBasic07_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/SetMapAssignment/SetMapAssBasic07.cpp || cmake_object_order_depends_target_SetMapAssBasic07
+  DEP_FILE = CMakeFiles\SetMapAssBasic07.dir\Tech28\SetMapAssignment\SetMapAssBasic07.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\SetMapAssBasic07.dir
+  OBJECT_FILE_DIR = CMakeFiles\SetMapAssBasic07.dir\Tech28\SetMapAssignment
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SetMapAssBasic07
+
+
+#############################################
+# Link the executable SetMapAssBasic07.exe
+
+build SetMapAssBasic07.exe: CXX_EXECUTABLE_LINKER__SetMapAssBasic07_Debug CMakeFiles/SetMapAssBasic07.dir/Tech28/SetMapAssignment/SetMapAssBasic07.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SetMapAssBasic07.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SetMapAssBasic07.exe
+  TARGET_IMPLIB = libSetMapAssBasic07.dll.a
+  TARGET_PDB = SetMapAssBasic07.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target SetMapAssBasic08
+
+
+#############################################
+# Order-only phony target for SetMapAssBasic08
+
+build cmake_object_order_depends_target_SetMapAssBasic08: phony || CMakeFiles/SetMapAssBasic08.dir
+
+build CMakeFiles/SetMapAssBasic08.dir/Tech28/SetMapAssignment/SetMapAssBasic08.cpp.obj: CXX_COMPILER__SetMapAssBasic08_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/SetMapAssignment/SetMapAssBasic08.cpp || cmake_object_order_depends_target_SetMapAssBasic08
+  DEP_FILE = CMakeFiles\SetMapAssBasic08.dir\Tech28\SetMapAssignment\SetMapAssBasic08.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\SetMapAssBasic08.dir
+  OBJECT_FILE_DIR = CMakeFiles\SetMapAssBasic08.dir\Tech28\SetMapAssignment
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target SetMapAssBasic08
+
+
+#############################################
+# Link the executable SetMapAssBasic08.exe
+
+build SetMapAssBasic08.exe: CXX_EXECUTABLE_LINKER__SetMapAssBasic08_Debug CMakeFiles/SetMapAssBasic08.dir/Tech28/SetMapAssignment/SetMapAssBasic08.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\SetMapAssBasic08.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = SetMapAssBasic08.exe
+  TARGET_IMPLIB = libSetMapAssBasic08.dll.a
+  TARGET_PDB = SetMapAssBasic08.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -988,6 +1158,8 @@ build SetMapAss3: phony SetMapAss3.exe
 
 build SetMapAss4: phony SetMapAss4.exe
 
+build SetMapAss5: phony SetMapAss5.exe
+
 build SetMapAss6: phony SetMapAss6.exe
 
 build SetMapAss8: phony SetMapAss8.exe
@@ -1000,6 +1172,14 @@ build SetMapAssBasic03: phony SetMapAssBasic03.exe
 
 build SetMapAssBasic04: phony SetMapAssBasic04.exe
 
+build SetMapAssBasic05: phony SetMapAssBasic05.exe
+
+build SetMapAssBasic06: phony SetMapAssBasic06.exe
+
+build SetMapAssBasic07: phony SetMapAssBasic07.exe
+
+build SetMapAssBasic08: phony SetMapAssBasic08.exe
+
 build Variables: phony Variables.exe
 
 # =============================================================================
@@ -1010,7 +1190,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Bai1.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss6.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Bai1.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe
 
 # =============================================================================
 # Built-in targets
