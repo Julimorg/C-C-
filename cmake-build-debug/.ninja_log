@@ -1,14 +1,16 @@
 # ninja log v5
+657	909	7902504318853250	SetMapAssBasic04.exe	438f201287967073
 552	815	7801426924184633	Namespace.exe	629830fa824de501
 5	1234	7825575305312678	CMakeFiles/Cpp_and_C__.dir/Basic/HelloWorld.cpp.obj	ff5a2a0efbe844cd
 0	714	7892117102682614	CMakeFiles/PraticeMultiSet.dir/DataStructureAndAlgorithm/Set/PraticeMultiSet.cpp.obj	3878b1c980d19674
 542	900	7807484756652483	Function.exe	b5741a22a2b627fc
 1234	2588	7825575318779393	Cpp_and_C__.exe	a7d6628db9d6b703
-9	552	7801426921646999	CMakeFiles/Namespace.dir/Basic/Namespace.cpp.obj	f74ae5efdbf6250b
 6	575	7801394517657802	CMakeFiles/Cpp_and_C__.dir/Basic/Variables.cpp.obj	eee5b2177e7b6635
 592	967	7801410218452073	Variables.exe	bb12be4dacfc8d3d
+9	552	7801426921646999	CMakeFiles/Namespace.dir/Basic/Namespace.cpp.obj	f74ae5efdbf6250b
 5	541	7807484753164944	CMakeFiles/Function.dir/HackerRank/Function.cpp.obj	aa048da68d0a0ea7
 4	591	7801410214829136	CMakeFiles/Variables.dir/Basic/Variables.cpp.obj	cbc9f0773395dcf2
+4	901	7901870012500522	CMakeFiles/SetMapAssBasic03.dir/Tech28/SetMapAssignment/SetMapAssBasic03.cpp.obj	4cabad4b81ae2820
 7	958	7807425296169110	CMakeFiles/InputOutPut.dir/Basic/InputOutPut.cpp.obj	4b5fdf7b6c90afc0
 3105	4159	7892117005161003	PracticeSet1.exe	e717dcf067a92c91
 960	1629	7807425302772695	InputOutPut.exe	342ac049d6106497
@@ -20,7 +22,7 @@
 831	1239	7807459151836099	ForLoop.exe	bc9ac0a3c71e0f85
 5	426	7830767462566264	CMakeFiles/Bai1.dir/Tech28/Practice/Bai1.cpp.obj	4315d50d65beb42c
 427	658	7830767464778959	Bai1.exe	3aad73ef0ea84f55
-17	2335	7899349239500789	build.ninja	cb970a010a2daabd
+17	2335	7902506356572428	build.ninja	cb970a010a2daabd
 3	5114	7863044000850358	CMakeFiles/ArrayDynamicWithFunction.dir/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp.obj	7355256b7bd1a9bb
 612	1040	7881130869940231	BasicArray.exe	1f793ba08a0fb8f8
 3	2590	7881180312701002	CMakeFiles/BasicVector.dir/DataStructureAndAlgorithm/Vector/BasicVector.cpp.obj	c7580f38e0899ec0
@@ -38,8 +40,18 @@
 4	855	7899316741262271	CMakeFiles/SetMapAss2.dir/Tech28/SetMapAssignment/SetMapAss2.cpp.obj	953accf2bdbab0ad
 856	1237	7899316745026311	SetMapAss2.exe	a804b50d8d68b5d9
 27	1087	7899335399198169	CMakeFiles/SetMapAss3.dir/Tech28/SetMapAssignment/SetMapAss3.cpp.obj	a46201226d6ebb2f
+928	1465	7901885377401715	SetMapAss6.exe	80d84e74e3fc604c
 1089	1594	7899335404181044	SetMapAss3.exe	efcd205753ca032a
 8	873	7899347012747044	CMakeFiles/SetMapAssBasic01.dir/Tech28/SetMapAssignment/SetMapAssBasic01.cpp.obj	e513f65eb6fd06d3
 873	1165	7899347015604623	SetMapAssBasic01.exe	b17c14579b48c5b6
 1	1286	7899350707200235	CMakeFiles/SetMapAssBasic02.dir/Tech28/SetMapAssignment/SetMapAssBasic02.cpp.obj	a6c112bcff74751d
 1286	1894	7899350713094358	SetMapAssBasic02.exe	7219920678639dff
+902	1228	7901870015746764	SetMapAssBasic03.exe	b2956ef2a008b567
+2	927	7901885372226468	CMakeFiles/SetMapAss6.dir/Tech28/SetMapAssignment/SetMapAss6.cpp.obj	e85a37ae9e0b6956
+4	656	7902504316398819	CMakeFiles/SetMapAssBasic04.dir/Tech28/SetMapAssignment/SetMapAssBasic04.cpp.obj	fffec7fc91de3bdb
+2	839	7902511737154479	CMakeFiles/SetMapAss4.dir/Tech28/SetMapAssignment/SetMapAss4.cpp.obj	e98e4a7f8f30b69a
+840	1455	7902511743201962	SetMapAss4.exe	dd25d8311b69ad6d
+3	751	7902512941375652	CMakeFiles/SetMapAss4.dir/Tech28/SetMapAssignment/SetMapAss4.cpp.obj	e98e4a7f8f30b69a
+751	1132	7902512944937715	SetMapAss4.exe	dd25d8311b69ad6d
+8	767	7902513217780706	CMakeFiles/SetMapAss4.dir/Tech28/SetMapAssignment/SetMapAss4.cpp.obj	e98e4a7f8f30b69a
+768	1161	7902513221605280	SetMapAss4.exe	dd25d8311b69ad6d
