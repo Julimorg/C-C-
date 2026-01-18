@@ -24,7 +24,6 @@ int main() {
             v.push_back(value);
         }
         m[value]++;
-
     }
 
     for ( int x : v) {

@@ -551,6 +551,108 @@ build BasicMap.exe: CXX_EXECUTABLE_LINKER__BasicMap_Debug CMakeFiles/BasicMap.di
   TARGET_PDB = BasicMap.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Prefix1
+
+
+#############################################
+# Order-only phony target for Prefix1
+
+build cmake_object_order_depends_target_Prefix1: phony || CMakeFiles/Prefix1.dir
+
+build CMakeFiles/Prefix1.dir/Tech28/Prefix/Prefix1.cpp.obj: CXX_COMPILER__Prefix1_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/Prefix/Prefix1.cpp || cmake_object_order_depends_target_Prefix1
+  DEP_FILE = CMakeFiles\Prefix1.dir\Tech28\Prefix\Prefix1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\Prefix1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Prefix1.dir\Tech28\Prefix
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Prefix1
+
+
+#############################################
+# Link the executable Prefix1.exe
+
+build Prefix1.exe: CXX_EXECUTABLE_LINKER__Prefix1_Debug CMakeFiles/Prefix1.dir/Tech28/Prefix/Prefix1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Prefix1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Prefix1.exe
+  TARGET_IMPLIB = libPrefix1.dll.a
+  TARGET_PDB = Prefix1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Prefix2
+
+
+#############################################
+# Order-only phony target for Prefix2
+
+build cmake_object_order_depends_target_Prefix2: phony || CMakeFiles/Prefix2.dir
+
+build CMakeFiles/Prefix2.dir/Tech28/Prefix/Prefix2.cpp.obj: CXX_COMPILER__Prefix2_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/Prefix/Prefix2.cpp || cmake_object_order_depends_target_Prefix2
+  DEP_FILE = CMakeFiles\Prefix2.dir\Tech28\Prefix\Prefix2.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\Prefix2.dir
+  OBJECT_FILE_DIR = CMakeFiles\Prefix2.dir\Tech28\Prefix
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Prefix2
+
+
+#############################################
+# Link the executable Prefix2.exe
+
+build Prefix2.exe: CXX_EXECUTABLE_LINKER__Prefix2_Debug CMakeFiles/Prefix2.dir/Tech28/Prefix/Prefix2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Prefix2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Prefix2.exe
+  TARGET_IMPLIB = libPrefix2.dll.a
+  TARGET_PDB = Prefix2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Prefix2D
+
+
+#############################################
+# Order-only phony target for Prefix2D
+
+build cmake_object_order_depends_target_Prefix2D: phony || CMakeFiles/Prefix2D.dir
+
+build CMakeFiles/Prefix2D.dir/Tech28/Prefix/prefix2D.cpp.obj: CXX_COMPILER__Prefix2D_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/Prefix/prefix2D.cpp || cmake_object_order_depends_target_Prefix2D
+  DEP_FILE = CMakeFiles\Prefix2D.dir\Tech28\Prefix\prefix2D.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\Prefix2D.dir
+  OBJECT_FILE_DIR = CMakeFiles\Prefix2D.dir\Tech28\Prefix
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Prefix2D
+
+
+#############################################
+# Link the executable Prefix2D.exe
+
+build Prefix2D.exe: CXX_EXECUTABLE_LINKER__Prefix2D_Debug CMakeFiles/Prefix2D.dir/Tech28/Prefix/prefix2D.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Prefix2D.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Prefix2D.exe
+  TARGET_IMPLIB = libPrefix2D.dll.a
+  TARGET_PDB = Prefix2D.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Bai1
 
 
@@ -1150,6 +1252,12 @@ build PracticeSet1: phony PracticeSet1.exe
 
 build PraticeMultiSet: phony PraticeMultiSet.exe
 
+build Prefix1: phony Prefix1.exe
+
+build Prefix2: phony Prefix2.exe
+
+build Prefix2D: phony Prefix2D.exe
+
 build SetMapAss1: phony SetMapAss1.exe
 
 build SetMapAss2: phony SetMapAss2.exe
@@ -1190,7 +1298,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Bai1.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe
 
 # =============================================================================
 # Built-in targets

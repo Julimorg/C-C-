@@ -13,6 +13,9 @@ F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/BasicSe
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/PracticeSet1.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/PraticeMultiSet.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/BasicMap.dir
+F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Prefix1.dir
+F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Prefix2.dir
+F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Prefix2D.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Bai1.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/SetMapAss1.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/SetMapAss2.dir

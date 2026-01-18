@@ -70,6 +70,19 @@ add_executable(BasicMap
         DataStructureAndAlgorithm/Map/BasicMap.cpp
         DataStructureAndAlgorithm/Map/BasicMap.h)
 #28tech
+
+add_executable(Prefix1
+        Tech28/Prefix/Prefix1.cpp
+        Tech28/Prefix/Prefix1.h)
+
+add_executable(Prefix2
+        Tech28/Prefix/Prefix2.cpp
+        Tech28/Prefix/Prefix2.h)
+
+add_executable(Prefix2D
+        Tech28/Prefix/Prefix2D.cpp
+        Tech28/Prefix/Prefix2D.h)
+
 add_executable(Bai1
         Tech28/Practice/Bai1.cpp
         Tech28/Practice/Bai1.h)
