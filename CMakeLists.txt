@@ -146,3 +146,11 @@ add_executable(SetMapAssBasic07
 add_executable(SetMapAssBasic08
         Tech28/SetMapAssignment/SetMapAssBasic08.cpp
         Tech28/SetMapAssignment/SetMapAssBasic08.h)
+
+add_executable(Bai32
+        Tech28/SetMapAssignment/WeeklyContest/Bai32.cpp
+        Tech28/SetMapAssignment/WeeklyContest/Bai32.h)
+
+add_executable(Bai30
+        Tech28/SetMapAssignment/WeeklyContest/Bai30.cpp
+        Tech28/SetMapAssignment/WeeklyContest/Bai30.h)

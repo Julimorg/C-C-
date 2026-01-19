@@ -32,5 +32,7 @@ F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/SetMapA
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/SetMapAssBasic06.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/SetMapAssBasic07.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/SetMapAssBasic08.dir
+F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Bai32.dir
+F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/Bai30.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/edit_cache.dir
 F:/Programming/File programming/Cpp and C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir

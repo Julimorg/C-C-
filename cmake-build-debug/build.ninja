@@ -1196,6 +1196,74 @@ build SetMapAssBasic08.exe: CXX_EXECUTABLE_LINKER__SetMapAssBasic08_Debug CMakeF
   TARGET_IMPLIB = libSetMapAssBasic08.dll.a
   TARGET_PDB = SetMapAssBasic08.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target Bai32
+
+
+#############################################
+# Order-only phony target for Bai32
+
+build cmake_object_order_depends_target_Bai32: phony || CMakeFiles/Bai32.dir
+
+build CMakeFiles/Bai32.dir/Tech28/SetMapAssignment/WeeklyContest/Bai32.cpp.obj: CXX_COMPILER__Bai32_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/SetMapAssignment/WeeklyContest/Bai32.cpp || cmake_object_order_depends_target_Bai32
+  DEP_FILE = CMakeFiles\Bai32.dir\Tech28\SetMapAssignment\WeeklyContest\Bai32.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\Bai32.dir
+  OBJECT_FILE_DIR = CMakeFiles\Bai32.dir\Tech28\SetMapAssignment\WeeklyContest
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Bai32
+
+
+#############################################
+# Link the executable Bai32.exe
+
+build Bai32.exe: CXX_EXECUTABLE_LINKER__Bai32_Debug CMakeFiles/Bai32.dir/Tech28/SetMapAssignment/WeeklyContest/Bai32.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Bai32.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Bai32.exe
+  TARGET_IMPLIB = libBai32.dll.a
+  TARGET_PDB = Bai32.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Bai30
+
+
+#############################################
+# Order-only phony target for Bai30
+
+build cmake_object_order_depends_target_Bai30: phony || CMakeFiles/Bai30.dir
+
+build CMakeFiles/Bai30.dir/Tech28/SetMapAssignment/WeeklyContest/Bai30.cpp.obj: CXX_COMPILER__Bai30_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/SetMapAssignment/WeeklyContest/Bai30.cpp || cmake_object_order_depends_target_Bai30
+  DEP_FILE = CMakeFiles\Bai30.dir\Tech28\SetMapAssignment\WeeklyContest\Bai30.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\Bai30.dir
+  OBJECT_FILE_DIR = CMakeFiles\Bai30.dir\Tech28\SetMapAssignment\WeeklyContest
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Bai30
+
+
+#############################################
+# Link the executable Bai30.exe
+
+build Bai30.exe: CXX_EXECUTABLE_LINKER__Bai30_Debug CMakeFiles/Bai30.dir/Tech28/SetMapAssignment/WeeklyContest/Bai30.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Bai30.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Bai30.exe
+  TARGET_IMPLIB = libBai30.dll.a
+  TARGET_PDB = Bai30.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1225,6 +1293,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 build ArrayDynamicWithFunction: phony ArrayDynamicWithFunction.exe
 
 build Bai1: phony Bai1.exe
+
+build Bai30: phony Bai30.exe
+
+build Bai32: phony Bai32.exe
 
 build BasicArray: phony BasicArray.exe
 
@@ -1298,7 +1370,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
 
 # =============================================================================
 # Built-in targets
