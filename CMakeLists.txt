@@ -71,6 +71,7 @@ add_executable(BasicMap
         DataStructureAndAlgorithm/Map/BasicMap.h)
 #28tech
 
+    # =================== Prefix ======================
 add_executable(Prefix1
         Tech28/Prefix/Prefix1.cpp
         Tech28/Prefix/Prefix1.h)
@@ -86,6 +87,16 @@ add_executable(Prefix2D
 add_executable(Bai1
         Tech28/Practice/Bai1.cpp
         Tech28/Practice/Bai1.h)
+    # =================== Pointer ======================
+add_executable(PracticePointer
+        Tech28/PointerAssignment/PracticePointer.cpp
+        Tech28/PointerAssignment/PracticePointer.h)
+
+add_executable(PracticePointer2
+        Tech28/PointerAssignment/PracticePointer2.cpp
+        Tech28/PointerAssignment/PracticePointer2.h)
+
+    # =================== Set Map ======================
 
 add_executable(SetMapAss1
         Tech28/SetMapAssignment/SetMapAss1.cpp
