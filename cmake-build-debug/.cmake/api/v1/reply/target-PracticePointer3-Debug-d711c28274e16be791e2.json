@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "SetMapAssBasic04.exe"
+			"path" : "PracticePointer3.exe"
 		},
 		{
-			"path" : "SetMapAssBasic04.pdb"
+			"path" : "PracticePointer3.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -28,7 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 141,
+				"line" : 99,
 				"parent" : 0
 			},
 			{
@@ -70,7 +70,7 @@
 			]
 		}
 	],
-	"id" : "SetMapAssBasic04::@6890427a1f51a3e7e1df",
+	"id" : "PracticePointer3::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -86,8 +86,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "SetMapAssBasic04",
-	"nameOnDisk" : "SetMapAssBasic04.exe",
+	"name" : "PracticePointer3",
+	"nameOnDisk" : "PracticePointer3.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -115,12 +115,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Tech28/SetMapAssignment/SetMapAssBasic04.cpp",
+			"path" : "Tech28/PointerAssignment/PracticePointer3.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Tech28/SetMapAssignment/SetMapAssBasic04.h",
+			"path" : "Tech28/PointerAssignment/PracticePointer3.h",
 			"sourceGroupIndex" : 1
 		}
 	],

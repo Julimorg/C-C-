@@ -797,6 +797,42 @@ build PracticePointer2.exe: CXX_EXECUTABLE_LINKER__PracticePointer2_Debug CMakeF
   TARGET_PDB = PracticePointer2.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target PracticePointer3
+
+
+#############################################
+# Order-only phony target for PracticePointer3
+
+build cmake_object_order_depends_target_PracticePointer3: phony || .
+
+build CMakeFiles/PracticePointer3.dir/Tech28/PointerAssignment/PracticePointer3.cpp.obj: CXX_COMPILER__PracticePointer3_unscanned_Debug D$:/Dev$ Progamming/DSA/Tech28/PointerAssignment/PracticePointer3.cpp || cmake_object_order_depends_target_PracticePointer3
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\PracticePointer3.dir\Tech28\PointerAssignment\PracticePointer3.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"D:/Dev Progamming/DSA/Basic"
+  OBJECT_DIR = CMakeFiles\PracticePointer3.dir
+  OBJECT_FILE_DIR = CMakeFiles\PracticePointer3.dir\Tech28\PointerAssignment
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PracticePointer3
+
+
+#############################################
+# Link the executable PracticePointer3.exe
+
+build PracticePointer3.exe: CXX_EXECUTABLE_LINKER__PracticePointer3_Debug CMakeFiles/PracticePointer3.dir/Tech28/PointerAssignment/PracticePointer3.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PracticePointer3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PracticePointer3.exe
+  TARGET_IMPLIB = libPracticePointer3.dll.a
+  TARGET_PDB = PracticePointer3.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target SetMapAss1
 
 
@@ -1468,6 +1504,8 @@ build PracticePointer: phony PracticePointer.exe
 
 build PracticePointer2: phony PracticePointer2.exe
 
+build PracticePointer3: phony PracticePointer3.exe
+
 build PracticeSet1: phony PracticeSet1.exe
 
 build PraticeMultiSet: phony PraticeMultiSet.exe
@@ -1518,7 +1556,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: D:/Dev Progamming/DSA/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
 
 # =============================================================================
 # Built-in targets

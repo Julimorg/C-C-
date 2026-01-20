@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "SetMapAssBasic06.exe"
+			"path" : "Bai32.exe"
 		},
 		{
-			"path" : "SetMapAssBasic06.pdb"
+			"path" : "Bai32.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -28,7 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 149,
+				"line" : 166,
 				"parent" : 0
 			},
 			{
@@ -70,7 +70,7 @@
 			]
 		}
 	],
-	"id" : "SetMapAssBasic06::@6890427a1f51a3e7e1df",
+	"id" : "Bai32::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -86,8 +86,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "SetMapAssBasic06",
-	"nameOnDisk" : "SetMapAssBasic06.exe",
+	"name" : "Bai32",
+	"nameOnDisk" : "Bai32.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -115,12 +115,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Tech28/SetMapAssignment/SetMapAssBasic06.cpp",
+			"path" : "Tech28/SetMapAssignment/WeeklyContest/Bai32.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Tech28/SetMapAssignment/SetMapAssBasic06.h",
+			"path" : "Tech28/SetMapAssignment/WeeklyContest/Bai32.h",
 			"sourceGroupIndex" : 1
 		}
 	],

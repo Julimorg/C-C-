@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Bai30.exe"
+			"path" : "SetMapAssBasic01.exe"
 		},
 		{
-			"path" : "Bai30.pdb"
+			"path" : "SetMapAssBasic01.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -28,7 +28,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 165,
+				"line" : 134,
 				"parent" : 0
 			},
 			{
@@ -70,7 +70,7 @@
 			]
 		}
 	],
-	"id" : "Bai30::@6890427a1f51a3e7e1df",
+	"id" : "SetMapAssBasic01::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -86,8 +86,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Bai30",
-	"nameOnDisk" : "Bai30.exe",
+	"name" : "SetMapAssBasic01",
+	"nameOnDisk" : "SetMapAssBasic01.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -115,12 +115,12 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "Tech28/SetMapAssignment/WeeklyContest/Bai30.cpp",
+			"path" : "Tech28/SetMapAssignment/SetMapAssBasic01.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "Tech28/SetMapAssignment/WeeklyContest/Bai30.h",
+			"path" : "Tech28/SetMapAssignment/SetMapAssBasic01.h",
 			"sourceGroupIndex" : 1
 		}
 	],
