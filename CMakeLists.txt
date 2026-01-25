@@ -21,6 +21,11 @@ add_executable(Namespace
 add_executable(InputOutPut
         Basic/InputOutPut.cpp
         Basic/InputOutPut.h)
+#LeetCode
+
+add_executable(TwoSum1
+        LeetCode/TwoSum1.cpp
+        LeetCode/TwoSum1.h)
 
 # HackerRank
 add_executable(BasicDataTypes
@@ -69,6 +74,15 @@ add_executable(PraticeMultiSet
 add_executable(BasicMap
         DataStructureAndAlgorithm/Map/BasicMap.cpp
         DataStructureAndAlgorithm/Map/BasicMap.h)
+
+add_executable(Struct1
+        DataStructureAndAlgorithm/Struct/Struct1.cpp
+        DataStructureAndAlgorithm/Struct/Struct1.h)
+
+add_executable(StructLibrary
+        DataStructureAndAlgorithm/Struct/StructLibrary.cpp
+        DataStructureAndAlgorithm/Struct/StructLibrary.h)
+
 #28tech
 
     # =================== Prefix ======================
@@ -100,6 +114,10 @@ add_executable(PracticePointer3
         Tech28/PointerAssignment/PracticePointer3.cpp
         Tech28/PointerAssignment/PracticePointer3.h)
 
+add_executable(PracticePointer4
+        Tech28/PointerAssignment/PracticePointer4.cpp
+        Tech28/PointerAssignment/PracticePointer4.h)
+
 
     # =================== Set Map ======================
 
@@ -126,6 +144,10 @@ add_executable(SetMapAss5
 add_executable(SetMapAss6
         Tech28/SetMapAssignment/SetMapAss6.cpp
         Tech28/SetMapAssignment/SetMapAss6.h)
+
+add_executable(SetMapAss7
+        Tech28/SetMapAssignment/SetMapAss7.cpp
+        Tech28/SetMapAssignment/SetMapAss7.h)
 
 add_executable(SetMapAss8
         Tech28/SetMapAssignment/SetMapAss8.cpp

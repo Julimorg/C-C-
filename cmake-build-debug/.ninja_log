@@ -1,7 +1,19 @@
-# ninja log v6
+# ninja log v5
 4	228	7905396113859260	CMakeFiles/PracticePointer.dir/Tech28/PointerAssignment/PracticePointer.cpp.obj	63e2104f8e5fd52b
 4	231	7905422669391927	CMakeFiles/PracticePointer2.dir/Tech28/PointerAssignment/PracticePointer2.cpp.obj	a10dc16d94fc3710
 229	296	7905396116110439	PracticePointer.exe	b633b15985ff66b7
+739	1176	7906890101154650	Struct1.exe	f5ef0bb0e08cfad1
 231	295	7905422671661996	PracticePointer2.exe	9323515eb9c285c6
 4	789	7906213174249513	CMakeFiles/PracticePointer3.dir/Tech28/PointerAssignment/PracticePointer3.cpp.obj	fd6e016b3ecfb677
 790	1658	7906213182109576	PracticePointer3.exe	edf35fa6707bbef7
+7	737	7906890096748136	CMakeFiles/Struct1.dir/DataStructureAndAlgorithm/Struct/Struct1.cpp.obj	d23b10c6063dbee9
+1	997	7906883396696629	CMakeFiles/StructLibrary.dir/DataStructureAndAlgorithm/Struct/StructLibrary.cpp.obj	10065cc4f0e26010
+998	1568	7906883402412165	StructLibrary.exe	4a0447f1894cb634
+1	1295	7909506442558441	CMakeFiles/PracticePointer4.dir/Tech28/PointerAssignment/PracticePointer4.cpp.obj	7e88607dbfad186c
+1296	2282	7909506452333567	PracticePointer4.exe	5cbad447e737de1
+7	556	7909506566131505	CMakeFiles/PracticePointer4.dir/Tech28/PointerAssignment/PracticePointer4.cpp.obj	7e88607dbfad186c
+557	910	7909506569610229	PracticePointer4.exe	5cbad447e737de1
+4	619	7909507934243534	CMakeFiles/PracticePointer4.dir/Tech28/PointerAssignment/PracticePointer4.cpp.obj	7e88607dbfad186c
+620	1002	7909507938017882	PracticePointer4.exe	5cbad447e737de1
+3	718	7909508804973869	CMakeFiles/PracticePointer4.dir/Tech28/PointerAssignment/PracticePointer4.cpp.obj	7e88607dbfad186c
+719	1081	7909508808546237	PracticePointer4.exe	5cbad447e737de1
