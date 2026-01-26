@@ -118,6 +118,9 @@ add_executable(PracticePointer4
         Tech28/PointerAssignment/PracticePointer4.cpp
         Tech28/PointerAssignment/PracticePointer4.h)
 
+add_executable(PracticePointer5
+        Tech28/PointerAssignment/PracticePointer5.cpp
+        Tech28/PointerAssignment/PracticePointer5.h)
 
     # =================== Set Map ======================
 

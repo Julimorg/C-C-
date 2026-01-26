@@ -925,6 +925,40 @@ build PracticePointer4.exe: CXX_EXECUTABLE_LINKER__PracticePointer4_Debug CMakeF
   TARGET_PDB = PracticePointer4.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target PracticePointer5
+
+
+#############################################
+# Order-only phony target for PracticePointer5
+
+build cmake_object_order_depends_target_PracticePointer5: phony || CMakeFiles/PracticePointer5.dir
+
+build CMakeFiles/PracticePointer5.dir/Tech28/PointerAssignment/PracticePointer5.cpp.obj: CXX_COMPILER__PracticePointer5_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/Tech28/PointerAssignment/PracticePointer5.cpp || cmake_object_order_depends_target_PracticePointer5
+  DEP_FILE = CMakeFiles\PracticePointer5.dir\Tech28\PointerAssignment\PracticePointer5.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\PracticePointer5.dir
+  OBJECT_FILE_DIR = CMakeFiles\PracticePointer5.dir\Tech28\PointerAssignment
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PracticePointer5
+
+
+#############################################
+# Link the executable PracticePointer5.exe
+
+build PracticePointer5.exe: CXX_EXECUTABLE_LINKER__PracticePointer5_Debug CMakeFiles/PracticePointer5.dir/Tech28/PointerAssignment/PracticePointer5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PracticePointer5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PracticePointer5.exe
+  TARGET_IMPLIB = libPracticePointer5.dll.a
+  TARGET_PDB = PracticePointer5.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target SetMapAss1
 
 
@@ -1600,6 +1634,8 @@ build PracticePointer3: phony PracticePointer3.exe
 
 build PracticePointer4: phony PracticePointer4.exe
 
+build PracticePointer5: phony PracticePointer5.exe
+
 build PracticeSet1: phony PracticeSet1.exe
 
 build PraticeMultiSet: phony PraticeMultiSet.exe
@@ -1658,7 +1694,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe StructLibrary.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe StructLibrary.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
 
 # =============================================================================
 # Built-in targets
