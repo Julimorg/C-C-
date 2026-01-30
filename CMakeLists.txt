@@ -83,6 +83,10 @@ add_executable(StructLibrary
         DataStructureAndAlgorithm/Struct/StructLibrary.cpp
         DataStructureAndAlgorithm/Struct/StructLibrary.h)
 
+add_executable(Recursion1
+        DataStructureAndAlgorithm/Recursion/Recursion1.cpp
+        DataStructureAndAlgorithm/Recursion/Recursion1.h)
+
 #28tech
 
     # =================== Prefix ======================

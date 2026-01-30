@@ -653,6 +653,40 @@ build StructLibrary.exe: CXX_EXECUTABLE_LINKER__StructLibrary_Debug CMakeFiles/S
   TARGET_PDB = StructLibrary.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Recursion1
+
+
+#############################################
+# Order-only phony target for Recursion1
+
+build cmake_object_order_depends_target_Recursion1: phony || CMakeFiles/Recursion1.dir
+
+build CMakeFiles/Recursion1.dir/DataStructureAndAlgorithm/Recursion/Recursion1.cpp.obj: CXX_COMPILER__Recursion1_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/Recursion/Recursion1.cpp || cmake_object_order_depends_target_Recursion1
+  DEP_FILE = CMakeFiles\Recursion1.dir\DataStructureAndAlgorithm\Recursion\Recursion1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\Recursion1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Recursion1.dir\DataStructureAndAlgorithm\Recursion
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Recursion1
+
+
+#############################################
+# Link the executable Recursion1.exe
+
+build Recursion1.exe: CXX_EXECUTABLE_LINKER__Recursion1_Debug CMakeFiles/Recursion1.dir/DataStructureAndAlgorithm/Recursion/Recursion1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Recursion1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Recursion1.exe
+  TARGET_IMPLIB = libRecursion1.dll.a
+  TARGET_PDB = Recursion1.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Prefix1
 
 
@@ -1646,6 +1680,8 @@ build Prefix2: phony Prefix2.exe
 
 build Prefix2D: phony Prefix2D.exe
 
+build Recursion1: phony Recursion1.exe
+
 build SetMapAss1: phony SetMapAss1.exe
 
 build SetMapAss2: phony SetMapAss2.exe
@@ -1694,7 +1730,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe StructLibrary.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe StructLibrary.exe Recursion1.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
 
 # =============================================================================
 # Built-in targets

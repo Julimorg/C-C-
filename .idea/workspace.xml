@@ -44,6 +44,7 @@
       <config projectName="Cpp_and_C__" targetName="Struct1" />
       <config projectName="Cpp_and_C__" targetName="Variables" />
       <config projectName="Cpp_and_C__" targetName="Function" />
+      <config projectName="Cpp_and_C__" targetName="Recursion1" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss7" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss6" />
@@ -77,6 +78,7 @@
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,6 +132,7 @@
     "CMake Application.Prefix1.executor": "Run",
     "CMake Application.Prefix2.executor": "Run",
     "CMake Application.Prefix2D.executor": "Run",
+    "CMake Application.Recursion1.executor": "Run",
     "CMake Application.SetMapAss1.executor": "Run",
     "CMake Application.SetMapAss2.executor": "Run",
     "CMake Application.SetMapAss3.executor": "Run",
@@ -175,12 +178,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.PracticePointer5">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.Recursion1">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -309,6 +307,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Recursion1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Recursion1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Recursion1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SetMapAss1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="SetMapAss1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="SetMapAss1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -409,6 +412,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.ArrayDynamicWithFunction" />
       <item itemvalue="CMake Application.Bai1" />
@@ -434,6 +442,7 @@
       <item itemvalue="CMake Application.PraticeMultiSet" />
       <item itemvalue="CMake Application.Prefix1" />
       <item itemvalue="CMake Application.Prefix2D" />
+      <item itemvalue="CMake Application.Recursion1" />
       <item itemvalue="CMake Application.Prefix2" />
       <item itemvalue="CMake Application.SetMapAss1" />
       <item itemvalue="CMake Application.SetMapAss2" />
@@ -497,7 +506,8 @@
       <workItem from="1768840214186" duration="7000" />
       <workItem from="1769061666959" duration="2687000" />
       <workItem from="1769245038506" duration="2080000" />
-      <workItem from="1769396530000" duration="3180000" />
+      <workItem from="1769396530000" duration="4706000" />
+      <workItem from="1769572710178" duration="4676000" />
     </task>
     <servers />
   </component>
