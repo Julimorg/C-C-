@@ -687,6 +687,74 @@ build Recursion1.exe: CXX_EXECUTABLE_LINKER__Recursion1_Debug CMakeFiles/Recursi
   TARGET_PDB = Recursion1.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target TranKienPhong_218060786_1
+
+
+#############################################
+# Order-only phony target for TranKienPhong_218060786_1
+
+build cmake_object_order_depends_target_TranKienPhong_218060786_1: phony || CMakeFiles/TranKienPhong_218060786_1.dir
+
+build CMakeFiles/TranKienPhong_218060786_1.dir/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp.obj: CXX_COMPILER__TranKienPhong_218060786_1_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp || cmake_object_order_depends_target_TranKienPhong_218060786_1
+  DEP_FILE = CMakeFiles\TranKienPhong_218060786_1.dir\DataStructureAndAlgorithm\LinkList\Tran_Kien_Phong_Practice1_A.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\TranKienPhong_218060786_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\TranKienPhong_218060786_1.dir\DataStructureAndAlgorithm\LinkList
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target TranKienPhong_218060786_1
+
+
+#############################################
+# Link the executable TranKienPhong_218060786_1.exe
+
+build TranKienPhong_218060786_1.exe: CXX_EXECUTABLE_LINKER__TranKienPhong_218060786_1_Debug CMakeFiles/TranKienPhong_218060786_1.dir/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\TranKienPhong_218060786_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = TranKienPhong_218060786_1.exe
+  TARGET_IMPLIB = libTranKienPhong_218060786_1.dll.a
+  TARGET_PDB = TranKienPhong_218060786_1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target TranKienPhong_2180607876_2
+
+
+#############################################
+# Order-only phony target for TranKienPhong_2180607876_2
+
+build cmake_object_order_depends_target_TranKienPhong_2180607876_2: phony || CMakeFiles/TranKienPhong_2180607876_2.dir
+
+build CMakeFiles/TranKienPhong_2180607876_2.dir/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp.obj: CXX_COMPILER__TranKienPhong_2180607876_2_unscanned_Debug F$:/Programming/File$ programming/Cpp$ and$ C++/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp || cmake_object_order_depends_target_TranKienPhong_2180607876_2
+  DEP_FILE = CMakeFiles\TranKienPhong_2180607876_2.dir\DataStructureAndAlgorithm\LinkList\Tran_Kien_Phong_Practice1_B.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -I"F:/Programming/File programming/Cpp and C++/Basic"
+  OBJECT_DIR = CMakeFiles\TranKienPhong_2180607876_2.dir
+  OBJECT_FILE_DIR = CMakeFiles\TranKienPhong_2180607876_2.dir\DataStructureAndAlgorithm\LinkList
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target TranKienPhong_2180607876_2
+
+
+#############################################
+# Link the executable TranKienPhong_2180607876_2.exe
+
+build TranKienPhong_2180607876_2.exe: CXX_EXECUTABLE_LINKER__TranKienPhong_2180607876_2_Debug CMakeFiles/TranKienPhong_2180607876_2.dir/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\TranKienPhong_2180607876_2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = TranKienPhong_2180607876_2.exe
+  TARGET_IMPLIB = libTranKienPhong_2180607876_2.dll.a
+  TARGET_PDB = TranKienPhong_2180607876_2.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Prefix1
 
 
@@ -1718,6 +1786,10 @@ build Struct1: phony Struct1.exe
 
 build StructLibrary: phony StructLibrary.exe
 
+build TranKienPhong_218060786_1: phony TranKienPhong_218060786_1.exe
+
+build TranKienPhong_2180607876_2: phony TranKienPhong_2180607876_2.exe
+
 build TwoSum1: phony TwoSum1.exe
 
 build Variables: phony Variables.exe
@@ -1730,7 +1802,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/File programming/Cpp and C++/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe StructLibrary.exe Recursion1.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe StructLibrary.exe Recursion1.exe TranKienPhong_218060786_1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
 
 # =============================================================================
 # Built-in targets

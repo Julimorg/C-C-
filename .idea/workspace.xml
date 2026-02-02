@@ -19,15 +19,12 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Cpp_and_C__" targetName="BasicMap" />
       <config projectName="Cpp_and_C__" targetName="TwoSum1" />
       <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic05" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic04" />
-      <config projectName="Cpp_and_C__" targetName="Bai30" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic07" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic06" />
-      <config projectName="Cpp_and_C__" targetName="Bai32" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic01" />
       <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic03" />
@@ -39,10 +36,19 @@
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic08" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer3" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer2" />
-      <config projectName="Cpp_and_C__" targetName="Bai1" />
-      <config projectName="Cpp_and_C__" targetName="BasicSet" />
+      <config projectName="Cpp_and_C__" targetName="TranKienPhong_2180607876_2" />
       <config projectName="Cpp_and_C__" targetName="Struct1" />
       <config projectName="Cpp_and_C__" targetName="Variables" />
+      <config projectName="Cpp_and_C__" targetName="BasicVector" />
+      <config projectName="Cpp_and_C__" targetName="TranKienPhong_218060786_1" />
+      <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
+      <config projectName="Cpp_and_C__" targetName="Namespace" />
+      <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
+      <config projectName="Cpp_and_C__" targetName="BasicMap" />
+      <config projectName="Cpp_and_C__" targetName="Bai30" />
+      <config projectName="Cpp_and_C__" targetName="Bai32" />
+      <config projectName="Cpp_and_C__" targetName="Bai1" />
+      <config projectName="Cpp_and_C__" targetName="BasicSet" />
       <config projectName="Cpp_and_C__" targetName="Function" />
       <config projectName="Cpp_and_C__" targetName="Recursion1" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer" />
@@ -51,7 +57,6 @@
       <config projectName="Cpp_and_C__" targetName="SetMapAss8" />
       <config projectName="Cpp_and_C__" targetName="Prefix1" />
       <config projectName="Cpp_and_C__" targetName="Prefix2" />
-      <config projectName="Cpp_and_C__" targetName="BasicVector" />
       <config projectName="Cpp_and_C__" targetName="BasicArray" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss1" />
       <config projectName="Cpp_and_C__" targetName="StructLibrary" />
@@ -59,12 +64,9 @@
       <config projectName="Cpp_and_C__" targetName="InputOutPut" />
       <config projectName="Cpp_and_C__" targetName="BasicDataTypes" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss2" />
-      <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss5" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss4" />
-      <config projectName="Cpp_and_C__" targetName="Namespace" />
       <config projectName="Cpp_and_C__" targetName="Prefix2D" />
-      <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -148,6 +150,8 @@
     "CMake Application.SetMapAssBasic07.executor": "Run",
     "CMake Application.Struct1.executor": "Run",
     "CMake Application.StructLibrary.executor": "Run",
+    "CMake Application.TranKienPhong_218060786_1.executor": "Debug",
+    "CMake Application.TranKienPhong_2180607876_2.executor": "Run",
     "CMake Application.Variables.executor": "Run",
     "CMake Debug.Cpp_and_C__.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -170,6 +174,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
+    "structure.view.defaults.are.configured": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -178,7 +183,12 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Recursion1">
+  <component name="RunManager" selected="CMake Application.TranKienPhong_2180607876_2">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -402,17 +412,22 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TranKienPhong_218060786_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="TranKienPhong_218060786_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="TranKienPhong_218060786_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TranKienPhong_2180607876_2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="TranKienPhong_2180607876_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="TranKienPhong_2180607876_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoSum1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="TwoSum1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="TwoSum1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="Variables" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Variables" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Variables">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -462,6 +477,8 @@
       <item itemvalue="CMake Application.SetMapAssBasic08" />
       <item itemvalue="CMake Application.Struct1" />
       <item itemvalue="CMake Application.StructLibrary" />
+      <item itemvalue="CMake Application.TranKienPhong_218060786_1" />
+      <item itemvalue="CMake Application.TranKienPhong_2180607876_2" />
       <item itemvalue="CMake Application.TwoSum1" />
       <item itemvalue="CMake Application.Variables" />
       <item itemvalue="CMake Debug.Cpp_and_C__" />
@@ -507,7 +524,8 @@
       <workItem from="1769061666959" duration="2687000" />
       <workItem from="1769245038506" duration="2080000" />
       <workItem from="1769396530000" duration="4706000" />
-      <workItem from="1769572710178" duration="4676000" />
+      <workItem from="1769572710178" duration="5988000" />
+      <workItem from="1770011893696" duration="10638000" />
     </task>
     <servers />
   </component>
@@ -518,5 +536,16 @@
     <isAutomaticCheckingOnLaunch value="false" />
     <isAutomaticFoundErrors value="true" />
     <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp</url>
+          <line>59</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

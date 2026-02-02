@@ -87,6 +87,14 @@ add_executable(Recursion1
         DataStructureAndAlgorithm/Recursion/Recursion1.cpp
         DataStructureAndAlgorithm/Recursion/Recursion1.h)
 
+
+add_executable(TranKienPhong_218060786_1
+        DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp
+        DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.h)
+
+add_executable(TranKienPhong_2180607876_2
+        DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp
+        DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.h)
 #28tech
 
     # =================== Prefix ======================
