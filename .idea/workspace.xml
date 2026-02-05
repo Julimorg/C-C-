@@ -19,54 +19,55 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Cpp_and_C__" targetName="TwoSum1" />
-      <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic05" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic04" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic07" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic06" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic01" />
-      <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic03" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic02" />
-      <config projectName="Cpp_and_C__" targetName="PraticeMultiSet" />
-      <config projectName="Cpp_and_C__" targetName="PracticePointer5" />
-      <config projectName="Cpp_and_C__" targetName="ForLoop" />
-      <config projectName="Cpp_and_C__" targetName="PracticePointer4" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic08" />
-      <config projectName="Cpp_and_C__" targetName="PracticePointer3" />
-      <config projectName="Cpp_and_C__" targetName="PracticePointer2" />
-      <config projectName="Cpp_and_C__" targetName="TranKienPhong_2180607876_2" />
-      <config projectName="Cpp_and_C__" targetName="Struct1" />
-      <config projectName="Cpp_and_C__" targetName="Variables" />
-      <config projectName="Cpp_and_C__" targetName="BasicVector" />
       <config projectName="Cpp_and_C__" targetName="TranKienPhong_218060786_1" />
-      <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
-      <config projectName="Cpp_and_C__" targetName="Namespace" />
-      <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
-      <config projectName="Cpp_and_C__" targetName="BasicMap" />
-      <config projectName="Cpp_and_C__" targetName="Bai30" />
-      <config projectName="Cpp_and_C__" targetName="Bai32" />
-      <config projectName="Cpp_and_C__" targetName="Bai1" />
-      <config projectName="Cpp_and_C__" targetName="BasicSet" />
-      <config projectName="Cpp_and_C__" targetName="Function" />
-      <config projectName="Cpp_and_C__" targetName="Recursion1" />
-      <config projectName="Cpp_and_C__" targetName="PracticePointer" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAss7" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAss6" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic02" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss8" />
-      <config projectName="Cpp_and_C__" targetName="Prefix1" />
-      <config projectName="Cpp_and_C__" targetName="Prefix2" />
-      <config projectName="Cpp_and_C__" targetName="BasicArray" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAss1" />
-      <config projectName="Cpp_and_C__" targetName="StructLibrary" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAss3" />
-      <config projectName="Cpp_and_C__" targetName="InputOutPut" />
       <config projectName="Cpp_and_C__" targetName="BasicDataTypes" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAss2" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAss5" />
-      <config projectName="Cpp_and_C__" targetName="SetMapAss4" />
+      <config projectName="Cpp_and_C__" targetName="ForLoop" />
+      <config projectName="Cpp_and_C__" targetName="Bai30" />
+      <config projectName="Cpp_and_C__" targetName="StructLibrary" />
       <config projectName="Cpp_and_C__" targetName="Prefix2D" />
+      <config projectName="Cpp_and_C__" targetName="PracticePointer4" />
+      <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAss4" />
+      <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
+      <config projectName="Cpp_and_C__" targetName="TranKienPhong_2180607876_2" />
+      <config projectName="Cpp_and_C__" targetName="BasicSet" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic07" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAss7" />
+      <config projectName="Cpp_and_C__" targetName="PraticeMultiSet" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic03" />
+      <config projectName="Cpp_and_C__" targetName="Namespace" />
+      <config projectName="Cpp_and_C__" targetName="TwoSum1" />
+      <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
+      <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
+      <config projectName="Cpp_and_C__" targetName="PracticePointer3" />
+      <config projectName="Cpp_and_C__" targetName="InputOutPut" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAss3" />
+      <config projectName="Cpp_and_C__" targetName="BasicMap" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic08" />
+      <config projectName="Cpp_and_C__" targetName="Struct1" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic04" />
+      <config projectName="Cpp_and_C__" targetName="Bai32" />
+      <config projectName="Cpp_and_C__" targetName="BasicArray" />
+      <config projectName="Cpp_and_C__" targetName="Prefix2" />
+      <config projectName="Cpp_and_C__" targetName="PracticePointer2" />
+      <config projectName="Cpp_and_C__" targetName="Prefix1" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAss6" />
+      <config projectName="Cpp_and_C__" targetName="Variables" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAss2" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic05" />
+      <config projectName="Cpp_and_C__" targetName="Bai1" />
+      <config projectName="Cpp_and_C__" targetName="PracticePointer" />
+      <config projectName="Cpp_and_C__" targetName="Fibonacci_1" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAssBasic01" />
+      <config projectName="Cpp_and_C__" targetName="PracticePointer5" />
+      <config projectName="Cpp_and_C__" targetName="BasicVector" />
+      <config projectName="Cpp_and_C__" targetName="Recursion1" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAss5" />
+      <config projectName="Cpp_and_C__" targetName="Function" />
+      <config projectName="Cpp_and_C__" targetName="SetMapAss1" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -76,12 +77,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PracticePointer4.dir/Tech28/PointerAssignment/PracticePointer4.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PracticePointer5.dir/Tech28/PointerAssignment/PracticePointer5.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Recursion1.dir/DataStructureAndAlgorithm/Recursion/Recursion1.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Struct1.dir/DataStructureAndAlgorithm/Struct/Struct1.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/StructLibrary.dir/DataStructureAndAlgorithm/Struct/StructLibrary.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TranKienPhong_218060786_1.dir/DataStructureAndAlgorithm/LinkList/TranKienPhong_218060786_1.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TranKienPhong_218060786_1.dir/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TranKienPhong_2180607876_2.dir/DataStructureAndAlgorithm/LinkList/TranKienPhong_2180607876_2.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TranKienPhong_2180607876_2.dir/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +123,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="OGhReHJn" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -121,6 +153,7 @@
     "CMake Application.BasicVector.executor": "Run",
     "CMake Application.ConditionalStatements.executor": "Run",
     "CMake Application.Cpp_and_C__.executor": "Run",
+    "CMake Application.Fibonacci_1.executor": "Run",
     "CMake Application.ForLoop.executor": "Run",
     "CMake Application.Function.executor": "Run",
     "CMake Application.InputOutPut.executor": "Run",
@@ -161,13 +194,14 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Dev Progamming/DSA",
+    "last_opened_file_path": "F:/Programming/Practice_DSA/C-C-",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -183,12 +217,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.TranKienPhong_2180607876_2">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.Fibonacci_1">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -243,6 +272,11 @@
       </method>
     </configuration>
     <configuration name="Cpp_and_C__" type="CMakeRunConfiguration" factoryName="Application" singleton="false" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Cpp_and_C__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Cpp_and_C__">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonacci_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Fibonacci_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Fibonacci_1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -432,6 +466,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.ArrayDynamicWithFunction" />
       <item itemvalue="CMake Application.Bai1" />
@@ -444,6 +483,7 @@
       <item itemvalue="CMake Application.BasicVector" />
       <item itemvalue="CMake Application.ConditionalStatements" />
       <item itemvalue="CMake Application.Cpp_and_C__" />
+      <item itemvalue="CMake Application.Fibonacci_1" />
       <item itemvalue="CMake Application.ForLoop" />
       <item itemvalue="CMake Application.Function" />
       <item itemvalue="CMake Application.InputOutPut" />
@@ -526,6 +566,7 @@
       <workItem from="1769396530000" duration="4706000" />
       <workItem from="1769572710178" duration="5988000" />
       <workItem from="1770011893696" duration="10638000" />
+      <workItem from="1770268088720" duration="3767000" />
     </task>
     <servers />
   </component>

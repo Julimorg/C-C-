@@ -1,0 +1,296 @@
+[
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Cpp_and_C__.dir\\Basic\\HelloWorld.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Basic\\HelloWorld.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Basic/HelloWorld.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Cpp_and_C__.dir/Basic/HelloWorld.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Variables.dir\\Basic\\Variables.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Basic\\Variables.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Basic/Variables.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Variables.dir/Basic/Variables.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Namespace.dir\\Basic\\Namespace.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Basic\\Namespace.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Basic/Namespace.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Namespace.dir/Basic/Namespace.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\InputOutPut.dir\\Basic\\InputOutPut.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Basic\\InputOutPut.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Basic/InputOutPut.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/InputOutPut.dir/Basic/InputOutPut.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\TwoSum1.dir\\LeetCode\\TwoSum1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\LeetCode\\TwoSum1.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/LeetCode/TwoSum1.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TwoSum1.dir/LeetCode/TwoSum1.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\BasicDataTypes.dir\\HackerRank\\BasicDataTypes.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\HackerRank\\BasicDataTypes.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/HackerRank/BasicDataTypes.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/BasicDataTypes.dir/HackerRank/BasicDataTypes.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\ConditionalStatements.dir\\HackerRank\\ConditionalStatements.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\HackerRank\\ConditionalStatements.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/HackerRank/ConditionalStatements.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/ConditionalStatements.dir/HackerRank/ConditionalStatements.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\ForLoop.dir\\HackerRank\\ForLoop.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\HackerRank\\ForLoop.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/HackerRank/ForLoop.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/ForLoop.dir/HackerRank/ForLoop.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Function.dir\\HackerRank\\Function.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\HackerRank\\Function.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/HackerRank/Function.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Function.dir/HackerRank/Function.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\BasicArray.dir\\DataStructureAndAlgorithm\\Array\\BasicArray.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Array\\BasicArray.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Array/BasicArray.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/BasicArray.dir/DataStructureAndAlgorithm/Array/BasicArray.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\ArrayDynamicWithFunction.dir\\DataStructureAndAlgorithm\\Array\\ArrayDynamicWithFunction.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Array\\ArrayDynamicWithFunction.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/ArrayDynamicWithFunction.dir/DataStructureAndAlgorithm/Array/ArrayDynamicWithFunction.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\BasicVector.dir\\DataStructureAndAlgorithm\\Vector\\BasicVector.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Vector\\BasicVector.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Vector/BasicVector.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/BasicVector.dir/DataStructureAndAlgorithm/Vector/BasicVector.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\BasicSet.dir\\DataStructureAndAlgorithm\\Set\\BasicSet.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Set\\BasicSet.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Set/BasicSet.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/BasicSet.dir/DataStructureAndAlgorithm/Set/BasicSet.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\PracticeSet1.dir\\DataStructureAndAlgorithm\\Set\\PracticeSet1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Set\\PracticeSet1.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Set/PracticeSet1.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticeSet1.dir/DataStructureAndAlgorithm/Set/PracticeSet1.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\PraticeMultiSet.dir\\DataStructureAndAlgorithm\\Set\\PraticeMultiSet.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Set\\PraticeMultiSet.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Set/PraticeMultiSet.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PraticeMultiSet.dir/DataStructureAndAlgorithm/Set/PraticeMultiSet.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\BasicMap.dir\\DataStructureAndAlgorithm\\Map\\BasicMap.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Map\\BasicMap.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Map/BasicMap.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/BasicMap.dir/DataStructureAndAlgorithm/Map/BasicMap.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Struct1.dir\\DataStructureAndAlgorithm\\Struct\\Struct1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Struct\\Struct1.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Struct/Struct1.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Struct1.dir/DataStructureAndAlgorithm/Struct/Struct1.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\StructLibrary.dir\\DataStructureAndAlgorithm\\Struct\\StructLibrary.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Struct\\StructLibrary.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Struct/StructLibrary.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/StructLibrary.dir/DataStructureAndAlgorithm/Struct/StructLibrary.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Recursion1.dir\\DataStructureAndAlgorithm\\Recursion\\Recursion1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Recursion\\Recursion1.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Recursion/Recursion1.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Recursion1.dir/DataStructureAndAlgorithm/Recursion/Recursion1.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Fibonacci_1.dir\\DataStructureAndAlgorithm\\Recursion\\Fibonacci_1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Recursion\\Fibonacci_1.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Recursion/Fibonacci_1.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Fibonacci_1.dir/DataStructureAndAlgorithm/Recursion/Fibonacci_1.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\TranKienPhong_218060786_1.dir\\DataStructureAndAlgorithm\\LinkList\\Tran_Kien_Phong_Practice1_A.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\LinkList\\Tran_Kien_Phong_Practice1_A.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TranKienPhong_218060786_1.dir/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\TranKienPhong_2180607876_2.dir\\DataStructureAndAlgorithm\\LinkList\\Tran_Kien_Phong_Practice1_B.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\LinkList\\Tran_Kien_Phong_Practice1_B.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TranKienPhong_2180607876_2.dir/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Prefix1.dir\\Tech28\\Prefix\\Prefix1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\Prefix\\Prefix1.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/Prefix/Prefix1.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Prefix1.dir/Tech28/Prefix/Prefix1.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Prefix2.dir\\Tech28\\Prefix\\Prefix2.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\Prefix\\Prefix2.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/Prefix/Prefix2.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Prefix2.dir/Tech28/Prefix/Prefix2.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Prefix2D.dir\\Tech28\\Prefix\\Prefix2D.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\Prefix\\Prefix2D.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/Prefix/Prefix2D.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Prefix2D.dir/Tech28/Prefix/Prefix2D.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Bai1.dir\\Tech28\\Practice\\Bai1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\Practice\\Bai1.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/Practice/Bai1.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Bai1.dir/Tech28/Practice/Bai1.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\PracticePointer.dir\\Tech28\\PointerAssignment\\PracticePointer.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\PointerAssignment\\PracticePointer.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/PointerAssignment/PracticePointer.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticePointer.dir/Tech28/PointerAssignment/PracticePointer.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\PracticePointer2.dir\\Tech28\\PointerAssignment\\PracticePointer2.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\PointerAssignment\\PracticePointer2.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/PointerAssignment/PracticePointer2.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticePointer2.dir/Tech28/PointerAssignment/PracticePointer2.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\PracticePointer3.dir\\Tech28\\PointerAssignment\\PracticePointer3.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\PointerAssignment\\PracticePointer3.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/PointerAssignment/PracticePointer3.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticePointer3.dir/Tech28/PointerAssignment/PracticePointer3.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\PracticePointer4.dir\\Tech28\\PointerAssignment\\PracticePointer4.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\PointerAssignment\\PracticePointer4.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/PointerAssignment/PracticePointer4.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticePointer4.dir/Tech28/PointerAssignment/PracticePointer4.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\PracticePointer5.dir\\Tech28\\PointerAssignment\\PracticePointer5.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\PointerAssignment\\PracticePointer5.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/PointerAssignment/PracticePointer5.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticePointer5.dir/Tech28/PointerAssignment/PracticePointer5.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAss1.dir\\Tech28\\SetMapAssignment\\SetMapAss1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAss1.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAss1.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAss1.dir/Tech28/SetMapAssignment/SetMapAss1.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAss2.dir\\Tech28\\SetMapAssignment\\SetMapAss2.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAss2.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAss2.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAss2.dir/Tech28/SetMapAssignment/SetMapAss2.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAss3.dir\\Tech28\\SetMapAssignment\\SetMapAss3.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAss3.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAss3.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAss3.dir/Tech28/SetMapAssignment/SetMapAss3.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAss4.dir\\Tech28\\SetMapAssignment\\SetMapAss4.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAss4.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAss4.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAss4.dir/Tech28/SetMapAssignment/SetMapAss4.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAss5.dir\\Tech28\\SetMapAssignment\\SetMapAss5.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAss5.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAss5.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAss5.dir/Tech28/SetMapAssignment/SetMapAss5.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAss6.dir\\Tech28\\SetMapAssignment\\SetMapAss6.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAss6.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAss6.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAss6.dir/Tech28/SetMapAssignment/SetMapAss6.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAss7.dir\\Tech28\\SetMapAssignment\\SetMapAss7.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAss7.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAss7.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAss7.dir/Tech28/SetMapAssignment/SetMapAss7.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAss8.dir\\Tech28\\SetMapAssignment\\SetMapAss8.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAss8.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAss8.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAss8.dir/Tech28/SetMapAssignment/SetMapAss8.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAssBasic01.dir\\Tech28\\SetMapAssignment\\SetMapAssBasic01.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAssBasic01.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAssBasic01.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic01.dir/Tech28/SetMapAssignment/SetMapAssBasic01.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAssBasic02.dir\\Tech28\\SetMapAssignment\\SetMapAssBasic02.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAssBasic02.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAssBasic02.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic02.dir/Tech28/SetMapAssignment/SetMapAssBasic02.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAssBasic03.dir\\Tech28\\SetMapAssignment\\SetMapAssBasic03.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAssBasic03.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAssBasic03.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic03.dir/Tech28/SetMapAssignment/SetMapAssBasic03.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAssBasic04.dir\\Tech28\\SetMapAssignment\\SetMapAssBasic04.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAssBasic04.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAssBasic04.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic04.dir/Tech28/SetMapAssignment/SetMapAssBasic04.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAssBasic05.dir\\Tech28\\SetMapAssignment\\SetMapAssBasic05.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAssBasic05.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAssBasic05.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic05.dir/Tech28/SetMapAssignment/SetMapAssBasic05.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAssBasic06.dir\\Tech28\\SetMapAssignment\\SetMapAssBasic06.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAssBasic06.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAssBasic06.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic06.dir/Tech28/SetMapAssignment/SetMapAssBasic06.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAssBasic07.dir\\Tech28\\SetMapAssignment\\SetMapAssBasic07.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAssBasic07.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAssBasic07.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic07.dir/Tech28/SetMapAssignment/SetMapAssBasic07.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\SetMapAssBasic08.dir\\Tech28\\SetMapAssignment\\SetMapAssBasic08.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\SetMapAssBasic08.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/SetMapAssBasic08.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic08.dir/Tech28/SetMapAssignment/SetMapAssBasic08.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Bai32.dir\\Tech28\\SetMapAssignment\\WeeklyContest\\Bai32.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\WeeklyContest\\Bai32.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/WeeklyContest/Bai32.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Bai32.dir/Tech28/SetMapAssignment/WeeklyContest/Bai32.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Bai30.dir\\Tech28\\SetMapAssignment\\WeeklyContest\\Bai30.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\Tech28\\SetMapAssignment\\WeeklyContest\\Bai30.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/Tech28/SetMapAssignment/WeeklyContest/Bai30.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Bai30.dir/Tech28/SetMapAssignment/WeeklyContest/Bai30.cpp.obj"
+}
+]

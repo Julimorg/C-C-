@@ -87,6 +87,9 @@ add_executable(Recursion1
         DataStructureAndAlgorithm/Recursion/Recursion1.cpp
         DataStructureAndAlgorithm/Recursion/Recursion1.h)
 
+add_executable(Fibonacci_1
+        DataStructureAndAlgorithm/Recursion/Fibonacci_1.cpp
+        DataStructureAndAlgorithm/Recursion/Fibonacci_1.h)
 
 add_executable(TranKienPhong_218060786_1
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp
