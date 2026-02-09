@@ -15,6 +15,8 @@ F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticeSet1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PraticeMultiSet.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/BasicMap.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Struct1.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Array2D.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/ArrayADT.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/StructLibrary.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Recursion1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Fibonacci_1.dir

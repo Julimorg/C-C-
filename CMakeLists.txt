@@ -79,6 +79,14 @@ add_executable(Struct1
         DataStructureAndAlgorithm/Struct/Struct1.cpp
         DataStructureAndAlgorithm/Struct/Struct1.h)
 
+add_executable(Array2D
+        DataStructureAndAlgorithm/2D_Array/Array2D.cpp
+        DataStructureAndAlgorithm/2D_Array/Array2D.h)
+
+add_executable(ArrayADT
+        DataStructureAndAlgorithm/ArrayADT/ArrayADT.cpp
+        DataStructureAndAlgorithm/ArrayADT/ArrayADT.h)
+
 add_executable(StructLibrary
         DataStructureAndAlgorithm/Struct/StructLibrary.cpp
         DataStructureAndAlgorithm/Struct/StructLibrary.h)

@@ -653,6 +653,78 @@ build Struct1.exe: CXX_EXECUTABLE_LINKER__Struct1_Debug CMakeFiles/Struct1.dir/D
   TARGET_PDB = Struct1.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Array2D
+
+
+#############################################
+# Order-only phony target for Array2D
+
+build cmake_object_order_depends_target_Array2D: phony || .
+
+build CMakeFiles/Array2D.dir/DataStructureAndAlgorithm/2D_Array/Array2D.cpp.obj: CXX_COMPILER__Array2D_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/2D_Array/Array2D.cpp || cmake_object_order_depends_target_Array2D
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Array2D.dir\DataStructureAndAlgorithm\2D_Array\Array2D.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\Array2D.dir
+  OBJECT_FILE_DIR = CMakeFiles\Array2D.dir\DataStructureAndAlgorithm\2D_Array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Array2D
+
+
+#############################################
+# Link the executable Array2D.exe
+
+build Array2D.exe: CXX_EXECUTABLE_LINKER__Array2D_Debug CMakeFiles/Array2D.dir/DataStructureAndAlgorithm/2D_Array/Array2D.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Array2D.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Array2D.exe
+  TARGET_IMPLIB = libArray2D.dll.a
+  TARGET_PDB = Array2D.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ArrayADT
+
+
+#############################################
+# Order-only phony target for ArrayADT
+
+build cmake_object_order_depends_target_ArrayADT: phony || .
+
+build CMakeFiles/ArrayADT.dir/DataStructureAndAlgorithm/ArrayADT/ArrayADT.cpp.obj: CXX_COMPILER__ArrayADT_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/ArrayADT/ArrayADT.cpp || cmake_object_order_depends_target_ArrayADT
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\ArrayADT.dir\DataStructureAndAlgorithm\ArrayADT\ArrayADT.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\ArrayADT.dir
+  OBJECT_FILE_DIR = CMakeFiles\ArrayADT.dir\DataStructureAndAlgorithm\ArrayADT
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ArrayADT
+
+
+#############################################
+# Link the executable ArrayADT.exe
+
+build ArrayADT.exe: CXX_EXECUTABLE_LINKER__ArrayADT_Debug CMakeFiles/ArrayADT.dir/DataStructureAndAlgorithm/ArrayADT/ArrayADT.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ArrayADT.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ArrayADT.exe
+  TARGET_IMPLIB = libArrayADT.dll.a
+  TARGET_PDB = ArrayADT.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target StructLibrary
 
 
@@ -1830,6 +1902,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build Array2D: phony Array2D.exe
+
+build ArrayADT: phony ArrayADT.exe
+
 build ArrayDynamicWithFunction: phony ArrayDynamicWithFunction.exe
 
 build Bai1: phony Bai1.exe
@@ -1936,7 +2012,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/Practice_DSA/C-C-/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
 
 # =============================================================================
 # Built-in targets

@@ -103,6 +103,18 @@
 },
 {
   "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Array2D.dir\\DataStructureAndAlgorithm\\2D_Array\\Array2D.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\2D_Array\\Array2D.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/2D_Array/Array2D.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Array2D.dir/DataStructureAndAlgorithm/2D_Array/Array2D.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\ArrayADT.dir\\DataStructureAndAlgorithm\\ArrayADT\\ArrayADT.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\ArrayADT\\ArrayADT.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/ArrayADT/ArrayADT.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/ArrayADT.dir/DataStructureAndAlgorithm/ArrayADT/ArrayADT.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
   "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\StructLibrary.dir\\DataStructureAndAlgorithm\\Struct\\StructLibrary.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Struct\\StructLibrary.cpp",
   "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Struct/StructLibrary.cpp",
   "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/StructLibrary.dir/DataStructureAndAlgorithm/Struct/StructLibrary.cpp.obj"
