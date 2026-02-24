@@ -22,9 +22,10 @@ Node *createNewNode(int data){
 }
 
 void insertToHead(Node* &head, Node* newNode){
-    newNode->next = head;
 
+    newNode->next = head;
     head = newNode;
+
 }
 
 void insertToTail(Node* &head, Node* newNode){

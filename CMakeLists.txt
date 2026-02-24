@@ -103,6 +103,10 @@ add_executable(TranKienPhong_218060786_1
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.h)
 
+add_executable(LinkList1
+        DataStructureAndAlgorithm/LinkList/LinkList1.cpp
+        DataStructureAndAlgorithm/LinkList/LinkList1.h)
+
 add_executable(TranKienPhong_2180607876_2
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.h)

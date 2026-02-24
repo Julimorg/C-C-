@@ -45,6 +45,7 @@
       <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
       <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer3" />
+      <config projectName="Cpp_and_C__" targetName="LinkList1" />
       <config projectName="Cpp_and_C__" targetName="InputOutPut" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss3" />
       <config projectName="Cpp_and_C__" targetName="BasicMap" />
@@ -79,47 +80,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2a789fce498da5c748e6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-02-05T07-04-10-0141.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai1-Debug-3b25536b2aa8f3d39033.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai30-Debug-f0240df099d8982b4d20.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai32-Debug-24648c0abd3f833894c0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Fibonacci_1-Debug-be1cf7f28a735a45bc5f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer-Debug-861452a04bb30a0b001b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer2-Debug-5793d3212b4e05384db6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer3-Debug-1b3ac8550ad1d0a207c5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer4-Debug-ee6ada6d6ea6a26c0c2d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer5-Debug-85437cdf70b81c2ae59c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix1-Debug-af8ca648298ab2e4e56e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix2-Debug-c7b1927c9feb0882b34e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix2D-Debug-d9257ba95eb64a928d52.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Recursion1-Debug-eb03cb0c3bd5bb904e78.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss1-Debug-2568b902bb799217b0a0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss2-Debug-2164be3b80ef86254251.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss3-Debug-39d6386c6a175e516d15.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss4-Debug-a6f9f265537f3741b3ef.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss5-Debug-339d046941bfe4e33f98.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss6-Debug-aacd18f1f03d4d2e4ae7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss7-Debug-07f646f927ce78f88ab8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss8-Debug-5df459858dc3a2c3e500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic01-Debug-e4e38a15f3d0528f156a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic02-Debug-7ea5f169f9275517db75.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic03-Debug-2e12945a4ab206edc199.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic04-Debug-c8fdfec4dcef149c01cb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic05-Debug-3927175310f552515dd9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic06-Debug-3e74a1d8eb3c285174e4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic07-Debug-322f49d7695c45ee1bee.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic08-Debug-8bf41897892d05f5692e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-StructLibrary-Debug-9afe2cf37536d7d73650.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TranKienPhong_218060786_1-Debug-2818df08767b760070d7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TranKienPhong_2180607876_2-Debug-f01446f9d870e78aa6ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_A.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
@@ -174,6 +139,7 @@
     "CMake Application.ForLoop.executor": "Run",
     "CMake Application.Function.executor": "Run",
     "CMake Application.InputOutPut.executor": "Run",
+    "CMake Application.LinkList1.executor": "Run",
     "CMake Application.Namespace.executor": "Run",
     "CMake Application.PracticePointer.executor": "Run",
     "CMake Application.PracticePointer2.executor": "Run",
@@ -234,7 +200,12 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.ArrayADT">
+  <component name="RunManager" selected="CMake Application.LinkList1">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -319,6 +290,11 @@
       </method>
     </configuration>
     <configuration name="InputOutPut" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="InputOutPut" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="InputOutPut">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkList1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="LinkList1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="LinkList1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -511,6 +487,7 @@
       <item itemvalue="CMake Application.ForLoop" />
       <item itemvalue="CMake Application.Function" />
       <item itemvalue="CMake Application.InputOutPut" />
+      <item itemvalue="CMake Application.LinkList1" />
       <item itemvalue="CMake Application.Namespace" />
       <item itemvalue="CMake Application.PracticePointer2" />
       <item itemvalue="CMake Application.PracticePointer3" />
@@ -593,7 +570,9 @@
       <workItem from="1770268088720" duration="9040000" />
       <workItem from="1770446395234" duration="4052000" />
       <workItem from="1770608095396" duration="2600000" />
-      <workItem from="1770618558075" duration="3214000" />
+      <workItem from="1770618558075" duration="3833000" />
+      <workItem from="1770698769337" duration="2498000" />
+      <workItem from="1771852604928" duration="11913000" />
     </task>
     <servers />
   </component>

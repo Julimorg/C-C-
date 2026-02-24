@@ -869,6 +869,42 @@ build TranKienPhong_218060786_1.exe: CXX_EXECUTABLE_LINKER__TranKienPhong_218060
   TARGET_PDB = TranKienPhong_218060786_1.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target LinkList1
+
+
+#############################################
+# Order-only phony target for LinkList1
+
+build cmake_object_order_depends_target_LinkList1: phony || .
+
+build CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj: CXX_COMPILER__LinkList1_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/LinkList/LinkList1.cpp || cmake_object_order_depends_target_LinkList1
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\LinkList1.dir\DataStructureAndAlgorithm\LinkList\LinkList1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\LinkList1.dir
+  OBJECT_FILE_DIR = CMakeFiles\LinkList1.dir\DataStructureAndAlgorithm\LinkList
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LinkList1
+
+
+#############################################
+# Link the executable LinkList1.exe
+
+build LinkList1.exe: CXX_EXECUTABLE_LINKER__LinkList1_Debug CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LinkList1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LinkList1.exe
+  TARGET_IMPLIB = libLinkList1.dll.a
+  TARGET_PDB = LinkList1.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target TranKienPhong_2180607876_2
 
 
@@ -1936,6 +1972,8 @@ build Function: phony Function.exe
 
 build InputOutPut: phony InputOutPut.exe
 
+build LinkList1: phony LinkList1.exe
+
 build Namespace: phony Namespace.exe
 
 build PracticePointer: phony PracticePointer.exe
@@ -2012,7 +2050,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/Practice_DSA/C-C-/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
 
 # =============================================================================
 # Built-in targets
