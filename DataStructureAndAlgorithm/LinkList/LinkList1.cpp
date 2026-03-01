@@ -96,9 +96,19 @@ void deleteNodeAtIndex( Node* &head, int index) {
     }
 
     Node *p = head;
-    for ( int i = 0 ; i < index - 1 ; i++) {
+    for (int i = 0; i < index - 1; i++) {
+        if (p == NULL || p->next == NULL) {
+            cout << "Position không hợp lệ!" << endl;
+            return;
+        }
         p = p->next;
     }
+
+    if (p->next == NULL) {
+        cout << "Position không hợp lệ!" << endl;
+        return;
+    }
+
 
     Node *nodeToDelete = p->next;
 

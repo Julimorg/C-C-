@@ -30,6 +30,7 @@
       <config projectName="Cpp_and_C__" targetName="Prefix2D" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer4" />
       <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
+      <config projectName="Cpp_and_C__" targetName="LinkedListBai1" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss4" />
       <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
       <config projectName="Cpp_and_C__" targetName="TranKienPhong_2180607876_2" />
@@ -57,13 +58,16 @@
       <config projectName="Cpp_and_C__" targetName="Prefix2" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer2" />
       <config projectName="Cpp_and_C__" targetName="Prefix1" />
+      <config projectName="Cpp_and_C__" targetName="DoublyLinkedList" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss6" />
+      <config projectName="Cpp_and_C__" targetName="QueueADT" />
       <config projectName="Cpp_and_C__" targetName="Variables" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss2" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic05" />
       <config projectName="Cpp_and_C__" targetName="Bai1" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer" />
       <config projectName="Cpp_and_C__" targetName="Fibonacci_1" />
+      <config projectName="Cpp_and_C__" targetName="QueueLinkedList" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic01" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer5" />
       <config projectName="Cpp_and_C__" targetName="BasicVector" />
@@ -80,12 +84,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Queue/QueueADT.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Queue/QueueADT.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/LinkList1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/LinkList1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c95b1888819069e146bc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-02-24T06-09-55-0563.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai1-Debug-0b2b863ba800f01bda0a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai30-Debug-1b4d2713d14fc8a2c221.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai32-Debug-0bceff6b275a15a27f75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer-Debug-f7890114e1c29f3220d1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer2-Debug-c2e3e9e7cebaf3bdb4da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer3-Debug-95dacc04b0b15208e706.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer4-Debug-57d697f82857df8517ba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer5-Debug-23b87515fab4cacae38d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix1-Debug-8988e15b51f5d4397fc2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix2-Debug-63866ae157b3c6dc7b58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix2D-Debug-56d04e148d29e5926932.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss1-Debug-695f5e506436958cf99b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss2-Debug-3eb08f9a1aa9c841b520.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss3-Debug-32016ca9f36dbaee789a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss4-Debug-e2d027d6b4553da6eb75.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss5-Debug-074a6c7da7198bbe30f5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss6-Debug-0a9174646cc6bc2c6987.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss7-Debug-03423170d7622b076a63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss8-Debug-4919dd865f2f6512a4d9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic01-Debug-824a1152a8d31ada238d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic02-Debug-82148d1526be0283f421.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic03-Debug-33f331eb619e577b4ccb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic04-Debug-3b72397ffcf03c7eb3fc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic05-Debug-479077081d28e28af8fa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic06-Debug-b30d449a0949038bebe9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic07-Debug-544b246e11c772b80eac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic08-Debug-6e4cbb3d4c73f75f0f43.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TranKienPhong_2180607876_2-Debug-5c13fdb7985fd1d6e010.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinkList1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinkList1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,87 +161,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;CMake Application.Array2D.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.ArrayADT.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.ArrayDynamicWithFunction.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Bai1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Bai30.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Bai32.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.BasicArray.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.BasicDataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.BasicMap.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.BasicSet.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.BasicVector.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.ConditionalStatements.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Cpp_and_C__.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Fibonacci_1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Function.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.InputOutPut.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.LinkList1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Namespace.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.PracticePointer.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.PracticePointer2.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.PracticePointer4.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.PracticePointer5.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.PracticeSet1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.PraticeMultiSet.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Prefix1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Prefix2.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Prefix2D.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Recursion1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAss1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAss2.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAss3.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAss4.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAss5.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAss6.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAssBasic01.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAssBasic02.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAssBasic03.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAssBasic04.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAssBasic05.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAssBasic06.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.SetMapAssBasic07.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Struct1.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.StructLibrary.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.TranKienPhong_218060786_1.executor&quot;: &quot;Debug&quot;,
-    &quot;CMake Application.TranKienPhong_2180607876_2.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Application.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;CMake Debug.Cpp_and_C__.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Programming/Practice_DSA/C-C-&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
-    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.Array2D.executor": "Run",
+    "CMake Application.ArrayADT.executor": "Run",
+    "CMake Application.ArrayDynamicWithFunction.executor": "Run",
+    "CMake Application.Bai1.executor": "Run",
+    "CMake Application.Bai30.executor": "Run",
+    "CMake Application.Bai32.executor": "Run",
+    "CMake Application.BasicArray.executor": "Run",
+    "CMake Application.BasicDataTypes.executor": "Run",
+    "CMake Application.BasicMap.executor": "Run",
+    "CMake Application.BasicSet.executor": "Run",
+    "CMake Application.BasicVector.executor": "Run",
+    "CMake Application.ConditionalStatements.executor": "Run",
+    "CMake Application.Cpp_and_C__.executor": "Run",
+    "CMake Application.Fibonacci_1.executor": "Run",
+    "CMake Application.ForLoop.executor": "Run",
+    "CMake Application.Function.executor": "Run",
+    "CMake Application.InputOutPut.executor": "Run",
+    "CMake Application.LinkList1.executor": "Run",
+    "CMake Application.LinkedListBai1.executor": "Run",
+    "CMake Application.Namespace.executor": "Run",
+    "CMake Application.PracticePointer.executor": "Run",
+    "CMake Application.PracticePointer2.executor": "Run",
+    "CMake Application.PracticePointer4.executor": "Run",
+    "CMake Application.PracticePointer5.executor": "Run",
+    "CMake Application.PracticeSet1.executor": "Run",
+    "CMake Application.PraticeMultiSet.executor": "Run",
+    "CMake Application.Prefix1.executor": "Run",
+    "CMake Application.Prefix2.executor": "Run",
+    "CMake Application.Prefix2D.executor": "Run",
+    "CMake Application.Recursion1.executor": "Run",
+    "CMake Application.SetMapAss1.executor": "Run",
+    "CMake Application.SetMapAss2.executor": "Run",
+    "CMake Application.SetMapAss3.executor": "Run",
+    "CMake Application.SetMapAss4.executor": "Run",
+    "CMake Application.SetMapAss5.executor": "Run",
+    "CMake Application.SetMapAss6.executor": "Run",
+    "CMake Application.SetMapAssBasic01.executor": "Run",
+    "CMake Application.SetMapAssBasic02.executor": "Run",
+    "CMake Application.SetMapAssBasic03.executor": "Run",
+    "CMake Application.SetMapAssBasic04.executor": "Run",
+    "CMake Application.SetMapAssBasic05.executor": "Run",
+    "CMake Application.SetMapAssBasic06.executor": "Run",
+    "CMake Application.SetMapAssBasic07.executor": "Run",
+    "CMake Application.Struct1.executor": "Run",
+    "CMake Application.StructLibrary.executor": "Run",
+    "CMake Application.TranKienPhong_218060786_1.executor": "Debug",
+    "CMake Application.TranKienPhong_2180607876_2.executor": "Run",
+    "CMake Application.Variables.executor": "Run",
+    "CMake Debug.Cpp_and_C__.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/Programming/Practice_DSA/C-C-",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.LinkList1">
+  <component name="RunManager" selected="CMake Application.LinkedListBai1">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -267,6 +311,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DoublyLinkedList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="DoublyLinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="DoublyLinkedList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fibonacci_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Fibonacci_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Fibonacci_1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -288,6 +337,11 @@
       </method>
     </configuration>
     <configuration name="LinkList1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="LinkList1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="LinkList1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListBai1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="LinkedListBai1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="LinkedListBai1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -343,6 +397,16 @@
       </method>
     </configuration>
     <configuration name="Prefix2D" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Prefix2D" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Prefix2D">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueADT" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="QueueADT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="QueueADT">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueLinkedList" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="QueueLinkedList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="QueueLinkedList">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -481,10 +545,12 @@
       <item itemvalue="CMake Application.BasicVector" />
       <item itemvalue="CMake Application.ConditionalStatements" />
       <item itemvalue="CMake Application.Cpp_and_C__" />
+      <item itemvalue="CMake Application.DoublyLinkedList" />
       <item itemvalue="CMake Application.Fibonacci_1" />
       <item itemvalue="CMake Application.ForLoop" />
       <item itemvalue="CMake Application.Function" />
       <item itemvalue="CMake Application.InputOutPut" />
+      <item itemvalue="CMake Application.LinkedListBai1" />
       <item itemvalue="CMake Application.LinkList1" />
       <item itemvalue="CMake Application.Namespace" />
       <item itemvalue="CMake Application.PracticePointer2" />
@@ -496,6 +562,8 @@
       <item itemvalue="CMake Application.PraticeMultiSet" />
       <item itemvalue="CMake Application.Prefix1" />
       <item itemvalue="CMake Application.Prefix2D" />
+      <item itemvalue="CMake Application.QueueADT" />
+      <item itemvalue="CMake Application.QueueLinkedList" />
       <item itemvalue="CMake Application.Recursion1" />
       <item itemvalue="CMake Application.Prefix2" />
       <item itemvalue="CMake Application.SetMapAss1" />
@@ -571,7 +639,7 @@
       <workItem from="1770618558075" duration="3833000" />
       <workItem from="1770698769337" duration="2498000" />
       <workItem from="1771852604928" duration="12445000" />
-      <workItem from="1772088838696" duration="10822000" />
+      <workItem from="1772088838696" duration="23919000" />
     </task>
     <servers />
   </component>
@@ -590,6 +658,11 @@
           <url>file://$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp</url>
           <line>59</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/LinkList1.cpp</url>
+          <line>111</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

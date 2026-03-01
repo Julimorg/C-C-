@@ -22,6 +22,9 @@ F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Recursion1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Fibonacci_1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TranKienPhong_218060786_1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/LinkList1.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/DoublyLinkedList.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueADT.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueLinkedList.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TranKienPhong_2180607876_2.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Prefix1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Prefix2.dir
@@ -50,5 +53,6 @@ F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic07.d
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/SetMapAssBasic08.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Bai32.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Bai30.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/LinkedListBai1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/edit_cache.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/rebuild_cache.dir

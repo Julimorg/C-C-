@@ -905,6 +905,114 @@ build LinkList1.exe: CXX_EXECUTABLE_LINKER__LinkList1_Debug CMakeFiles/LinkList1
   TARGET_PDB = LinkList1.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target DoublyLinkedList
+
+
+#############################################
+# Order-only phony target for DoublyLinkedList
+
+build cmake_object_order_depends_target_DoublyLinkedList: phony || .
+
+build CMakeFiles/DoublyLinkedList.dir/DataStructureAndAlgorithm/LinkList/DoublyLinkedList.cpp.obj: CXX_COMPILER__DoublyLinkedList_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/LinkList/DoublyLinkedList.cpp || cmake_object_order_depends_target_DoublyLinkedList
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\DoublyLinkedList.dir\DataStructureAndAlgorithm\LinkList\DoublyLinkedList.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\DoublyLinkedList.dir
+  OBJECT_FILE_DIR = CMakeFiles\DoublyLinkedList.dir\DataStructureAndAlgorithm\LinkList
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target DoublyLinkedList
+
+
+#############################################
+# Link the executable DoublyLinkedList.exe
+
+build DoublyLinkedList.exe: CXX_EXECUTABLE_LINKER__DoublyLinkedList_Debug CMakeFiles/DoublyLinkedList.dir/DataStructureAndAlgorithm/LinkList/DoublyLinkedList.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\DoublyLinkedList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = DoublyLinkedList.exe
+  TARGET_IMPLIB = libDoublyLinkedList.dll.a
+  TARGET_PDB = DoublyLinkedList.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target QueueADT
+
+
+#############################################
+# Order-only phony target for QueueADT
+
+build cmake_object_order_depends_target_QueueADT: phony || .
+
+build CMakeFiles/QueueADT.dir/DataStructureAndAlgorithm/Queue/QueueADT.cpp.obj: CXX_COMPILER__QueueADT_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Queue/QueueADT.cpp || cmake_object_order_depends_target_QueueADT
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\QueueADT.dir\DataStructureAndAlgorithm\Queue\QueueADT.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\QueueADT.dir
+  OBJECT_FILE_DIR = CMakeFiles\QueueADT.dir\DataStructureAndAlgorithm\Queue
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target QueueADT
+
+
+#############################################
+# Link the executable QueueADT.exe
+
+build QueueADT.exe: CXX_EXECUTABLE_LINKER__QueueADT_Debug CMakeFiles/QueueADT.dir/DataStructureAndAlgorithm/Queue/QueueADT.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\QueueADT.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = QueueADT.exe
+  TARGET_IMPLIB = libQueueADT.dll.a
+  TARGET_PDB = QueueADT.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target QueueLinkedList
+
+
+#############################################
+# Order-only phony target for QueueLinkedList
+
+build cmake_object_order_depends_target_QueueLinkedList: phony || .
+
+build CMakeFiles/QueueLinkedList.dir/DataStructureAndAlgorithm/Queue/QueueLinkedList.cpp.obj: CXX_COMPILER__QueueLinkedList_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Queue/QueueLinkedList.cpp || cmake_object_order_depends_target_QueueLinkedList
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\QueueLinkedList.dir\DataStructureAndAlgorithm\Queue\QueueLinkedList.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\QueueLinkedList.dir
+  OBJECT_FILE_DIR = CMakeFiles\QueueLinkedList.dir\DataStructureAndAlgorithm\Queue
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target QueueLinkedList
+
+
+#############################################
+# Link the executable QueueLinkedList.exe
+
+build QueueLinkedList.exe: CXX_EXECUTABLE_LINKER__QueueLinkedList_Debug CMakeFiles/QueueLinkedList.dir/DataStructureAndAlgorithm/Queue/QueueLinkedList.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\QueueLinkedList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = QueueLinkedList.exe
+  TARGET_IMPLIB = libQueueLinkedList.dll.a
+  TARGET_PDB = QueueLinkedList.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target TranKienPhong_2180607876_2
 
 
@@ -1912,6 +2020,42 @@ build Bai30.exe: CXX_EXECUTABLE_LINKER__Bai30_Debug CMakeFiles/Bai30.dir/Tech28/
   TARGET_IMPLIB = libBai30.dll.a
   TARGET_PDB = Bai30.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target LinkedListBai1
+
+
+#############################################
+# Order-only phony target for LinkedListBai1
+
+build cmake_object_order_depends_target_LinkedListBai1: phony || .
+
+build CMakeFiles/LinkedListBai1.dir/Tech28/LinkedList/LinkedListBai1.cpp.obj: CXX_COMPILER__LinkedListBai1_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/Tech28/LinkedList/LinkedListBai1.cpp || cmake_object_order_depends_target_LinkedListBai1
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\LinkedListBai1.dir\Tech28\LinkedList\LinkedListBai1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\LinkedListBai1.dir
+  OBJECT_FILE_DIR = CMakeFiles\LinkedListBai1.dir\Tech28\LinkedList
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target LinkedListBai1
+
+
+#############################################
+# Link the executable LinkedListBai1.exe
+
+build LinkedListBai1.exe: CXX_EXECUTABLE_LINKER__LinkedListBai1_Debug CMakeFiles/LinkedListBai1.dir/Tech28/LinkedList/LinkedListBai1.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\LinkedListBai1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = LinkedListBai1.exe
+  TARGET_IMPLIB = libLinkedListBai1.dll.a
+  TARGET_PDB = LinkedListBai1.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1964,6 +2108,8 @@ build ConditionalStatements: phony ConditionalStatements.exe
 
 build Cpp_and_C__: phony Cpp_and_C__.exe
 
+build DoublyLinkedList: phony DoublyLinkedList.exe
+
 build Fibonacci_1: phony Fibonacci_1.exe
 
 build ForLoop: phony ForLoop.exe
@@ -1973,6 +2119,8 @@ build Function: phony Function.exe
 build InputOutPut: phony InputOutPut.exe
 
 build LinkList1: phony LinkList1.exe
+
+build LinkedListBai1: phony LinkedListBai1.exe
 
 build Namespace: phony Namespace.exe
 
@@ -1995,6 +2143,10 @@ build Prefix1: phony Prefix1.exe
 build Prefix2: phony Prefix2.exe
 
 build Prefix2D: phony Prefix2D.exe
+
+build QueueADT: phony QueueADT.exe
+
+build QueueLinkedList: phony QueueLinkedList.exe
 
 build Recursion1: phony Recursion1.exe
 
@@ -2050,7 +2202,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/Practice_DSA/C-C-/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
 
 # =============================================================================
 # Built-in targets

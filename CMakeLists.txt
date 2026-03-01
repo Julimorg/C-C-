@@ -107,6 +107,18 @@ add_executable(LinkList1
         DataStructureAndAlgorithm/LinkList/LinkList1.cpp
         DataStructureAndAlgorithm/LinkList/LinkList1.h)
 
+add_executable(DoublyLinkedList
+        DataStructureAndAlgorithm/LinkList/DoublyLinkedList.cpp
+        DataStructureAndAlgorithm/LinkList/DoublyLinkedList.h)
+
+add_executable(QueueADT
+        DataStructureAndAlgorithm/Queue/QueueADT.cpp
+        DataStructureAndAlgorithm/Queue/QueueADT.h)
+
+add_executable(QueueLinkedList
+        DataStructureAndAlgorithm/Queue/QueueLinkedList.cpp
+        DataStructureAndAlgorithm/Queue/QueueLinkedList.h)
+
 add_executable(TranKienPhong_2180607876_2
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.h)
@@ -222,3 +234,7 @@ add_executable(Bai32
 add_executable(Bai30
         Tech28/SetMapAssignment/WeeklyContest/Bai30.cpp
         Tech28/SetMapAssignment/WeeklyContest/Bai30.h)
+
+add_executable(LinkedListBai1
+        Tech28/LinkedList/LinkedListBai1.cpp
+        Tech28/LinkedList/LinkedListBai1.h)
