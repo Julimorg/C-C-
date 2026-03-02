@@ -149,16 +149,16 @@ int main() {
     printList(head);
     countNode(head);
 
-    deleteHead(head);
-
-    cout << "\n ================== " << endl;
-    cout << " List after delete head : " << endl ;
-    printList(head);
-
-    deleteTail(head);
-    cout << "\n ================== " << endl;
-    cout << " List after delete tail : " << endl ;
-    printList(head);
+    // deleteHead(head);
+    //
+    // cout << "\n ================== " << endl;
+    // cout << " List after delete head : " << endl ;
+    // printList(head);
+    //
+    // deleteTail(head);
+    // cout << "\n ================== " << endl;
+    // cout << " List after delete tail : " << endl ;
+    // printList(head);
 
     deleteNodeAtIndex(head, 2);
     cout << "\n ================== " << endl;
