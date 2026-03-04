@@ -126,6 +126,24 @@ void countNode( Node *head) {
     cout << count ;
 }
 
+void searchNodeByValue(Node *head, int value) {
+    if (head == NULL) {
+        cout << "Empty list! " << endl;
+    }
+
+    Node *p = head;
+    while ( p != NULL) {
+        if ( value == p->data) {
+            cout << "This is the value " << p->data << endl;
+        }else {
+            cout << "Nothing more!" << endl;
+        }
+        p = p->next;
+    }
+}
+
+
+
 void printList(Node *head) {
     cout << "LINK LIST: " << endl;
     Node *node = head;
@@ -149,16 +167,16 @@ int main() {
     printList(head);
     countNode(head);
 
-    // deleteHead(head);
-    //
-    // cout << "\n ================== " << endl;
-    // cout << " List after delete head : " << endl ;
-    // printList(head);
-    //
-    // deleteTail(head);
-    // cout << "\n ================== " << endl;
-    // cout << " List after delete tail : " << endl ;
-    // printList(head);
+    deleteHead(head);
+
+    cout << "\n ================== " << endl;
+    cout << " List after delete head : " << endl ;
+    printList(head);
+
+    deleteTail(head);
+    cout << "\n ================== " << endl;
+    cout << " List after delete tail : " << endl ;
+    printList(head);
 
     deleteNodeAtIndex(head, 2);
     cout << "\n ================== " << endl;

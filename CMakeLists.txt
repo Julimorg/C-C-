@@ -119,6 +119,10 @@ add_executable(QueueLinkedList
         DataStructureAndAlgorithm/Queue/QueueLinkedList.cpp
         DataStructureAndAlgorithm/Queue/QueueLinkedList.h)
 
+add_executable(Stack1
+        DataStructureAndAlgorithm/Stack/Stack1.cpp
+        DataStructureAndAlgorithm/Stack/Stack1.cpp)
+
 add_executable(TranKienPhong_2180607876_2
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.cpp
         DataStructureAndAlgorithm/LinkList/Tran_Kien_Phong_Practice1_B.h)

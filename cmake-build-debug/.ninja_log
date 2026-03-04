@@ -2,12 +2,10 @@
 1183	1600	7920081528766669	Fibonacci_1.exe	6419cff13d35b683
 17	1182	7920081517104213	CMakeFiles/Fibonacci_1.dir/DataStructureAndAlgorithm/Recursion/Fibonacci_1.cpp.obj	1dc3ee4d05c78066
 6	348	7923119984748057	CMakeFiles/Array2D.dir/DataStructureAndAlgorithm/2D_Array/Array2D.cpp.obj	90e2726e96951210
-310	426	7939513371785508	LinkList1.exe	7b391f7b660154af
+1937	2459	7941619786352283	LinkList1.exe	7b391f7b660154af
 348	451	7923119988172652	Array2D.exe	b601e7b9ec47bef3
-6	310	7939513368741393	CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj	e5f9a6285025a119
+9	1937	7941619767078073	CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj	e5f9a6285025a119
 7	337	7923243441061173	CMakeFiles/ArrayADT.dir/DataStructureAndAlgorithm/ArrayADT/ArrayADT.cpp.obj	7d65bc822dea91b6
 338	451	7923243444366841	ArrayADT.exe	f1d712edf22bcb7e
 7	2133	7939705958002885	CMakeFiles/LinkedListBai1.dir/Tech28/LinkedList/LinkedListBai1.cpp.obj	38cdaf38532410eb
 2134	2490	7939705979265787	LinkedListBai1.exe	152db5f43df59177
-9	1937	7941619767078073	CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj	e5f9a6285025a119
-1937	2459	7941619786352283	LinkList1.exe	7b391f7b660154af

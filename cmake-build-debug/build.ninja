@@ -1013,6 +1013,42 @@ build QueueLinkedList.exe: CXX_EXECUTABLE_LINKER__QueueLinkedList_Debug CMakeFil
   TARGET_PDB = QueueLinkedList.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target Stack1
+
+
+#############################################
+# Order-only phony target for Stack1
+
+build cmake_object_order_depends_target_Stack1: phony || .
+
+build CMakeFiles/Stack1.dir/DataStructureAndAlgorithm/Stack/Stack1.cpp.obj: CXX_COMPILER__Stack1_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/Stack1.cpp || cmake_object_order_depends_target_Stack1
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\Stack1.dir\DataStructureAndAlgorithm\Stack\Stack1.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\Stack1.dir
+  OBJECT_FILE_DIR = CMakeFiles\Stack1.dir\DataStructureAndAlgorithm\Stack
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Stack1
+
+
+#############################################
+# Link the executable Stack1.exe
+
+build Stack1.exe: CXX_EXECUTABLE_LINKER__Stack1_Debug CMakeFiles/Stack1.dir/DataStructureAndAlgorithm/Stack/Stack1.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\Stack1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = Stack1.exe
+  TARGET_IMPLIB = libStack1.dll.a
+  TARGET_PDB = Stack1.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target TranKienPhong_2180607876_2
 
 
@@ -2182,6 +2218,8 @@ build SetMapAssBasic07: phony SetMapAssBasic07.exe
 
 build SetMapAssBasic08: phony SetMapAssBasic08.exe
 
+build Stack1: phony Stack1.exe
+
 build Struct1: phony Struct1.exe
 
 build StructLibrary: phony StructLibrary.exe
@@ -2202,7 +2240,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/Practice_DSA/C-C-/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
 
 # =============================================================================
 # Built-in targets

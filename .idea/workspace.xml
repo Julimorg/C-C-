@@ -85,10 +85,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/LinkList1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/LinkList/LinkList1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinkList1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinkList1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -596,7 +594,8 @@
       <workItem from="1770698769337" duration="2498000" />
       <workItem from="1771852604928" duration="12445000" />
       <workItem from="1772088838696" duration="26028000" />
-      <workItem from="1772456981943" duration="2041000" />
+      <workItem from="1772456981943" duration="2708000" />
+      <workItem from="1772600797020" duration="3832000" />
     </task>
     <servers />
   </component>
