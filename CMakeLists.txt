@@ -123,6 +123,10 @@ add_executable(Tran_Kien_Phong_Practice2_A
         DataStructureAndAlgorithm/Queue/Tran_Kien_Phong_Practice2_A.cpp
         DataStructureAndAlgorithm/Queue/Tran_Kien_Phong_Practice2_A.h)
 
+add_executable(Fix_For_TranKienPhongPractice2A
+        DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp
+        DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.h )
+
 add_executable(Stack1
         DataStructureAndAlgorithm/Stack/Stack1.cpp
         DataStructureAndAlgorithm/Stack/Stack1.cpp)

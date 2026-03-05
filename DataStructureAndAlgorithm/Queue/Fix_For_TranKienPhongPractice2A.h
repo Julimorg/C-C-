@@ -1,0 +1,13 @@
+//
+// Created by jianf on 3/5/2026.
+//
+
+#ifndef CPP_AND_C___FIX_FOR_TRANKIENPHONGPRACTICE2A_H
+#define CPP_AND_C___FIX_FOR_TRANKIENPHONGPRACTICE2A_H
+
+
+class Fix_For_TranKienPhongPractice2A {
+};
+
+
+#endif //CPP_AND_C___FIX_FOR_TRANKIENPHONGPRACTICE2A_H

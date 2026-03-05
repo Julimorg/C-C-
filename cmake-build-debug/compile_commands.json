@@ -169,6 +169,12 @@
 },
 {
   "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Fix_For_TranKienPhongPractice2A.dir\\DataStructureAndAlgorithm\\Queue\\Fix_For_TranKienPhongPractice2A.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Queue\\Fix_For_TranKienPhongPractice2A.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
   "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Stack1.dir\\DataStructureAndAlgorithm\\Stack\\Stack1.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Stack\\Stack1.cpp",
   "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/Stack1.cpp",
   "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack1.dir/DataStructureAndAlgorithm/Stack/Stack1.cpp.obj"

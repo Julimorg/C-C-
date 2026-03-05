@@ -26,6 +26,7 @@ F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/DoublyLinkedList.d
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueADT.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueLinkedList.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Tran_Kien_Phong_Practice2_A.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Fix_For_TranKienPhongPractice2A.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TranKienPhong_2180607876_2.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Prefix1.dir
