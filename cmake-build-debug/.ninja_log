@@ -1,11 +1,11 @@
 # ninja log v6
-1183	1600	7920081528766669	Fibonacci_1.exe	6419cff13d35b683
 17	1182	7920081517104213	CMakeFiles/Fibonacci_1.dir/DataStructureAndAlgorithm/Recursion/Fibonacci_1.cpp.obj	1dc3ee4d05c78066
+1183	1600	7920081528766669	Fibonacci_1.exe	6419cff13d35b683
 6	348	7923119984748057	CMakeFiles/Array2D.dir/DataStructureAndAlgorithm/2D_Array/Array2D.cpp.obj	90e2726e96951210
-390	492	7944219811116775	LinkList1.exe	7b391f7b660154af
 348	451	7923119988172652	Array2D.exe	b601e7b9ec47bef3
-6	390	7944219807282691	CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj	e5f9a6285025a119
+390	492	7944219811116775	LinkList1.exe	7b391f7b660154af
 7	337	7923243441061173	CMakeFiles/ArrayADT.dir/DataStructureAndAlgorithm/ArrayADT/ArrayADT.cpp.obj	7d65bc822dea91b6
+6	390	7944219807282691	CMakeFiles/LinkList1.dir/DataStructureAndAlgorithm/LinkList/LinkList1.cpp.obj	e5f9a6285025a119
 338	451	7923243444366841	ArrayADT.exe	f1d712edf22bcb7e
 7	2133	7939705958002885	CMakeFiles/LinkedListBai1.dir/Tech28/LinkedList/LinkedListBai1.cpp.obj	38cdaf38532410eb
 2134	2490	7939705979265787	LinkedListBai1.exe	152db5f43df59177
@@ -13,3 +13,21 @@
 411	579	7944219639504503	QueueADT.exe	c748d5a819396d6b
 22	1644	7944251974682863	CMakeFiles/Tran_Kien_Phong_Practice2_A.dir/DataStructureAndAlgorithm/Queue/Tran_Kien_Phong_Practice2_A.cpp.obj	312db0622b8ae287
 1644	1991	7944251990895445	Tran_Kien_Phong_Practice2_A.exe	479c7e3b8a11a17a
+22	1161	7945071476052104	build.ninja	7216ed595e399b7b
+22	1161	7945071476052104	F:/Programming/Practice_DSA/C-C-/cmake-build-debug/cmake_install.cmake	7216ed595e399b7b
+3	699	7945071476817122	CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj	20d35802bf4c87eb
+699	948	7945071483772414	Fix_For_TranKienPhongPractice2A.exe	712b65060e4e7cd
+8	1055	7945074141354979	CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj	20d35802bf4c87eb
+1056	1352	7945074151831964	Fix_For_TranKienPhongPractice2A.exe	712b65060e4e7cd
+6	289	7945074583954376	CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj	20d35802bf4c87eb
+290	402	7945074586793986	Fix_For_TranKienPhongPractice2A.exe	712b65060e4e7cd
+16	1139	7945139918871362	CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj	20d35802bf4c87eb
+1140	1498	7945139930104652	Fix_For_TranKienPhongPractice2A.exe	712b65060e4e7cd
+8	442	7945140622915306	CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj	20d35802bf4c87eb
+442	573	7945140627254789	Fix_For_TranKienPhongPractice2A.exe	712b65060e4e7cd
+6	302	7945140979258206	CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj	20d35802bf4c87eb
+303	425	7945140982219290	Fix_For_TranKienPhongPractice2A.exe	712b65060e4e7cd
+6	355	7945141164304673	CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj	20d35802bf4c87eb
+355	465	7945141167795625	Fix_For_TranKienPhongPractice2A.exe	712b65060e4e7cd
+6	284	7945141327892936	CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj	20d35802bf4c87eb
+284	381	7945141330677852	Fix_For_TranKienPhongPractice2A.exe	712b65060e4e7cd

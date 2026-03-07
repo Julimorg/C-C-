@@ -43,6 +43,7 @@
       <config projectName="Cpp_and_C__" targetName="Namespace" />
       <config projectName="Cpp_and_C__" targetName="Array2D" />
       <config projectName="Cpp_and_C__" targetName="TwoSum1" />
+      <config projectName="Cpp_and_C__" targetName="Fix_For_TranKienPhongPractice2A" />
       <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
       <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer3" />
@@ -85,19 +86,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Queue/Tran_Kien_Phong_Practice2_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Queue/Tran_Kien_Phong_Practice2_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueueADT.dir/DataStructureAndAlgorithm/Queue/QueueADT.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/QueueADT.dir/DataStructureAndAlgorithm/Queue/QueueADT.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tran_Kien_Phong_Practice2_A.dir/DataStructureAndAlgorithm/Queue/Tran_Kien_Phong_Practice2_A.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Tran_Kien_Phong_Practice2_A.dir/DataStructureAndAlgorithm/Queue/Tran_Kien_Phong_Practice2_A.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/LinkList1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LinkList1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/QueueADT.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/QueueADT.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Tran_Kien_Phong_Practice2_A.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Tran_Kien_Phong_Practice2_A.exe" afterDir="false" />
-    </list>
+    <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,6 +281,11 @@
       </method>
     </configuration>
     <configuration name="Fibonacci_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Fibonacci_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Fibonacci_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fix_For_TranKienPhongPractice2A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Fix_For_TranKienPhongPractice2A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Fix_For_TranKienPhongPractice2A">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -527,6 +521,7 @@
       <item itemvalue="CMake Application.Cpp_and_C__" />
       <item itemvalue="CMake Application.DoublyLinkedList" />
       <item itemvalue="CMake Application.Fibonacci_1" />
+      <item itemvalue="CMake Application.Fix_For_TranKienPhongPractice2A" />
       <item itemvalue="CMake Application.ForLoop" />
       <item itemvalue="CMake Application.Function" />
       <item itemvalue="CMake Application.InputOutPut" />
@@ -623,7 +618,7 @@
       <workItem from="1771852604928" duration="12445000" />
       <workItem from="1772088838696" duration="26028000" />
       <workItem from="1772456981943" duration="2708000" />
-      <workItem from="1772600797020" duration="17648000" />
+      <workItem from="1772600797020" duration="18420000" />
     </task>
     <servers />
   </component>
