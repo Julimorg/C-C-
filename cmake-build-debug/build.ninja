@@ -1085,6 +1085,42 @@ build Fix_For_TranKienPhongPractice2A.exe: CXX_EXECUTABLE_LINKER__Fix_For_TranKi
   TARGET_PDB = Fix_For_TranKienPhongPractice2A.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target TrueCircularQueueADT
+
+
+#############################################
+# Order-only phony target for TrueCircularQueueADT
+
+build cmake_object_order_depends_target_TrueCircularQueueADT: phony || .
+
+build CMakeFiles/TrueCircularQueueADT.dir/DataStructureAndAlgorithm/Queue/TrueCircularQueueADT.cpp.obj: CXX_COMPILER__TrueCircularQueueADT_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Queue/TrueCircularQueueADT.cpp || cmake_object_order_depends_target_TrueCircularQueueADT
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\TrueCircularQueueADT.dir\DataStructureAndAlgorithm\Queue\TrueCircularQueueADT.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\TrueCircularQueueADT.dir
+  OBJECT_FILE_DIR = CMakeFiles\TrueCircularQueueADT.dir\DataStructureAndAlgorithm\Queue
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target TrueCircularQueueADT
+
+
+#############################################
+# Link the executable TrueCircularQueueADT.exe
+
+build TrueCircularQueueADT.exe: CXX_EXECUTABLE_LINKER__TrueCircularQueueADT_Debug CMakeFiles/TrueCircularQueueADT.dir/DataStructureAndAlgorithm/Queue/TrueCircularQueueADT.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\TrueCircularQueueADT.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = TrueCircularQueueADT.exe
+  TARGET_IMPLIB = libTrueCircularQueueADT.dll.a
+  TARGET_PDB = TrueCircularQueueADT.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Stack1
 
 
@@ -2304,6 +2340,8 @@ build TranKienPhong_2180607876_2: phony TranKienPhong_2180607876_2.exe
 
 build Tran_Kien_Phong_Practice2_A: phony Tran_Kien_Phong_Practice2_A.exe
 
+build TrueCircularQueueADT: phony TrueCircularQueueADT.exe
+
 build TwoSum1: phony TwoSum1.exe
 
 build Variables: phony Variables.exe
@@ -2316,7 +2354,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/Practice_DSA/C-C-/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Tran_Kien_Phong_Practice2_A.exe Fix_For_TranKienPhongPractice2A.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Tran_Kien_Phong_Practice2_A.exe Fix_For_TranKienPhongPractice2A.exe TrueCircularQueueADT.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
 
 # =============================================================================
 # Built-in targets

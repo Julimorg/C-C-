@@ -75,6 +75,7 @@
       <config projectName="Cpp_and_C__" targetName="PracticePointer5" />
       <config projectName="Cpp_and_C__" targetName="BasicVector" />
       <config projectName="Cpp_and_C__" targetName="Recursion1" />
+      <config projectName="Cpp_and_C__" targetName="TrueCircularQueueADT" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss5" />
       <config projectName="Cpp_and_C__" targetName="Function" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss1" />
@@ -86,7 +87,19 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="" />
+    <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Fix_For_TranKienPhongPractice2A.dir/DataStructureAndAlgorithm/Queue/Fix_For_TranKienPhongPractice2A.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Fix_For_TranKienPhongPractice2A.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Fix_For_TranKienPhongPractice2A.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Tran_Kien_Phong_Practice2_A.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Tran_Kien_Phong_Practice2_A.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,6 +147,7 @@
     "CMake Application.ConditionalStatements.executor": "Run",
     "CMake Application.Cpp_and_C__.executor": "Run",
     "CMake Application.Fibonacci_1.executor": "Run",
+    "CMake Application.Fix_For_TranKienPhongPractice2A.executor": "Run",
     "CMake Application.ForLoop.executor": "Run",
     "CMake Application.Function.executor": "Run",
     "CMake Application.InputOutPut.executor": "Run",
@@ -169,6 +183,7 @@
     "CMake Application.TranKienPhong_218060786_1.executor": "Debug",
     "CMake Application.TranKienPhong_2180607876_2.executor": "Run",
     "CMake Application.Tran_Kien_Phong_Practice2_A.executor": "Run",
+    "CMake Application.TrueCircularQueueADT.executor": "Run",
     "CMake Application.Variables.executor": "Run",
     "CMake Debug.Cpp_and_C__.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -201,12 +216,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Tran_Kien_Phong_Practice2_A">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.TrueCircularQueueADT">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -495,12 +505,22 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TrueCircularQueueADT" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="TrueCircularQueueADT" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="TrueCircularQueueADT">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoSum1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="TwoSum1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="TwoSum1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="Variables" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Variables" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Variables">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -563,6 +583,7 @@
       <item itemvalue="CMake Application.Tran_Kien_Phong_Practice2_A" />
       <item itemvalue="CMake Application.TranKienPhong_218060786_1" />
       <item itemvalue="CMake Application.TranKienPhong_2180607876_2" />
+      <item itemvalue="CMake Application.TrueCircularQueueADT" />
       <item itemvalue="CMake Application.TwoSum1" />
       <item itemvalue="CMake Application.Variables" />
       <item itemvalue="CMake Debug.Cpp_and_C__" />
@@ -619,6 +640,7 @@
       <workItem from="1772088838696" duration="26028000" />
       <workItem from="1772456981943" duration="2708000" />
       <workItem from="1772600797020" duration="18420000" />
+      <workItem from="1772799366350" duration="12137000" />
     </task>
     <servers />
   </component>
