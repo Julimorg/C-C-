@@ -132,6 +132,13 @@ add_executable(TrueCircularQueueADT
         DataStructureAndAlgorithm/Queue/TrueCircularQueueADT.cpp
         DataStructureAndAlgorithm/Queue/TrueCircularQueueADT.h )
 
+add_executable(QueueByLinkedList
+        DataStructureAndAlgorithm/Queue/QueueByLinkedList.cpp
+        DataStructureAndAlgorithm/Queue/QueueByLinkedList.h )
+
+add_executable(QueueSolveQuestion3
+        DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.cpp
+        DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.h )
 
 add_executable(Stack1
         DataStructureAndAlgorithm/Stack/Stack1.cpp

@@ -28,6 +28,8 @@ F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueLinkedList.di
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Tran_Kien_Phong_Practice2_A.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Fix_For_TranKienPhongPractice2A.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TrueCircularQueueADT.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueByLinkedList.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueSolveQuestion3.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TranKienPhong_2180607876_2.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Prefix1.dir
