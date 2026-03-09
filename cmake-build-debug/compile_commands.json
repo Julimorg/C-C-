@@ -187,6 +187,36 @@
 },
 {
   "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_practice3A.dir\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3A.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3A.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3A.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3A.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3A.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_practice3B.dir\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3B.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3B.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3B.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3B.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3B.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_practice3C.dir\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3C.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3C.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3C.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_practice3D.dir\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3D.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3D.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3D.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3D.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3D.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_practice3E.dir\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3E.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Stack\\2180607876_TranKienPhong_practice3E.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3E.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
   "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\QueueSolveQuestion3.dir\\DataStructureAndAlgorithm\\Queue\\QueueSolveQuestion3.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Queue\\QueueSolveQuestion3.cpp",
   "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.cpp",
   "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueSolveQuestion3.dir/DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.cpp.obj"

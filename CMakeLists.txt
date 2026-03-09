@@ -136,6 +136,27 @@ add_executable(QueueByLinkedList
         DataStructureAndAlgorithm/Queue/QueueByLinkedList.cpp
         DataStructureAndAlgorithm/Queue/QueueByLinkedList.h )
 
+add_executable(2180607876_TranKienPhong_practice3A
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3A.cpp
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3A.h)
+
+add_executable(2180607876_TranKienPhong_practice3B
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3B.cpp
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3B.h)
+
+add_executable(2180607876_TranKienPhong_practice3C
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.h)
+
+add_executable(2180607876_TranKienPhong_practice3D
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3D.cpp
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3D.h)
+
+add_executable(2180607876_TranKienPhong_practice3E
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.cpp
+        DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.h)
+
+
 add_executable(QueueSolveQuestion3
         DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.cpp
         DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.h )
