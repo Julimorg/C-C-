@@ -31,6 +31,7 @@
       <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_practice3B" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer4" />
       <config projectName="Cpp_and_C__" targetName="ArrayDynamicWithFunction" />
+      <config projectName="Cpp_and_C__" targetName="Stack3" />
       <config projectName="Cpp_and_C__" targetName="LinkedListBai1" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss4" />
       <config projectName="Cpp_and_C__" targetName="Cpp_and_C__" />
@@ -81,6 +82,7 @@
       <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_practice3C" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer5" />
       <config projectName="Cpp_and_C__" targetName="BasicVector" />
+      <config projectName="Cpp_and_C__" targetName="Stack2" />
       <config projectName="Cpp_and_C__" targetName="Recursion1" />
       <config projectName="Cpp_and_C__" targetName="TrueCircularQueueADT" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss5" />
@@ -95,11 +97,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/Stack3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/Stack3.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/Stack1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/Stack1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_Practice3E.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_Practice3E.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3B.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3B.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3361436b5bb7f112417e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-03-09T08-22-50-0962.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai1-Debug-3e6e06470172b9fb5f48.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai30-Debug-dea1fc9024f2f35c55de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai32-Debug-a578cd96763aee94798c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LinkedListBai1-Debug-a12dde7487ca7c843c55.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer-Debug-dd73b4c23458fbab3f6a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer2-Debug-e6b9b77ba62ac2694d16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer3-Debug-3d0e1ed914600d0b0c32.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer4-Debug-522af85dd3466db559e7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer5-Debug-1fdf3ba9178760affec8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix1-Debug-55cb565471fb5c30ef16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix2-Debug-9523afc5a7ff6446de76.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix2D-Debug-d7caa0858a514933b74f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-QueueSolveQuestion3-Debug-a13db4b708acbc526b26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss1-Debug-b1c080c00287f5b6a28b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss2-Debug-7b4004dd3158661f4698.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss3-Debug-94082821896f55b01a80.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss4-Debug-9f710e0ada4c0377b9a1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss5-Debug-7d147ed2c4b6e33da1ae.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss6-Debug-b25100bfe4de90f92ab2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss7-Debug-3b421d8e4d2cdd3aa4c7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss8-Debug-2a3f7ec6994c1b08cf34.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic01-Debug-26c72bc4b8f6587437e4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic02-Debug-9f2cf869670789e76ab8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic03-Debug-de5b19597483b9c38cb6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic04-Debug-27e55d36286bd0e288c3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic05-Debug-c9eb3378ca8df5540a46.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic06-Debug-cdea5b6424babc45ee9f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic07-Debug-75de57f95e6aa6d18f6e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic08-Debug-bd8de26d422f80067fc7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Stack1-Debug-8ef6e226ee3d33e6e6cd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TranKienPhong_2180607876_2-Debug-7b966286e3151c97e24b.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/2180607876_TranKienPhong_practice3B.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/2180607876_TranKienPhong_practice3B.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/2180607876_TranKienPhong_practice3C.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/2180607876_TranKienPhong_practice3C.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/2180607876_TranKienPhong_practice3E.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/2180607876_TranKienPhong_practice3E.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3B.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3B.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3B.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3B.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3C.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3C.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3E.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3E.dir/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
@@ -189,6 +237,8 @@
     "CMake Application.SetMapAssBasic06.executor": "Run",
     "CMake Application.SetMapAssBasic07.executor": "Run",
     "CMake Application.Stack1.executor": "Run",
+    "CMake Application.Stack2.executor": "Run",
+    "CMake Application.Stack3.executor": "Run",
     "CMake Application.Struct1.executor": "Run",
     "CMake Application.StructLibrary.executor": "Run",
     "CMake Application.TranKienPhong_218060786_1.executor": "Debug",
@@ -229,12 +279,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.2180607876_TranKienPhong_practice3E">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.Stack3">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -533,6 +578,16 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stack2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Stack2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Stack2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stack3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Stack3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Stack3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Struct1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Struct1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Struct1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -569,6 +624,11 @@
       </method>
     </configuration>
     <configuration name="Variables" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="Variables" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="Variables">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -633,6 +693,8 @@
       <item itemvalue="CMake Application.SetMapAssBasic07" />
       <item itemvalue="CMake Application.SetMapAssBasic08" />
       <item itemvalue="CMake Application.Stack1" />
+      <item itemvalue="CMake Application.Stack2" />
+      <item itemvalue="CMake Application.Stack3" />
       <item itemvalue="CMake Application.Struct1" />
       <item itemvalue="CMake Application.StructLibrary" />
       <item itemvalue="CMake Application.Tran_Kien_Phong_Practice2_A" />
@@ -697,7 +759,8 @@
       <workItem from="1772600797020" duration="18420000" />
       <workItem from="1772799366350" duration="18148000" />
       <workItem from="1772930562645" duration="7462000" />
-      <workItem from="1773035104522" duration="10306000" />
+      <workItem from="1773035104522" duration="12616000" />
+      <workItem from="1773214366920" duration="11263000" />
     </task>
     <servers />
   </component>

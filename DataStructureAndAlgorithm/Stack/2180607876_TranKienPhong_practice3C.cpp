@@ -1,106 +1,239 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
 #include <iostream>
+
 using namespace std;
+
+// ============ QUESTION 3 ===========
+
+typedef struct StackNode {
+    char data;
+    struct StackNode* next;
+} StackNode;
+
+typedef struct {
+    StackNode* top;
+} StackChar;
+
+void initStackChar(StackChar* s) { s->top = NULL; }
+
+int isEmptyChar(StackChar* s) { return s->top == NULL; }
+
+void pushChar(StackChar* s, char c) {
+    StackNode* node = (StackNode*)malloc(sizeof(StackNode));
+    node->data = c;
+    node->next = s->top;
+    s->top = node;
+}
+
+char popChar(StackChar* s) {
+    if (isEmptyChar(s)) return '\0';
+
+    StackNode* temp = s->top;
+    char val = temp->data;
+
+    s->top = s->top->next;
+    free(temp);
+
+    return val;
+}
+
+char peekChar(StackChar* s) {
+    if (isEmptyChar(s)) return '\0';
+    return s->top->data;
+}
+
+int precedence(char op) {
+    if (op == '*' || op == '/') return 2;
+    if (op == '+' || op == '-') return 1;
+    return 0;
+}
+
+int isOperator(char c) {
+    return c == '+' || c == '-' || c == '*' || c == '/';
+}
+
+void infixToPostfix(char* infix, char* postfix) {
+
+    StackChar s;
+    initStackChar(&s);
+
+    int j = 0;
+
+    for (int i = 0; infix[i] != '\0'; i++) {
+
+        char token = infix[i];
+
+        if (token == ' ') continue;
+
+        if (isalpha(token) || isdigit(token)) {
+            postfix[j++] = token;
+        }
+
+        else if (token == '(') {
+            pushChar(&s, token);
+        }
+
+        else if (token == ')') {
+
+            while (!isEmptyChar(&s) && peekChar(&s) != '(') {
+                postfix[j++] = popChar(&s);
+            }
+
+            popChar(&s);
+        }
+
+        else if (isOperator(token)) {
+
+            while (!isEmptyChar(&s) &&
+                   isOperator(peekChar(&s)) &&
+                   precedence(peekChar(&s)) >= precedence(token)) {
+
+                postfix[j++] = popChar(&s);
+            }
+
+            pushChar(&s, token);
+        }
+    }
+
+    while (!isEmptyChar(&s)) {
+        postfix[j++] = popChar(&s);
+    }
+
+    postfix[j] = '\0';
+}
+
+
+// ============ QUESTION 4 ===========
 
 struct Node {
     int data;
     Node *next;
 };
 
-struct Stack {
+struct StackInt {
     Node *top;
 };
 
-void initStack(Stack *&s) {
+void initStackInt(StackInt *s) {
     s->top = NULL;
 }
 
-bool isEmpty(Stack *s) {
+int isEmptyInt(StackInt *s) {
     return s->top == NULL;
 }
 
-void push(Stack *&s, int data) {
+void pushInt(StackInt *s, int c) {
     Node *newNode = new Node;
-    newNode->data = data;
+    newNode->data = c;
     newNode->next = s->top;
-
     s->top = newNode;
 }
 
-int popUp(Stack *&s) {
-    if (isEmpty(s)) {
-        cout << "Stack is empty!" << endl;
-        return -1;
-    }
-    int data = s->top->data;
-    Node *temp = s->top;
+int popInt(StackInt* s) {
+
+    if (isEmptyInt(s)) return 0;
+
+    Node* temp = s->top;
+    int val = temp->data;
+
     s->top = s->top->next;
+
     delete temp;
-    return data;
-}
-int peek(Stack *s) {
-    return s->top->data;
+
+    return val;
 }
 
-void addLast(Node *&head, int data) {
-    Node *newNode = new Node;
-    newNode->data = data;
-    newNode->next = nullptr;
+int calculatePostFix(char *c) {
 
-    if (head == nullptr) { head = newNode; return; }
+    StackInt s;
 
-    Node *cur = head;
-    while (cur->next != nullptr) cur = cur->next;
-    cur->next = newNode;
-}
-bool isPalindrome(Node *head) {
-    Stack *s = new Stack;
-    initStack(s);
+    initStackInt(&s);
 
-    Node *cur = head;
-    while (cur != nullptr) {
-        push(s, cur->data);
-        cur = cur->next;
-    }
+    char buffer[256];
 
-    cur = head;
-    while (cur != nullptr) {
-        if (popUp(s) != cur->data) {
-            delete s;
-            return false;
+    strcpy(buffer, c);
+
+    char* token = strtok(buffer, " ");
+
+    while (token != NULL) {
+
+        if (isdigit(token[0])) {
+
+            pushInt(&s, atoi(token));
         }
-        cur = cur->next;
+        else {
+
+            int first = popInt(&s);
+            int second = popInt(&s);
+
+            int result = 0;
+
+            switch (token[0]) {
+
+                case '+': result = second + first; break;
+                case '-': result = second - first; break;
+                case '*': result = second * first; break;
+                case '/': result = second / first; break;
+
+                default:
+                    cout << "Error !" << endl;
+                    break;
+            }
+
+            cout << "second: " << second
+                 << " -> token : " << token[0]
+                 << " -> first: " << first
+                 << " = " << result << endl;
+
+            pushInt(&s, result);
+        }
+
+        token = strtok(NULL, " ");
     }
 
-    delete s;
-    return true;
+    return popInt(&s);
 }
 
-void printList(Node *head) {
-    Node *cur = head;
-    while (cur != nullptr) {
-        cout << cur->data << " ";
-        cur = cur->next;
-    }
-    cout << endl;
-}
 
 
 int main() {
-    Node *list1 = nullptr;
-    int a[] = {4, 5, 6, 7, 8, 7, 6, 5, 4};
-    for (int x : a) addLast(list1, x);
-    cout << "Danh sach 1: "; printList(list1);
-    cout << (isPalindrome(list1) ? "=> Is palindrome\n" : "=> Is NOT palindrome\n");
 
-    Node *list2 = nullptr;
-    int b[] = {4, 5, 6, 7, 4, 5, 6, 7};
-    for (int x : b) addLast(list2, x);
-    cout << "\nDanh sach 2: "; printList(list2);
-    cout << (isPalindrome(list2) ? "=> Is palindrome\n" : "=> Is NOT palindrome\n");
+    /* ---- TEST INFIX -> POSTFIX ---- */
 
-    Node *list3 = nullptr;
-    int c[] = {1,2,3,4,5,6,7,8,9,10,9,8,7,6,5,4,3,2,1};
-    for (int x : c) addLast(list3, x);
-    cout << "\nDanh sach 3: "; printList(list3);
-    cout << (isPalindrome(list3) ? "=> Is palindrome\n" : "=> Is NOT palindrome\n");
+    char infix[100];
+    char postfix[100];
+
+    strcpy(infix, "(A/(B-C)*D+E)");
+
+    infixToPostfix(infix, postfix);
+
+    printf("Infix  : %s\n", infix);
+    printf("Postfix: %s\n", postfix);
+    printf("Expected: ABC-/D*E+\n\n");
+
+
+    strcpy(infix, "A+B*C");
+
+    infixToPostfix(infix, postfix);
+
+    printf("Infix  : %s\n", infix);
+    printf("Postfix: %s\n", postfix);
+    printf("Expected: ABC*+\n\n");
+
+
+    /* ---- TEST POSTFIX CALCULATE ---- */
+
+    char* expr =zz (char*)"40 6 2 - / 3 * 4 +";
+
+    cout << "Postfix: " << expr << endl;
+    cout << "Step calculate:\n";
+
+    int result = calculatePostFix(expr);
+
+    cout << "the result = " << result << endl;
+
+    return 0;
 }

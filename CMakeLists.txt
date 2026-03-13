@@ -156,6 +156,13 @@ add_executable(2180607876_TranKienPhong_practice3E
         DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.cpp
         DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.h)
 
+add_executable(Stack2
+        DataStructureAndAlgorithm/Stack/Stack2.cpp
+        DataStructureAndAlgorithm/Stack/Stack2.h)
+
+add_executable(Stack3
+        DataStructureAndAlgorithm/Stack/Stack3.cpp
+        DataStructureAndAlgorithm/Stack/Stack3.h)
 
 add_executable(QueueSolveQuestion3
         DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.cpp

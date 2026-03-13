@@ -14,11 +14,9 @@ struct Node {
     char data;
     Node *next;
 };
-
 struct Stack {
     Node *top;
 };
-
 void initStack(Stack *s) {
     s->top = NULL;
 }
@@ -39,17 +37,14 @@ char pop(Stack* s) {
     free(temp);
     return val;
 }
-
 char peek(Stack* s) {
     if (isEmpty(s)) return '\0';
     return s->top->data;
 }
-
 int isOperator(char c) {
     return c == '+' || c == '-' || c == '*' || c == '/';
 }
-
-int calculatePostFix(const char *c) {
+int calculatePostFix(char *c) {
     Stack s;
     initStack(&s);
     char buffer[256];
@@ -82,7 +77,7 @@ int calculatePostFix(const char *c) {
     return pop(&s);
 }
 int main() {
-    const char* expr = "40 6 2 - / 3 * 4 +";
+    char* expr = "40 6 2 - / 3 * 4 +";
 
     cout << "Postfix: " <<  expr << endl;
     cout <<  "Step calculate:\n";

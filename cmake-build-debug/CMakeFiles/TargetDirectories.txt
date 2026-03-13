@@ -34,6 +34,8 @@ F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKie
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3C.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3D.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_practice3E.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack2.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack3.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueSolveQuestion3.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/TranKienPhong_2180607876_2.dir
