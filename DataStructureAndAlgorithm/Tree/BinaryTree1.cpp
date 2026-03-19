@@ -32,7 +32,40 @@ Node *insertNode(Node *root, int data) {
     }
     return root;
 }
+Node *findMin(Node *node) {
+    while (node->left != NULL) {
+        node = node->left;
+    }
+    return node;
+}
+Node *deleteNode(Node *root, int key) {
+    if (root == NULL) return NULL;
 
+    if (key < root->data) {
+        root->left = deleteNode(root->left, key);
+    }else if (key > root->data) {
+        root->right = deleteNode(root->right, key);
+    }else {
+
+        if (root->left == nullptr) {
+            Node* temp = root->right;
+            delete root;
+            return temp; // Trả về con phải (hoặc nullptr nếu là lá)
+        }
+        if (root->right == nullptr) {
+            Node* temp = root->left;
+            delete root;
+            return temp; // Trả về con trái
+        }
+
+        Node *successor = findMin(root->right);
+
+        root->data = successor->data;
+
+        root->right = deleteNode(root->right, successor->data);
+    }
+    return root;
+}
 void preOrder(Node *root) {
     if (root == NULL) return;
 
@@ -99,8 +132,25 @@ int main() {
     cout << "\nLevelOrder: " << endl;
     levelOrder(root);
 
+    cout << "\n------------------\n";
+    cout << "Min of tree: " << findMin(root) << endl;;
+
     cout << "\nTree after insert : " << " \n";
     root = insertNode(root, 6);
+
+    cout << "PreOrder:  " << endl;
+    preOrder(root);
+
+    cout << "\nInfixOrder:  " << endl;
+    infixOrder(root);
+
+    cout << "\nPostOrder:  " << endl;
+    postOrder(root);
+    cout << "\nLevelOrder: " << endl;
+    levelOrder(root);
+
+    cout << "\nTree after delete : " << " \n";
+    root = deleteNode(root, 10);
 
     cout << "PreOrder:  " << endl;
     preOrder(root);

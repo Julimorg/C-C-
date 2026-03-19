@@ -172,6 +172,10 @@ add_executable(2180607876_TranKienPhong_Practice4_A
         DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_A.cpp
         DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_A.h)
 
+add_executable(2180607876_TranKienPhong_Practice4_B
+        DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_B.cpp
+        DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_B.h)
+
 add_executable(QueueSolveQuestion3
         DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.cpp
         DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.h )

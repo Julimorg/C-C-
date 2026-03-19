@@ -241,6 +241,12 @@
 },
 {
   "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_Practice4_B.dir\\DataStructureAndAlgorithm\\Tree\\2180607876_TranKienPhong_Practice4_B.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Tree\\2180607876_TranKienPhong_Practice4_B.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_B.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_Practice4_B.dir/DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_B.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
   "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\QueueSolveQuestion3.dir\\DataStructureAndAlgorithm\\Queue\\QueueSolveQuestion3.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Queue\\QueueSolveQuestion3.cpp",
   "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.cpp",
   "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/QueueSolveQuestion3.dir/DataStructureAndAlgorithm/Queue/QueueSolveQuestion3.cpp.obj"
