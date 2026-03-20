@@ -168,6 +168,10 @@ add_executable(BinaryTree1
         DataStructureAndAlgorithm/Tree/BinaryTree1.cpp
         DataStructureAndAlgorithm/Tree/BinaryTree1.h)
 
+add_executable(AVLTree
+        DataStructureAndAlgorithm/Tree/AVLTree.cpp
+        DataStructureAndAlgorithm/Tree/AVLTree.h)
+
 add_executable(2180607876_TranKienPhong_Practice4_A
         DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_A.cpp
         DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_A.h)

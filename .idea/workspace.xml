@@ -67,6 +67,7 @@
       <config projectName="Cpp_and_C__" targetName="Stack1" />
       <config projectName="Cpp_and_C__" targetName="PracticePointer2" />
       <config projectName="Cpp_and_C__" targetName="Prefix1" />
+      <config projectName="Cpp_and_C__" targetName="AVLTree" />
       <config projectName="Cpp_and_C__" targetName="DoublyLinkedList" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss6" />
       <config projectName="Cpp_and_C__" targetName="QueueADT" />
@@ -102,13 +103,10 @@
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Tree/BinaryTree1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Tree/BinaryTree1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-2180607876_TranKienPhong_Practice4_A-Debug-13c786652086b5cb6e3e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-2180607876_TranKienPhong_Practice4_B-Debug-c05592427b1e996fab2b.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/2180607876_TranKienPhong_Practice4_A.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/2180607876_TranKienPhong_Practice4_A.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/BinaryTree1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/BinaryTree1.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BinaryTree1.dir/DataStructureAndAlgorithm/Tree/BinaryTree1.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/BinaryTree1.dir/DataStructureAndAlgorithm/Tree/BinaryTree1.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
@@ -283,6 +281,11 @@
       </method>
     </configuration>
     <configuration name="2180607876_TranKienPhong_practice3E" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="2180607876_TranKienPhong_practice3E" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="2180607876_TranKienPhong_practice3E">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTree" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="AVLTree" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="AVLTree">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -623,6 +626,7 @@
       <item itemvalue="CMake Application.Array2D" />
       <item itemvalue="CMake Application.ArrayADT" />
       <item itemvalue="CMake Application.ArrayDynamicWithFunction" />
+      <item itemvalue="CMake Application.AVLTree" />
       <item itemvalue="CMake Application.Bai1" />
       <item itemvalue="CMake Application.Bai30" />
       <item itemvalue="CMake Application.Bai32" />
@@ -743,7 +747,7 @@
       <workItem from="1772930562645" duration="7462000" />
       <workItem from="1773035104522" duration="12616000" />
       <workItem from="1773214366920" duration="15216000" />
-      <workItem from="1773814402618" duration="18672000" />
+      <workItem from="1773814402618" duration="21961000" />
     </task>
     <servers />
   </component>

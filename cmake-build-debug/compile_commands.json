@@ -235,6 +235,12 @@
 },
 {
   "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\AVLTree.dir\\DataStructureAndAlgorithm\\Tree\\AVLTree.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Tree\\AVLTree.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Tree/AVLTree.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/AVLTree.dir/DataStructureAndAlgorithm/Tree/AVLTree.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
   "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_Practice4_A.dir\\DataStructureAndAlgorithm\\Tree\\2180607876_TranKienPhong_Practice4_A.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Tree\\2180607876_TranKienPhong_Practice4_A.cpp",
   "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_A.cpp",
   "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_Practice4_A.dir/DataStructureAndAlgorithm/Tree/2180607876_TranKienPhong_Practice4_A.cpp.obj"
