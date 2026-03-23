@@ -217,6 +217,24 @@
 },
 {
   "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_Practice5_A.dir\\DataStructureAndAlgorithm\\AVLTree\\2180607876_TranKienPhong_Practice5_A.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\AVLTree\\2180607876_TranKienPhong_Practice5_A.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_A.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_Practice5_A.dir/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_A.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_Practice5_B.dir\\DataStructureAndAlgorithm\\AVLTree\\2180607876_TranKienPhong_Practice5_B.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\AVLTree\\2180607876_TranKienPhong_Practice5_B.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_B.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_Practice5_B.dir/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_B.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_Practice5_C.dir\\DataStructureAndAlgorithm\\AVLTree\\2180607876_TranKienPhong_Practice5_C.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\AVLTree\\2180607876_TranKienPhong_Practice5_C.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_C.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_Practice5_C.dir/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_C.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
   "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Stack2.dir\\DataStructureAndAlgorithm\\Stack\\Stack2.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Stack\\Stack2.cpp",
   "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/Stack2.cpp",
   "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack2.dir/DataStructureAndAlgorithm/Stack/Stack2.cpp.obj"

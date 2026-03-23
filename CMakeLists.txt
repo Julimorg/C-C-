@@ -156,6 +156,19 @@ add_executable(2180607876_TranKienPhong_practice3E
         DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.cpp
         DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3E.h)
 
+add_executable(2180607876_TranKienPhong_Practice5_A
+        DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_A.cpp
+        DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_A.h)
+
+
+add_executable(2180607876_TranKienPhong_Practice5_B
+        DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_B.cpp
+        DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_B.h)
+
+add_executable(2180607876_TranKienPhong_Practice5_C
+        DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_C.cpp
+        DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_C.h)
+
 add_executable(Stack2
         DataStructureAndAlgorithm/Stack/Stack2.cpp
         DataStructureAndAlgorithm/Stack/Stack2.h)

@@ -24,6 +24,7 @@
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic02" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss8" />
       <config projectName="Cpp_and_C__" targetName="BasicDataTypes" />
+      <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_Practice5_B" />
       <config projectName="Cpp_and_C__" targetName="ForLoop" />
       <config projectName="Cpp_and_C__" targetName="Bai30" />
       <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_Practice4_A" />
@@ -49,6 +50,7 @@
       <config projectName="Cpp_and_C__" targetName="TwoSum1" />
       <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_practice3E" />
       <config projectName="Cpp_and_C__" targetName="Fix_For_TranKienPhongPractice2A" />
+      <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_Practice5_A" />
       <config projectName="Cpp_and_C__" targetName="ConditionalStatements" />
       <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_practice3A" />
       <config projectName="Cpp_and_C__" targetName="PracticeSet1" />
@@ -80,6 +82,7 @@
       <config projectName="Cpp_and_C__" targetName="QueueLinkedList" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic01" />
       <config projectName="Cpp_and_C__" targetName="BinaryTree1" />
+      <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_Practice5_C" />
       <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_Practice4_B" />
       <config projectName="Cpp_and_C__" targetName="Tran_Kien_Phong_Practice2_A" />
       <config projectName="Cpp_and_C__" targetName="QueueByLinkedList" />
@@ -103,8 +106,6 @@
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-2180607876_TranKienPhong_Practice4_A-Debug-13c786652086b5cb6e3e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-2180607876_TranKienPhong_Practice4_B-Debug-c05592427b1e996fab2b.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
@@ -146,6 +147,9 @@
   "keyToString": {
     "CMake Application.2180607876_TranKienPhong_Practice4_A.executor": "Run",
     "CMake Application.2180607876_TranKienPhong_Practice4_B.executor": "Run",
+    "CMake Application.2180607876_TranKienPhong_Practice5_A.executor": "Run",
+    "CMake Application.2180607876_TranKienPhong_Practice5_B.executor": "Run",
+    "CMake Application.2180607876_TranKienPhong_Practice5_C.executor": "Run",
     "CMake Application.2180607876_TranKienPhong_practice3A.executor": "Run",
     "CMake Application.2180607876_TranKienPhong_practice3B.executor": "Run",
     "CMake Application.2180607876_TranKienPhong_practice3C.executor": "Run",
@@ -241,7 +245,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.2180607876_TranKienPhong_Practice4_B">
+  <component name="RunManager" selected="CMake Application.2180607876_TranKienPhong_Practice5_A">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -256,6 +260,21 @@
       </method>
     </configuration>
     <configuration name="2180607876_TranKienPhong_Practice4_B" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="2180607876_TranKienPhong_Practice4_B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="2180607876_TranKienPhong_Practice4_B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2180607876_TranKienPhong_Practice5_A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="2180607876_TranKienPhong_Practice5_A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="2180607876_TranKienPhong_Practice5_A">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2180607876_TranKienPhong_Practice5_B" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="2180607876_TranKienPhong_Practice5_B" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="2180607876_TranKienPhong_Practice5_B">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="2180607876_TranKienPhong_Practice5_C" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="2180607876_TranKienPhong_Practice5_C" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="2180607876_TranKienPhong_Practice5_C">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -616,17 +635,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice4_A" />
+      <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice4_B" />
+      <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice5_A" />
+      <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice5_B" />
+      <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice5_C" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_practice3A" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_practice3B" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_practice3C" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_practice3D" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_practice3E" />
-      <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice4_A" />
-      <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice4_B" />
+      <item itemvalue="CMake Application.AVLTree" />
       <item itemvalue="CMake Application.Array2D" />
       <item itemvalue="CMake Application.ArrayADT" />
       <item itemvalue="CMake Application.ArrayDynamicWithFunction" />
-      <item itemvalue="CMake Application.AVLTree" />
       <item itemvalue="CMake Application.Bai1" />
       <item itemvalue="CMake Application.Bai30" />
       <item itemvalue="CMake Application.Bai32" />
@@ -644,8 +666,8 @@
       <item itemvalue="CMake Application.ForLoop" />
       <item itemvalue="CMake Application.Function" />
       <item itemvalue="CMake Application.InputOutPut" />
-      <item itemvalue="CMake Application.LinkedListBai1" />
       <item itemvalue="CMake Application.LinkList1" />
+      <item itemvalue="CMake Application.LinkedListBai1" />
       <item itemvalue="CMake Application.Namespace" />
       <item itemvalue="CMake Application.PracticePointer2" />
       <item itemvalue="CMake Application.PracticePointer3" />
@@ -656,12 +678,12 @@
       <item itemvalue="CMake Application.PraticeMultiSet" />
       <item itemvalue="CMake Application.Prefix1" />
       <item itemvalue="CMake Application.Prefix2D" />
+      <item itemvalue="CMake Application.Prefix2" />
       <item itemvalue="CMake Application.QueueADT" />
       <item itemvalue="CMake Application.QueueByLinkedList" />
       <item itemvalue="CMake Application.QueueLinkedList" />
       <item itemvalue="CMake Application.QueueSolveQuestion3" />
       <item itemvalue="CMake Application.Recursion1" />
-      <item itemvalue="CMake Application.Prefix2" />
       <item itemvalue="CMake Application.SetMapAss1" />
       <item itemvalue="CMake Application.SetMapAss2" />
       <item itemvalue="CMake Application.SetMapAss3" />
@@ -683,9 +705,9 @@
       <item itemvalue="CMake Application.Stack3" />
       <item itemvalue="CMake Application.Struct1" />
       <item itemvalue="CMake Application.StructLibrary" />
-      <item itemvalue="CMake Application.Tran_Kien_Phong_Practice2_A" />
       <item itemvalue="CMake Application.TranKienPhong_218060786_1" />
       <item itemvalue="CMake Application.TranKienPhong_2180607876_2" />
+      <item itemvalue="CMake Application.Tran_Kien_Phong_Practice2_A" />
       <item itemvalue="CMake Application.TrueCircularQueueADT" />
       <item itemvalue="CMake Application.TwoSum1" />
       <item itemvalue="CMake Application.Variables" />
@@ -747,7 +769,9 @@
       <workItem from="1772930562645" duration="7462000" />
       <workItem from="1773035104522" duration="12616000" />
       <workItem from="1773214366920" duration="15216000" />
-      <workItem from="1773814402618" duration="21961000" />
+      <workItem from="1773814402618" duration="21988000" />
+      <workItem from="1774062758150" duration="8000" />
+      <workItem from="1774244837192" duration="9979000" />
     </task>
     <servers />
   </component>
