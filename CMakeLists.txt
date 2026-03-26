@@ -169,6 +169,14 @@ add_executable(2180607876_TranKienPhong_Practice5_C
         DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_C.cpp
         DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_C.h)
 
+add_executable(2180607876_TranKienPhong_Practice5_D
+        DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_D.cpp
+        DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_D.h)
+
+add_executable(AVLTreeStructure
+        DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.cpp
+        DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.h)
+
 add_executable(Stack2
         DataStructureAndAlgorithm/Stack/Stack2.cpp
         DataStructureAndAlgorithm/Stack/Stack2.h)

@@ -235,6 +235,18 @@
 },
 {
   "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\2180607876_TranKienPhong_Practice5_D.dir\\DataStructureAndAlgorithm\\AVLTree\\2180607876_TranKienPhong_Practice5_D.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\AVLTree\\2180607876_TranKienPhong_Practice5_D.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_D.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/2180607876_TranKienPhong_Practice5_D.dir/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_D.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
+  "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\AVLTreeStructure.dir\\DataStructureAndAlgorithm\\AVLTree\\AVLTreeStructure.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\AVLTree\\AVLTreeStructure.cpp",
+  "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.cpp",
+  "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/AVLTreeStructure.dir/DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.cpp.obj"
+},
+{
+  "directory": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug",
   "command": "F:\\Clion\\bin\\mingw\\bin\\g++.exe -IF:/Programming/Practice_DSA/C-C-/Basic -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Stack2.dir\\DataStructureAndAlgorithm\\Stack\\Stack2.cpp.obj -c F:\\Programming\\Practice_DSA\\C-C-\\DataStructureAndAlgorithm\\Stack\\Stack2.cpp",
   "file": "F:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Stack/Stack2.cpp",
   "output": "F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack2.dir/DataStructureAndAlgorithm/Stack/Stack2.cpp.obj"

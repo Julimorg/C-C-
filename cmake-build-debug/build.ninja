@@ -1445,6 +1445,78 @@ build 2180607876_TranKienPhong_Practice5_C.exe: CXX_EXECUTABLE_LINKER__218060787
   TARGET_PDB = 2180607876_TranKienPhong_Practice5_C.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target 2180607876_TranKienPhong_Practice5_D
+
+
+#############################################
+# Order-only phony target for 2180607876_TranKienPhong_Practice5_D
+
+build cmake_object_order_depends_target_2180607876_TranKienPhong_Practice5_D: phony || .
+
+build CMakeFiles/2180607876_TranKienPhong_Practice5_D.dir/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_D.cpp.obj: CXX_COMPILER__2180607876_TranKienPhong_Practice5_D_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_D.cpp || cmake_object_order_depends_target_2180607876_TranKienPhong_Practice5_D
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\2180607876_TranKienPhong_Practice5_D.dir\DataStructureAndAlgorithm\AVLTree\2180607876_TranKienPhong_Practice5_D.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\2180607876_TranKienPhong_Practice5_D.dir
+  OBJECT_FILE_DIR = CMakeFiles\2180607876_TranKienPhong_Practice5_D.dir\DataStructureAndAlgorithm\AVLTree
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2180607876_TranKienPhong_Practice5_D
+
+
+#############################################
+# Link the executable 2180607876_TranKienPhong_Practice5_D.exe
+
+build 2180607876_TranKienPhong_Practice5_D.exe: CXX_EXECUTABLE_LINKER__2180607876_TranKienPhong_Practice5_D_Debug CMakeFiles/2180607876_TranKienPhong_Practice5_D.dir/DataStructureAndAlgorithm/AVLTree/2180607876_TranKienPhong_Practice5_D.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2180607876_TranKienPhong_Practice5_D.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2180607876_TranKienPhong_Practice5_D.exe
+  TARGET_IMPLIB = lib2180607876_TranKienPhong_Practice5_D.dll.a
+  TARGET_PDB = 2180607876_TranKienPhong_Practice5_D.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target AVLTreeStructure
+
+
+#############################################
+# Order-only phony target for AVLTreeStructure
+
+build cmake_object_order_depends_target_AVLTreeStructure: phony || .
+
+build CMakeFiles/AVLTreeStructure.dir/DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.cpp.obj: CXX_COMPILER__AVLTreeStructure_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.cpp || cmake_object_order_depends_target_AVLTreeStructure
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\AVLTreeStructure.dir\DataStructureAndAlgorithm\AVLTree\AVLTreeStructure.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\AVLTreeStructure.dir
+  OBJECT_FILE_DIR = CMakeFiles\AVLTreeStructure.dir\DataStructureAndAlgorithm\AVLTree
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target AVLTreeStructure
+
+
+#############################################
+# Link the executable AVLTreeStructure.exe
+
+build AVLTreeStructure.exe: CXX_EXECUTABLE_LINKER__AVLTreeStructure_Debug CMakeFiles/AVLTreeStructure.dir/DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\AVLTreeStructure.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = AVLTreeStructure.exe
+  TARGET_IMPLIB = libAVLTreeStructure.dll.a
+  TARGET_PDB = AVLTreeStructure.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Stack2
 
 
@@ -2812,6 +2884,8 @@ build 2180607876_TranKienPhong_Practice5_B: phony 2180607876_TranKienPhong_Pract
 
 build 2180607876_TranKienPhong_Practice5_C: phony 2180607876_TranKienPhong_Practice5_C.exe
 
+build 2180607876_TranKienPhong_Practice5_D: phony 2180607876_TranKienPhong_Practice5_D.exe
+
 build 2180607876_TranKienPhong_practice3A: phony 2180607876_TranKienPhong_practice3A.exe
 
 build 2180607876_TranKienPhong_practice3B: phony 2180607876_TranKienPhong_practice3B.exe
@@ -2823,6 +2897,8 @@ build 2180607876_TranKienPhong_practice3D: phony 2180607876_TranKienPhong_practi
 build 2180607876_TranKienPhong_practice3E: phony 2180607876_TranKienPhong_practice3E.exe
 
 build AVLTree: phony AVLTree.exe
+
+build AVLTreeStructure: phony AVLTreeStructure.exe
 
 build Array2D: phony Array2D.exe
 
@@ -2962,7 +3038,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/Practice_DSA/C-C-/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Tran_Kien_Phong_Practice2_A.exe Fix_For_TranKienPhongPractice2A.exe TrueCircularQueueADT.exe QueueByLinkedList.exe 2180607876_TranKienPhong_practice3A.exe 2180607876_TranKienPhong_practice3B.exe 2180607876_TranKienPhong_practice3C.exe 2180607876_TranKienPhong_practice3D.exe 2180607876_TranKienPhong_practice3E.exe 2180607876_TranKienPhong_Practice5_A.exe 2180607876_TranKienPhong_Practice5_B.exe 2180607876_TranKienPhong_Practice5_C.exe Stack2.exe Stack3.exe BinaryTree1.exe AVLTree.exe 2180607876_TranKienPhong_Practice4_A.exe 2180607876_TranKienPhong_Practice4_B.exe QueueSolveQuestion3.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Tran_Kien_Phong_Practice2_A.exe Fix_For_TranKienPhongPractice2A.exe TrueCircularQueueADT.exe QueueByLinkedList.exe 2180607876_TranKienPhong_practice3A.exe 2180607876_TranKienPhong_practice3B.exe 2180607876_TranKienPhong_practice3C.exe 2180607876_TranKienPhong_practice3D.exe 2180607876_TranKienPhong_practice3E.exe 2180607876_TranKienPhong_Practice5_A.exe 2180607876_TranKienPhong_Practice5_B.exe 2180607876_TranKienPhong_Practice5_C.exe 2180607876_TranKienPhong_Practice5_D.exe AVLTreeStructure.exe Stack2.exe Stack3.exe BinaryTree1.exe AVLTree.exe 2180607876_TranKienPhong_Practice4_A.exe 2180607876_TranKienPhong_Practice4_B.exe QueueSolveQuestion3.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
 
 # =============================================================================
 # Built-in targets
