@@ -1517,6 +1517,186 @@ build AVLTreeStructure.exe: CXX_EXECUTABLE_LINKER__AVLTreeStructure_Debug CMakeF
   TARGET_PDB = AVLTreeStructure.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target TestStructure
+
+
+#############################################
+# Order-only phony target for TestStructure
+
+build cmake_object_order_depends_target_TestStructure: phony || .
+
+build CMakeFiles/TestStructure.dir/DataStructureAndAlgorithm/Test/TestStructure.cpp.obj: CXX_COMPILER__TestStructure_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Test/TestStructure.cpp || cmake_object_order_depends_target_TestStructure
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\TestStructure.dir\DataStructureAndAlgorithm\Test\TestStructure.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\TestStructure.dir
+  OBJECT_FILE_DIR = CMakeFiles\TestStructure.dir\DataStructureAndAlgorithm\Test
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target TestStructure
+
+
+#############################################
+# Link the executable TestStructure.exe
+
+build TestStructure.exe: CXX_EXECUTABLE_LINKER__TestStructure_Debug CMakeFiles/TestStructure.dir/DataStructureAndAlgorithm/Test/TestStructure.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\TestStructure.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = TestStructure.exe
+  TARGET_IMPLIB = libTestStructure.dll.a
+  TARGET_PDB = TestStructure.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target PracticeLinkedList
+
+
+#############################################
+# Order-only phony target for PracticeLinkedList
+
+build cmake_object_order_depends_target_PracticeLinkedList: phony || .
+
+build CMakeFiles/PracticeLinkedList.dir/DataStructureAndAlgorithm/Practice/PracticeLinkedList.cpp.obj: CXX_COMPILER__PracticeLinkedList_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Practice/PracticeLinkedList.cpp || cmake_object_order_depends_target_PracticeLinkedList
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\PracticeLinkedList.dir\DataStructureAndAlgorithm\Practice\PracticeLinkedList.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\PracticeLinkedList.dir
+  OBJECT_FILE_DIR = CMakeFiles\PracticeLinkedList.dir\DataStructureAndAlgorithm\Practice
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PracticeLinkedList
+
+
+#############################################
+# Link the executable PracticeLinkedList.exe
+
+build PracticeLinkedList.exe: CXX_EXECUTABLE_LINKER__PracticeLinkedList_Debug CMakeFiles/PracticeLinkedList.dir/DataStructureAndAlgorithm/Practice/PracticeLinkedList.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PracticeLinkedList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PracticeLinkedList.exe
+  TARGET_IMPLIB = libPracticeLinkedList.dll.a
+  TARGET_PDB = PracticeLinkedList.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target PracticeQueue
+
+
+#############################################
+# Order-only phony target for PracticeQueue
+
+build cmake_object_order_depends_target_PracticeQueue: phony || .
+
+build CMakeFiles/PracticeQueue.dir/DataStructureAndAlgorithm/Practice/PracticeQueue.cpp.obj: CXX_COMPILER__PracticeQueue_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Practice/PracticeQueue.cpp || cmake_object_order_depends_target_PracticeQueue
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\PracticeQueue.dir\DataStructureAndAlgorithm\Practice\PracticeQueue.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\PracticeQueue.dir
+  OBJECT_FILE_DIR = CMakeFiles\PracticeQueue.dir\DataStructureAndAlgorithm\Practice
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PracticeQueue
+
+
+#############################################
+# Link the executable PracticeQueue.exe
+
+build PracticeQueue.exe: CXX_EXECUTABLE_LINKER__PracticeQueue_Debug CMakeFiles/PracticeQueue.dir/DataStructureAndAlgorithm/Practice/PracticeQueue.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PracticeQueue.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PracticeQueue.exe
+  TARGET_IMPLIB = libPracticeQueue.dll.a
+  TARGET_PDB = PracticeQueue.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target PracticeQueueByLinkedList
+
+
+#############################################
+# Order-only phony target for PracticeQueueByLinkedList
+
+build cmake_object_order_depends_target_PracticeQueueByLinkedList: phony || .
+
+build CMakeFiles/PracticeQueueByLinkedList.dir/DataStructureAndAlgorithm/Practice/PracticeQueueByLinkedList.cpp.obj: CXX_COMPILER__PracticeQueueByLinkedList_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Practice/PracticeQueueByLinkedList.cpp || cmake_object_order_depends_target_PracticeQueueByLinkedList
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\PracticeQueueByLinkedList.dir\DataStructureAndAlgorithm\Practice\PracticeQueueByLinkedList.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\PracticeQueueByLinkedList.dir
+  OBJECT_FILE_DIR = CMakeFiles\PracticeQueueByLinkedList.dir\DataStructureAndAlgorithm\Practice
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PracticeQueueByLinkedList
+
+
+#############################################
+# Link the executable PracticeQueueByLinkedList.exe
+
+build PracticeQueueByLinkedList.exe: CXX_EXECUTABLE_LINKER__PracticeQueueByLinkedList_Debug CMakeFiles/PracticeQueueByLinkedList.dir/DataStructureAndAlgorithm/Practice/PracticeQueueByLinkedList.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PracticeQueueByLinkedList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PracticeQueueByLinkedList.exe
+  TARGET_IMPLIB = libPracticeQueueByLinkedList.dll.a
+  TARGET_PDB = PracticeQueueByLinkedList.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target PracticeStack
+
+
+#############################################
+# Order-only phony target for PracticeStack
+
+build cmake_object_order_depends_target_PracticeStack: phony || .
+
+build CMakeFiles/PracticeStack.dir/DataStructureAndAlgorithm/Practice/PracticeStack.cpp.obj: CXX_COMPILER__PracticeStack_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Practice/PracticeStack.cpp || cmake_object_order_depends_target_PracticeStack
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\PracticeStack.dir\DataStructureAndAlgorithm\Practice\PracticeStack.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\PracticeStack.dir
+  OBJECT_FILE_DIR = CMakeFiles\PracticeStack.dir\DataStructureAndAlgorithm\Practice
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PracticeStack
+
+
+#############################################
+# Link the executable PracticeStack.exe
+
+build PracticeStack.exe: CXX_EXECUTABLE_LINKER__PracticeStack_Debug CMakeFiles/PracticeStack.dir/DataStructureAndAlgorithm/Practice/PracticeStack.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PracticeStack.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PracticeStack.exe
+  TARGET_IMPLIB = libPracticeStack.dll.a
+  TARGET_PDB = PracticeStack.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target Stack2
 
 
@@ -2946,6 +3126,8 @@ build LinkedListBai1: phony LinkedListBai1.exe
 
 build Namespace: phony Namespace.exe
 
+build PracticeLinkedList: phony PracticeLinkedList.exe
+
 build PracticePointer: phony PracticePointer.exe
 
 build PracticePointer2: phony PracticePointer2.exe
@@ -2956,7 +3138,13 @@ build PracticePointer4: phony PracticePointer4.exe
 
 build PracticePointer5: phony PracticePointer5.exe
 
+build PracticeQueue: phony PracticeQueue.exe
+
+build PracticeQueueByLinkedList: phony PracticeQueueByLinkedList.exe
+
 build PracticeSet1: phony PracticeSet1.exe
+
+build PracticeStack: phony PracticeStack.exe
 
 build PraticeMultiSet: phony PraticeMultiSet.exe
 
@@ -3018,6 +3206,8 @@ build Struct1: phony Struct1.exe
 
 build StructLibrary: phony StructLibrary.exe
 
+build TestStructure: phony TestStructure.exe
+
 build TranKienPhong_218060786_1: phony TranKienPhong_218060786_1.exe
 
 build TranKienPhong_2180607876_2: phony TranKienPhong_2180607876_2.exe
@@ -3038,7 +3228,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/Practice_DSA/C-C-/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Tran_Kien_Phong_Practice2_A.exe Fix_For_TranKienPhongPractice2A.exe TrueCircularQueueADT.exe QueueByLinkedList.exe 2180607876_TranKienPhong_practice3A.exe 2180607876_TranKienPhong_practice3B.exe 2180607876_TranKienPhong_practice3C.exe 2180607876_TranKienPhong_practice3D.exe 2180607876_TranKienPhong_practice3E.exe 2180607876_TranKienPhong_Practice5_A.exe 2180607876_TranKienPhong_Practice5_B.exe 2180607876_TranKienPhong_Practice5_C.exe 2180607876_TranKienPhong_Practice5_D.exe AVLTreeStructure.exe Stack2.exe Stack3.exe BinaryTree1.exe AVLTree.exe 2180607876_TranKienPhong_Practice4_A.exe 2180607876_TranKienPhong_Practice4_B.exe QueueSolveQuestion3.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Tran_Kien_Phong_Practice2_A.exe Fix_For_TranKienPhongPractice2A.exe TrueCircularQueueADT.exe QueueByLinkedList.exe 2180607876_TranKienPhong_practice3A.exe 2180607876_TranKienPhong_practice3B.exe 2180607876_TranKienPhong_practice3C.exe 2180607876_TranKienPhong_practice3D.exe 2180607876_TranKienPhong_practice3E.exe 2180607876_TranKienPhong_Practice5_A.exe 2180607876_TranKienPhong_Practice5_B.exe 2180607876_TranKienPhong_Practice5_C.exe 2180607876_TranKienPhong_Practice5_D.exe AVLTreeStructure.exe TestStructure.exe PracticeLinkedList.exe PracticeQueue.exe PracticeQueueByLinkedList.exe PracticeStack.exe Stack2.exe Stack3.exe BinaryTree1.exe AVLTree.exe 2180607876_TranKienPhong_Practice4_A.exe 2180607876_TranKienPhong_Practice4_B.exe QueueSolveQuestion3.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
 
 # =============================================================================
 # Built-in targets

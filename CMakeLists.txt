@@ -177,6 +177,27 @@ add_executable(AVLTreeStructure
         DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.cpp
         DataStructureAndAlgorithm/AVLTree/AVLTreeStructure.h)
 
+add_executable(TestStructure
+        DataStructureAndAlgorithm/Test/TestStructure.cpp
+        DataStructureAndAlgorithm/Test/TestStructure.h)
+
+add_executable(PracticeLinkedList
+        DataStructureAndAlgorithm/Practice/PracticeLinkedList.cpp
+        DataStructureAndAlgorithm/Practice/PracticeLinkedList.h)
+
+add_executable(PracticeQueue
+        DataStructureAndAlgorithm/Practice/PracticeQueue.cpp
+        DataStructureAndAlgorithm/Practice/PracticeQueue.h)
+
+add_executable(PracticeQueueByLinkedList
+        DataStructureAndAlgorithm/Practice/PracticeQueueByLinkedList.cpp
+        DataStructureAndAlgorithm/Practice/PracticeQueueByLinkedList.h)
+
+add_executable(PracticeStack
+        DataStructureAndAlgorithm/Practice/PracticeStack.cpp
+        DataStructureAndAlgorithm/Practice/PracticeStack.h)
+
+
 add_executable(Stack2
         DataStructureAndAlgorithm/Stack/Stack2.cpp
         DataStructureAndAlgorithm/Stack/Stack2.h)

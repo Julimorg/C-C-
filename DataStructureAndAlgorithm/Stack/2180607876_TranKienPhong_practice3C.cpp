@@ -226,7 +226,7 @@ int main() {
 
     /* ---- TEST POSTFIX CALCULATE ---- */
 
-    char* expr =zz (char*)"40 6 2 - / 3 * 4 +";
+    char* expr =(char*)"40 6 2 - / 3 * 4 +";
 
     cout << "Postfix: " << expr << endl;
     cout << "Step calculate:\n";
