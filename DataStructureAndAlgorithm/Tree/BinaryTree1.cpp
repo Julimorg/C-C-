@@ -32,6 +32,7 @@ Node *insertNode(Node *root, int data) {
     }
     return root;
 }
+
 Node *findMin(Node *node) {
     while (node->left != NULL) {
         node = node->left;

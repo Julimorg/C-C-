@@ -45,6 +45,7 @@
       <config projectName="Cpp_and_C__" targetName="ArrayADT" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss7" />
       <config projectName="Cpp_and_C__" targetName="PraticeMultiSet" />
+      <config projectName="Cpp_and_C__" targetName="PracticeTree1" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic03" />
       <config projectName="Cpp_and_C__" targetName="Namespace" />
       <config projectName="Cpp_and_C__" targetName="Array2D" />
@@ -113,9 +114,10 @@
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Stack/2180607876_TranKienPhong_practice3C.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Tree/BinaryTree1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Tree/BinaryTree1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PracticeStack.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PracticeStack.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
@@ -195,6 +197,7 @@
     "CMake Application.PracticeQueueByLinkedList.executor": "Run",
     "CMake Application.PracticeSet1.executor": "Run",
     "CMake Application.PracticeStack.executor": "Run",
+    "CMake Application.PracticeTree1.executor": "Run",
     "CMake Application.PraticeMultiSet.executor": "Run",
     "CMake Application.Prefix1.executor": "Run",
     "CMake Application.Prefix2.executor": "Run",
@@ -258,12 +261,7 @@
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.PracticeStack">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.PracticeTree1">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -497,6 +495,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PracticeTree1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="PracticeTree1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="PracticeTree1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PraticeMultiSet" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="PraticeMultiSet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="PraticeMultiSet">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -682,6 +685,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice4_A" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice4_B" />
@@ -729,6 +737,7 @@
       <item itemvalue="CMake Application.PracticePointer" />
       <item itemvalue="CMake Application.PracticeSet1" />
       <item itemvalue="CMake Application.PracticeStack" />
+      <item itemvalue="CMake Application.PracticeTree1" />
       <item itemvalue="CMake Application.PraticeMultiSet" />
       <item itemvalue="CMake Application.Prefix1" />
       <item itemvalue="CMake Application.Prefix2D" />
@@ -829,7 +838,8 @@
       <workItem from="1774244837192" duration="10622000" />
       <workItem from="1774421951598" duration="7647000" />
       <workItem from="1774494578105" duration="7880000" />
-      <workItem from="1774582921960" duration="12632000" />
+      <workItem from="1774582921960" duration="12943000" />
+      <workItem from="1774673127565" duration="10722000" />
     </task>
     <servers />
   </component>
