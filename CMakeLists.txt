@@ -197,6 +197,10 @@ add_executable(PracticeStack
         DataStructureAndAlgorithm/Practice/PracticeStack.cpp
         DataStructureAndAlgorithm/Practice/PracticeStack.h)
 
+add_executable(PracticeAVLTree
+        DataStructureAndAlgorithm/Practice/PracticeAVLTree.cpp
+        DataStructureAndAlgorithm/Practice/PracticeAVLTree.h)
+
 add_executable(PracticeTree1
         DataStructureAndAlgorithm/Practice/PracticeTree1.cpp
         DataStructureAndAlgorithm/Practice/PracticeTree1.h)

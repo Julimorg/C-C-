@@ -44,6 +44,7 @@ F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticeLinkedList
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticeQueue.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticeQueueByLinkedList.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticeStack.dir
+F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticeAVLTree.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/PracticeTree1.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack2.dir
 F:/Programming/Practice_DSA/C-C-/cmake-build-debug/CMakeFiles/Stack3.dir

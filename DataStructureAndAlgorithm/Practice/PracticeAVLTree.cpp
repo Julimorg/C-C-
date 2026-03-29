@@ -1,8 +1,8 @@
 //
-// Created by jianf on 3/27/2026.
+// Created by jianf on 3/29/2026.
 //
 
-#include "TestStructure.h"
+#include "PracticeAVLTree.h"
 #include "iostream"
 #include "stdlib.h"
 
@@ -32,13 +32,10 @@ int max(int a, int b) {
     return ( a > b  ) ? a : b;
 }
 
-
-
 void initQueue (Queue *&q) {
     q->front = NULL;
     q->rear = NULL;
 }
-
 Node *findMind(Node *root) {
     if (root == NULL) return NULL;
     while ( root->left != NULL) {
@@ -362,187 +359,11 @@ Node *insertKeySet(int arr[], int n) {
     }
     return root;
 }
-
-
-
-// ========================== QUESTION 1 - A ==========================
-int sumLeftBranches(Node *root) {
-    if ( root == NULL ) return 0;
-    int leftSum = sumLeftBranches(root->left);
-    int rightSum = sumLeftBranches(root->right);
-
-    if (root->data == leftSum) cout << root->data << " ";
-
-    return leftSum + rightSum + root->data;
-}
-
-// ========================== QUESTION 1 - B ==========================
-
-int sumTree(Node *root) {
-    if ( root == NULL ) return 0;
-    int leftSum = sumTree(root->left);
-    int rightSum = sumTree(root->right);
-
-    return leftSum + rightSum + root->data;
-}
-int countTree(Node *root) {
-    if (root == NULL) return 0;
-    return 1 + countTree(root->left) + countTree(root->right);
-}
-void printAvgBothBranches(Node *root) {
-    if (root == NULL) return;
-
-    int sum   = sumTree(root->left) + sumTree(root->right);
-    int count = countTree(root->left) + countTree(root->right);
-
-    if (count > 0 && root->data * count == sum)
-        cout << root->data << " ";
-
-    printAvgBothBranches(root->left);
-    printAvgBothBranches(root->right);
-}
-
-void checkAvgNode(Node *root, int key) {
-    if (root == NULL) return;
-
-    if (key < root->data) {
-        checkAvgNode(root->left, key);
-    } else if (key > root->data) {
-        checkAvgNode(root->right, key);
-    } else {
-        // Tìm thấy node key=X
-        int sum   = sumTree(root->left) + sumTree(root->right);
-        int count = countTree(root->left) + countTree(root->right);
-
-        if (count > 0 && root->data * count == sum)
-            cout << root->data << " thoa man AVG\n";
-        else
-            cout << root->data << " KHONG thoa man AVG\n";
-    }
-}
-
-// ========================== QUESTION 2 ==========================
-struct SNode {
-    Node *a;
-    Node *b;
-    SNode *next;
-};
-
-struct Stack {
-    SNode *top;
-};
-void initStack (Stack *&s) {
-    s = new Stack;
-    s->top = NULL;
-}
-bool isEmptyStack(Stack *s) {
-    return s->top == NULL;
-}
-void push (Stack *&s, Node *a, Node *b) {
-    SNode *temp = new SNode;
-    temp->a = a;
-    temp->b = b;
-    temp->next = s->top;
-    s->top = temp;
-}
-
-void pop(Stack *&s, Node *&a, Node *&b) {
-    if (isEmptyStack(s)) return;
-    SNode *temp = s->top;
-    a = temp->a;
-    b = temp->b;
-    s->top = temp->next;
-    delete temp;
-}
-
-// -------------------------------------------------------
-// CASE 1: Chỉ check CẤU TRÚC
-// -------------------------------------------------------
-
-// Recursive
-bool isMirrorStructure(Node *left, Node *right) {
-    if (left == NULL && right == NULL) return true;
-    if (left == NULL || right == NULL) return false;
-    return isMirrorStructure(left->left,  right->right) &&
-           isMirrorStructure(left->right, right->left);
-}
-
-bool isSymmetricStructure_Recursive(Node *root) {
-    if (root == NULL) return true;
-    return isMirrorStructure(root->left, root->right);
-}
-
-// Stack
-bool isSymmetricStructure_Stack(Node *root) {
-    if (root == NULL) return true;
-
-    Stack *s;
-    initStack(s);
-    push(s, root->left, root->right);
-
-    while (!isEmptyStack(s)) {
-        Node *L, *R;
-        pop(s, L, R);
-
-        if (L == NULL && R == NULL) continue;
-        if (L == NULL || R == NULL) return false;
-
-        push(s, L->left,  R->right);
-        push(s, L->right, R->left);
-    }
-    return true;
-}
-
-// -------------------------------------------------------
-// CASE 2: Check CẤU TRÚC + GIÁ TRỊ
-// -------------------------------------------------------
-
-// Recursive
-bool isMirrorFull(Node *left, Node *right) {
-    if (left == NULL && right == NULL) return true;
-    if (left == NULL || right == NULL) return false;
-    return (left->data == right->data) &&
-           isMirrorFull(left->left,  right->right) &&
-           isMirrorFull(left->right, right->left);
-}
-
-bool isSymmetricFull_Recursive(Node *root) {
-    if (root == NULL) return true;
-    return isMirrorFull(root->left, root->right);
-}
-
-// Stack
-bool isSymmetricFull_Stack(Node *root) {
-    if (root == NULL) return true;
-
-    Stack *s;
-    initStack(s);
-    push(s, root->left, root->right);
-
-    while (!isEmptyStack(s)) {
-        Node *L, *R;
-        pop(s, L, R);
-
-        if (L == NULL && R == NULL) continue;
-        if (L == NULL || R == NULL) return false;
-        if (L->data != R->data)     return false; // <-- thêm check giá trị
-
-        push(s, L->left,  R->right);
-        push(s, L->right, R->left);
-    }
-    return true;
-}
-
 int main() {
     int keySet1[] = {8,1,9,2,3,6,5,4};
-    int keySet2[] = {10,5, 3,8, 15,11,16};
-
     Node *root = NULL;
-    Node *root2= NULL;
     root = insertKeySet(keySet1, sizeof(keySet1)/sizeof(int));
-    root2 = insertKeySet(keySet2, sizeof(keySet2)/sizeof(int));
     printTreeH(root);
-    printTreeH(root2);
 
     printf ("\n---------\n");
     printf ("PreOrder : ");
@@ -561,27 +382,6 @@ int main() {
     printf ("Level Order : ");
     levelOrder(root);
 
-    printf ("\n---------\n");
-    cout << "Sum at left branches: " << sumLeftBranches(root->left);
-
-    printf ("\n---------\n");
-    cout << "Sum at right branches: " << sumLeftBranches(root->right);
-
-    printf ("\n---------\n");
-    cout << "Sum at all branches: " << sumTree(root);
-
-
-    printf ("\n---------\n");
-
-    cout << " Avg Value : ";
-    printAvgBothBranches(root);
-
-    printf("\n========== QUESTION 2 ==========\n");
-    printf("  [Structure only - Recursive]    : %s\n", isSymmetricStructure_Recursive(root2) ? "YES" : "NO");
-    printf("  [Structure only - Stack]        : %s\n", isSymmetricStructure_Stack(root2)     ? "YES" : "NO");
-    printf("  [Structure + Value - Recursive] : %s\n", isSymmetricFull_Recursive(root2)      ? "YES" : "NO");
-    printf("  [Structure + Value - Stack]     : %s\n", isSymmetricFull_Stack(root2)           ? "YES" : "NO");
-
     printf ("\n-------- DELETE NODE -------\n" );
     root =  deleteNode(root, 10);
     printf ("\n---------\n");
@@ -596,8 +396,6 @@ int main() {
     printf ("\n---------\n");
     printf ("PostOrder : ");
     postOrder(root);
-
-
 
 
 

@@ -1697,6 +1697,42 @@ build PracticeStack.exe: CXX_EXECUTABLE_LINKER__PracticeStack_Debug CMakeFiles/P
   TARGET_PDB = PracticeStack.exe.dbg
 
 # =============================================================================
+# Object build statements for EXECUTABLE target PracticeAVLTree
+
+
+#############################################
+# Order-only phony target for PracticeAVLTree
+
+build cmake_object_order_depends_target_PracticeAVLTree: phony || .
+
+build CMakeFiles/PracticeAVLTree.dir/DataStructureAndAlgorithm/Practice/PracticeAVLTree.cpp.obj: CXX_COMPILER__PracticeAVLTree_unscanned_Debug F$:/Programming/Practice_DSA/C-C-/DataStructureAndAlgorithm/Practice/PracticeAVLTree.cpp || cmake_object_order_depends_target_PracticeAVLTree
+  CONFIG = Debug
+  DEP_FILE = CMakeFiles\PracticeAVLTree.dir\DataStructureAndAlgorithm\Practice\PracticeAVLTree.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  INCLUDES = -IF:/Programming/Practice_DSA/C-C-/Basic
+  OBJECT_DIR = CMakeFiles\PracticeAVLTree.dir
+  OBJECT_FILE_DIR = CMakeFiles\PracticeAVLTree.dir\DataStructureAndAlgorithm\Practice
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target PracticeAVLTree
+
+
+#############################################
+# Link the executable PracticeAVLTree.exe
+
+build PracticeAVLTree.exe: CXX_EXECUTABLE_LINKER__PracticeAVLTree_Debug CMakeFiles/PracticeAVLTree.dir/DataStructureAndAlgorithm/Practice/PracticeAVLTree.cpp.obj
+  CONFIG = Debug
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\PracticeAVLTree.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = PracticeAVLTree.exe
+  TARGET_IMPLIB = libPracticeAVLTree.dll.a
+  TARGET_PDB = PracticeAVLTree.exe.dbg
+
+# =============================================================================
 # Object build statements for EXECUTABLE target PracticeTree1
 
 
@@ -3162,6 +3198,8 @@ build LinkedListBai1: phony LinkedListBai1.exe
 
 build Namespace: phony Namespace.exe
 
+build PracticeAVLTree: phony PracticeAVLTree.exe
+
 build PracticeLinkedList: phony PracticeLinkedList.exe
 
 build PracticePointer: phony PracticePointer.exe
@@ -3266,7 +3304,7 @@ build Variables: phony Variables.exe
 #############################################
 # Folder: F:/Programming/Practice_DSA/C-C-/cmake-build-debug
 
-build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Tran_Kien_Phong_Practice2_A.exe Fix_For_TranKienPhongPractice2A.exe TrueCircularQueueADT.exe QueueByLinkedList.exe 2180607876_TranKienPhong_practice3A.exe 2180607876_TranKienPhong_practice3B.exe 2180607876_TranKienPhong_practice3C.exe 2180607876_TranKienPhong_practice3D.exe 2180607876_TranKienPhong_practice3E.exe 2180607876_TranKienPhong_Practice5_A.exe 2180607876_TranKienPhong_Practice5_B.exe 2180607876_TranKienPhong_Practice5_C.exe 2180607876_TranKienPhong_Practice5_D.exe AVLTreeStructure.exe TestStructure.exe PracticeLinkedList.exe PracticeQueue.exe PracticeQueueByLinkedList.exe PracticeStack.exe PracticeTree1.exe Stack2.exe Stack3.exe BinaryTree1.exe AVLTree.exe 2180607876_TranKienPhong_Practice4_A.exe 2180607876_TranKienPhong_Practice4_B.exe QueueSolveQuestion3.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
+build all: phony Cpp_and_C__.exe Variables.exe Namespace.exe InputOutPut.exe TwoSum1.exe BasicDataTypes.exe ConditionalStatements.exe ForLoop.exe Function.exe BasicArray.exe ArrayDynamicWithFunction.exe BasicVector.exe BasicSet.exe PracticeSet1.exe PraticeMultiSet.exe BasicMap.exe Struct1.exe Array2D.exe ArrayADT.exe StructLibrary.exe Recursion1.exe Fibonacci_1.exe TranKienPhong_218060786_1.exe LinkList1.exe DoublyLinkedList.exe QueueADT.exe QueueLinkedList.exe Tran_Kien_Phong_Practice2_A.exe Fix_For_TranKienPhongPractice2A.exe TrueCircularQueueADT.exe QueueByLinkedList.exe 2180607876_TranKienPhong_practice3A.exe 2180607876_TranKienPhong_practice3B.exe 2180607876_TranKienPhong_practice3C.exe 2180607876_TranKienPhong_practice3D.exe 2180607876_TranKienPhong_practice3E.exe 2180607876_TranKienPhong_Practice5_A.exe 2180607876_TranKienPhong_Practice5_B.exe 2180607876_TranKienPhong_Practice5_C.exe 2180607876_TranKienPhong_Practice5_D.exe AVLTreeStructure.exe TestStructure.exe PracticeLinkedList.exe PracticeQueue.exe PracticeQueueByLinkedList.exe PracticeStack.exe PracticeAVLTree.exe PracticeTree1.exe Stack2.exe Stack3.exe BinaryTree1.exe AVLTree.exe 2180607876_TranKienPhong_Practice4_A.exe 2180607876_TranKienPhong_Practice4_B.exe QueueSolveQuestion3.exe Stack1.exe TranKienPhong_2180607876_2.exe Prefix1.exe Prefix2.exe Prefix2D.exe Bai1.exe PracticePointer.exe PracticePointer2.exe PracticePointer3.exe PracticePointer4.exe PracticePointer5.exe SetMapAss1.exe SetMapAss2.exe SetMapAss3.exe SetMapAss4.exe SetMapAss5.exe SetMapAss6.exe SetMapAss7.exe SetMapAss8.exe SetMapAssBasic01.exe SetMapAssBasic02.exe SetMapAssBasic03.exe SetMapAssBasic04.exe SetMapAssBasic05.exe SetMapAssBasic06.exe SetMapAssBasic07.exe SetMapAssBasic08.exe Bai32.exe Bai30.exe LinkedListBai1.exe
 
 # =============================================================================
 # Built-in targets
