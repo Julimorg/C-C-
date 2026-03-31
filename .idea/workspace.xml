@@ -81,6 +81,7 @@
       <config projectName="Cpp_and_C__" targetName="DoublyLinkedList" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss6" />
       <config projectName="Cpp_and_C__" targetName="QueueADT" />
+      <config projectName="Cpp_and_C__" targetName="2180607876_TranKienPhong_Exam" />
       <config projectName="Cpp_and_C__" targetName="Variables" />
       <config projectName="Cpp_and_C__" targetName="SetMapAss2" />
       <config projectName="Cpp_and_C__" targetName="SetMapAssBasic05" />
@@ -115,55 +116,9 @@
     <list default="true" id="2ef4e53c-bc72-4081-9e49-528593bbb699" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Practice/PracticeTree1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Practice/PracticeTree1.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataStructureAndAlgorithm/Test/TestStructure.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructureAndAlgorithm/Test/TestStructure.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-40b6370284607b9bed58.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2026-03-28T06-31-56-0593.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-2180607876_TranKienPhong_Practice4_A-Debug-b68acaebf01d045f3aed.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-2180607876_TranKienPhong_Practice4_B-Debug-195aa5f67b6438b208b5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-AVLTree-Debug-e00d83d7e3904c4b8bf0.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai1-Debug-2a76e6b0905c947bca9b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai30-Debug-9b2c1b3e187547fd93b8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Bai32-Debug-fa5e2d0669a331dedd2b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-BinaryTree1-Debug-be4944c57696c76ad667.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-LinkedListBai1-Debug-1cbebec635a2fed6452b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer-Debug-4b0070a8db64325d3a67.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer2-Debug-d6940323e3c03381d4fb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer3-Debug-bc788585d43de50adfb6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer4-Debug-bd08d5ca9c5d962f6742.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticePointer5-Debug-1aa57e59022728513610.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-PracticeTree1-Debug-f17c5c412c3b56eb88cb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix1-Debug-b11f7b9739f401050564.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix2-Debug-3c7f6f38696a52bf0dd8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Prefix2D-Debug-f6c408bb398c86afeb2c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-QueueSolveQuestion3-Debug-90567299d8dcb79eb49c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss1-Debug-5dbf889dfc6005fc210d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss2-Debug-173f8f83ebbc36f320d1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss3-Debug-98aebbf4868085d57f19.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss4-Debug-6c704ad95bea46c4913f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss5-Debug-4c4e8bbe42baf77faead.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss6-Debug-86f9cbec4b0b66ff6386.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss7-Debug-a647ca36f61d0e507a52.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAss8-Debug-d0ef4ce6d8d1fababd19.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic01-Debug-0ef63d62ead904f98346.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic02-Debug-21e120ebd5361982344c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic03-Debug-12f59542772fb4c47d4a.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic04-Debug-24730d404c4583b24284.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic05-Debug-01414f1eda5bc691e867.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic06-Debug-71540edfc006c4e4585c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic07-Debug-0f78f1098f068c3959c4.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-SetMapAssBasic08-Debug-d8fb239dc18993690dc5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Stack1-Debug-0685cc01ac2eaf613061.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Stack2-Debug-e9dfc03bedf4c9e56921.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Stack3-Debug-2237fb1d3f16b540849d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-TranKienPhong_2180607876_2-Debug-aa7ad58714b824db34dc.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PracticeTree1.dir/DataStructureAndAlgorithm/Practice/PracticeTree1.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PracticeTree1.dir/DataStructureAndAlgorithm/Practice/PracticeTree1.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PracticeTree1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PracticeTree1.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/compile_commands.json" afterDir="false" />
@@ -199,119 +154,125 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "CMake Application.2180607876_TranKienPhong_Practice4_A.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_Practice4_B.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_Practice5_A.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_Practice5_B.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_Practice5_C.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_practice3A.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_practice3B.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_practice3C.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_practice3D.executor": "Run",
-    "CMake Application.2180607876_TranKienPhong_practice3E.executor": "Run",
-    "CMake Application.AVLTreeStructure.executor": "Run",
-    "CMake Application.Array2D.executor": "Run",
-    "CMake Application.ArrayADT.executor": "Run",
-    "CMake Application.ArrayDynamicWithFunction.executor": "Run",
-    "CMake Application.Bai1.executor": "Run",
-    "CMake Application.Bai30.executor": "Run",
-    "CMake Application.Bai32.executor": "Run",
-    "CMake Application.BasicArray.executor": "Run",
-    "CMake Application.BasicDataTypes.executor": "Run",
-    "CMake Application.BasicMap.executor": "Run",
-    "CMake Application.BasicSet.executor": "Run",
-    "CMake Application.BasicVector.executor": "Run",
-    "CMake Application.BinaryTree1.executor": "Run",
-    "CMake Application.ConditionalStatements.executor": "Run",
-    "CMake Application.Cpp_and_C__.executor": "Run",
-    "CMake Application.Fibonacci_1.executor": "Run",
-    "CMake Application.Fix_For_TranKienPhongPractice2A.executor": "Run",
-    "CMake Application.ForLoop.executor": "Run",
-    "CMake Application.Function.executor": "Run",
-    "CMake Application.InputOutPut.executor": "Run",
-    "CMake Application.LinkList1.executor": "Run",
-    "CMake Application.LinkedListBai1.executor": "Run",
-    "CMake Application.Namespace.executor": "Run",
-    "CMake Application.PracticeAVLTree.executor": "Run",
-    "CMake Application.PracticeLinkedList.executor": "Run",
-    "CMake Application.PracticePointer.executor": "Run",
-    "CMake Application.PracticePointer2.executor": "Run",
-    "CMake Application.PracticePointer4.executor": "Run",
-    "CMake Application.PracticePointer5.executor": "Run",
-    "CMake Application.PracticeQueue.executor": "Run",
-    "CMake Application.PracticeQueueByLinkedList.executor": "Run",
-    "CMake Application.PracticeSet1.executor": "Run",
-    "CMake Application.PracticeStack.executor": "Run",
-    "CMake Application.PracticeTree1.executor": "Run",
-    "CMake Application.PraticeMultiSet.executor": "Run",
-    "CMake Application.Prefix1.executor": "Run",
-    "CMake Application.Prefix2.executor": "Run",
-    "CMake Application.Prefix2D.executor": "Run",
-    "CMake Application.QueueADT.executor": "Run",
-    "CMake Application.QueueByLinkedList.executor": "Run",
-    "CMake Application.Recursion1.executor": "Run",
-    "CMake Application.SetMapAss1.executor": "Run",
-    "CMake Application.SetMapAss2.executor": "Run",
-    "CMake Application.SetMapAss3.executor": "Run",
-    "CMake Application.SetMapAss4.executor": "Run",
-    "CMake Application.SetMapAss5.executor": "Run",
-    "CMake Application.SetMapAss6.executor": "Run",
-    "CMake Application.SetMapAssBasic01.executor": "Run",
-    "CMake Application.SetMapAssBasic02.executor": "Run",
-    "CMake Application.SetMapAssBasic03.executor": "Run",
-    "CMake Application.SetMapAssBasic04.executor": "Run",
-    "CMake Application.SetMapAssBasic05.executor": "Run",
-    "CMake Application.SetMapAssBasic06.executor": "Run",
-    "CMake Application.SetMapAssBasic07.executor": "Run",
-    "CMake Application.Stack1.executor": "Run",
-    "CMake Application.Stack2.executor": "Run",
-    "CMake Application.Stack3.executor": "Run",
-    "CMake Application.Struct1.executor": "Run",
-    "CMake Application.StructLibrary.executor": "Run",
-    "CMake Application.TestStructure.executor": "Run",
-    "CMake Application.TranKienPhong_218060786_1.executor": "Debug",
-    "CMake Application.TranKienPhong_2180607876_2.executor": "Run",
-    "CMake Application.Tran_Kien_Phong_Practice2_A.executor": "Run",
-    "CMake Application.Tran_Kien_Phong_Practice3_A.executor": "Run",
-    "CMake Application.Tran_Kien_Phong_Practice3_B.executor": "Run",
-    "CMake Application.TrueCircularQueueADT.executor": "Run",
-    "CMake Application.Variables.executor": "Run",
-    "CMake Debug.Cpp_and_C__.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/Programming/Practice_DSA/C-C-",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "structure.view.defaults.are.configured": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CMake Application.2180607876_TranKienPhong_Exam.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_Practice4_A.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_Practice4_B.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_Practice5_A.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_Practice5_B.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_Practice5_C.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_practice3A.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_practice3B.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_practice3C.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_practice3D.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.2180607876_TranKienPhong_practice3E.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.AVLTreeStructure.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Array2D.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.ArrayADT.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.ArrayDynamicWithFunction.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Bai1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Bai30.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Bai32.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.BasicArray.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.BasicDataTypes.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.BasicMap.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.BasicSet.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.BasicVector.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.BinaryTree1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.ConditionalStatements.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Cpp_and_C__.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Fibonacci_1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Fix_For_TranKienPhongPractice2A.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.ForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Function.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.InputOutPut.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.LinkList1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.LinkedListBai1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Namespace.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticeAVLTree.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticeLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticePointer.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticePointer2.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticePointer4.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticePointer5.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticeQueue.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticeQueueByLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticeSet1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticeStack.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PracticeTree1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.PraticeMultiSet.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Prefix1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Prefix2.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Prefix2D.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.QueueADT.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.QueueByLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Recursion1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAss1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAss2.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAss3.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAss4.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAss5.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAss6.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAssBasic01.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAssBasic02.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAssBasic03.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAssBasic04.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAssBasic05.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAssBasic06.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.SetMapAssBasic07.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Stack1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Stack2.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Stack3.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Struct1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.StructLibrary.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.TestStructure.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.TranKienPhong_218060786_1.executor&quot;: &quot;Debug&quot;,
+    &quot;CMake Application.TranKienPhong_2180607876_2.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Tran_Kien_Phong_Practice2_A.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Tran_Kien_Phong_Practice3_A.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Tran_Kien_Phong_Practice3_B.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.TrueCircularQueueADT.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Debug.Cpp_and_C__.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Programming/Practice_DSA/C-C-&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.inline.completion&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Programming\File programming\Cpp and C++\DataStructureAndAlgorithm\Array" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.TestStructure">
+  <component name="RunManager" selected="CMake Application.2180607876_TranKienPhong_Exam">
     <configuration name="Cpp_and_C__" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
+    </configuration>
+    <configuration name="2180607876_TranKienPhong_Exam" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="2180607876_TranKienPhong_Exam" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="2180607876_TranKienPhong_Exam">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration name="2180607876_TranKienPhong_Practice4_A" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp_and_C__" TARGET_NAME="2180607876_TranKienPhong_Practice4_A" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Cpp_and_C__" RUN_TARGET_NAME="2180607876_TranKienPhong_Practice4_A">
       <method v="2">
@@ -739,6 +700,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Debug.Cpp_and_C__" />
+      <item itemvalue="CMake Application.2180607876_TranKienPhong_Exam" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice4_A" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice4_B" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_Practice5_A" />
@@ -750,8 +713,8 @@
       <item itemvalue="CMake Application.2180607876_TranKienPhong_practice3C" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_practice3D" />
       <item itemvalue="CMake Application.2180607876_TranKienPhong_practice3E" />
-      <item itemvalue="CMake Application.AVLTree" />
       <item itemvalue="CMake Application.AVLTreeStructure" />
+      <item itemvalue="CMake Application.AVLTree" />
       <item itemvalue="CMake Application.Array2D" />
       <item itemvalue="CMake Application.ArrayADT" />
       <item itemvalue="CMake Application.ArrayDynamicWithFunction" />
@@ -781,9 +744,9 @@
       <item itemvalue="CMake Application.PracticePointer3" />
       <item itemvalue="CMake Application.PracticePointer4" />
       <item itemvalue="CMake Application.PracticePointer5" />
-      <item itemvalue="CMake Application.PracticeQueue" />
-      <item itemvalue="CMake Application.PracticeQueueByLinkedList" />
       <item itemvalue="CMake Application.PracticePointer" />
+      <item itemvalue="CMake Application.PracticeQueueByLinkedList" />
+      <item itemvalue="CMake Application.PracticeQueue" />
       <item itemvalue="CMake Application.PracticeSet1" />
       <item itemvalue="CMake Application.PracticeStack" />
       <item itemvalue="CMake Application.PracticeTree1" />
@@ -824,7 +787,6 @@
       <item itemvalue="CMake Application.TrueCircularQueueADT" />
       <item itemvalue="CMake Application.TwoSum1" />
       <item itemvalue="CMake Application.Variables" />
-      <item itemvalue="CMake Debug.Cpp_and_C__" />
     </list>
     <recent_temporary>
       <list>
@@ -889,7 +851,9 @@
       <workItem from="1774494578105" duration="7880000" />
       <workItem from="1774582921960" duration="12943000" />
       <workItem from="1774673127565" duration="27970000" />
-      <workItem from="1774784839497" duration="8923000" />
+      <workItem from="1774784839497" duration="9837000" />
+      <workItem from="1774849299192" duration="11712000" />
+      <workItem from="1774942396703" duration="8000" />
     </task>
     <servers />
   </component>

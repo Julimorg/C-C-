@@ -51,6 +51,7 @@ int getHeight (Node *root) {
     if (root == NULL) {
         return -1;
     }
+	cout << "================ QUESTION 1 - A" << endl;
     return 1 + max(getHeight(root->left), getHeight(root->right));
 }
 
@@ -580,7 +581,7 @@ int main() {
     printf("  [Structure only - Recursive]    : %s\n", isSymmetricStructure_Recursive(root2) ? "YES" : "NO");
     printf("  [Structure only - Stack]        : %s\n", isSymmetricStructure_Stack(root2)     ? "YES" : "NO");
     printf("  [Structure + Value - Recursive] : %s\n", isSymmetricFull_Recursive(root2)      ? "YES" : "NO");
-    printf("  [Structure + Value - Stack]     : %s\n", isSymmetricFull_Stack(root2)           ? "YES" : "NO");
+    printf("  [Structure + Value - Stack]     : %s\n", isSymmetricFull_Stack(root2 )           ? "YES" : "NO");
 
     printf ("\n-------- DELETE NODE -------\n" );
     root =  deleteNode(root, 10);

@@ -201,6 +201,11 @@ add_executable(PracticeAVLTree
         DataStructureAndAlgorithm/Practice/PracticeAVLTree.cpp
         DataStructureAndAlgorithm/Practice/PracticeAVLTree.h)
 
+
+add_executable(2180607876_TranKienPhong_Exam
+        DataStructureAndAlgorithm/Test/2180607876_TranKienPhong_Exam.cpp
+        DataStructureAndAlgorithm/Test/2180607876_TranKienPhong_Exam.h)
+
 add_executable(PracticeTree1
         DataStructureAndAlgorithm/Practice/PracticeTree1.cpp
         DataStructureAndAlgorithm/Practice/PracticeTree1.h)
